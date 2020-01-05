@@ -1,0 +1,61 @@
+---
+layout: home
+---
+
+<!-- <a class="btn" href= "{{ site.url }}/" >
+  Home
+</a>
+-->
+{% if page.image.feature %}
+<div class="post-image-feature">
+  <img class="feature-image" src=
+  {% if page.image.feature contains 'https' or page.image.feature contains 'http' %}
+  "{{ page.image.feature }}"
+  {% else %}
+  "{{ site.url }}/img/{{ page.image.feature }}"
+  {% endif %}
+  alt="{{ page.title }} feature image">
+
+  {% if page.image.credit %}
+  <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+</div><!-- /.image-wrap -->
+{% endif %}
+
+
+<div id="post">
+  <!-- header -->
+  <header class="post-header">
+    <h1 title="{{ page.title }}">{{ page.title }}</h1>
+  </header>
+
+  <!-- content -->
+  <article class="post-content">
+
+    {{ content }}
+    
+  </article>
+
+   <!-- meta -->
+   <p class="post-meta-container">
+      
+    <!-- categories -->
+    <p class="post-meta">
+    {% if page.categories.size > 0 %}
+      {% for cat in page.categories %}
+        <a class="post-cat" href="{{ site.url }}/categories/#{{ cat }}">{{ cat }}</a>
+        {% unless forloop.last %}
+        {% endunless %}
+      {% endfor %}
+      {% endif %}
+    </p>
+    
+    <!-- date -->
+    <p class="post-meta">
+      <span class="post-date">
+        —{{ page.date | date: "%B %-d %Y" }}
+      </span>
+    </p>
+  </p>
+
+</div>

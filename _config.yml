@@ -1,0 +1,19 @@
+title: recollectives
+description: "a blog by kelly luo"
+url: https://kellyluo.me 
+keywords: ["blog", "kelly luo"]
+name: kelly luo
+  
+# jekyll
+timezone:          America/New_York
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  foot{n}ote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
