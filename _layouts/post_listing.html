@@ -39,7 +39,7 @@ layout: home
       alt="{{ post.title }} feature image">
 
       {% if post.image.credit %}
-      <span class="image-credit">Photo Credit: <a href="{{ post.image.creditlink }}">{{ post.image.credit }}</a></span>
+      <span class="image-credit">photo credit: <a href="{{ post.image.creditlink }}">{{ post.image.credit }}</a></span>
       {% endif %}
     </div>
     {% endif %}
@@ -47,8 +47,8 @@ layout: home
   <p class="post-meta-container">
     <p class="post-meta">
       {% if post.categories.size > 0 %}
-      {% for cat in post.categories %}
-        <a class="post-cat" href="{{ site.url }}/categories/#{{ cat }}">{{ cat }}</a>
+      {% for category in post.categories %}
+        <a class="post-cat" href="{{ site.url }}/tags/#{{ category }}">{{ category }}</a>
         {% unless forloop.last %}
         {% endunless %}
       {% endfor %}
