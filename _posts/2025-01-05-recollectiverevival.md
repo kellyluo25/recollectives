@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 000. new beginnings, origin points
-excerpt: 
+modified: 2020-01-05
 categories: [origins]
 ---
 
