@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "dear boston,"
 published: true
 categories: ["placecards"]
