@@ -1,2 +1,2 @@
-# [recollectives] (http://recollectives.kellyluo.me/)
+# [blog](http://blog.kellyluo.me/)
 recollectives, a blog
