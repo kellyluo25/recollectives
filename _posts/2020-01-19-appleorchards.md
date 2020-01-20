@@ -7,5 +7,5 @@ title: apple orchards
 ---
 frost still clings to the orchard. ice hangs from the branches; it weighs down the weathered wooden skeleton of trees that once stood tall. the leaves have long fallen, the birds departed. nothing left but the howling winds and crunch of ice beneath worn boots. 
 
-in the summer, the apples were sweet and tart. they tasted like and found themselves baked into pies and boiled down to ciders. 
+in the summer, the apples were sweet and tart. they tasted like late summer miracles and found themselves baked into pies and boiled down to ciders. 
 
