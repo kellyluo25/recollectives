@@ -1571,11 +1571,11 @@ ul.tag-cloud {
 
 /* post */ 
 section.post { 
-  margin: 175px 15px 0px;
+  margin: 150px 15px 0px;
 }
 
 .post:first-child {
-  margin-top: 175px;
+  margin-top: 150px;
 }
 
 .back-home a {
