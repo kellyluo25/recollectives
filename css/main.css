@@ -1570,10 +1570,12 @@ ul.tag-cloud {
 
 
 /* post */ 
+/* post on main post-listing */
 section.post { 
   margin: 175px 15px 0px;
 }
 
+/* top post on post-listing */
 .post:first-child {
   margin-top: 125px;
 }
@@ -1615,8 +1617,9 @@ a.read-more {
   padding: 0px 25px;
   font-size: .8em }
 
+/* individual post pages */ 
 #post {
-  padding: 40px 20px 0px 20px; }
+  padding: 125px 20px 0px 20px; }
   #post .post-header {
     margin: 0 auto 40px; }
 
