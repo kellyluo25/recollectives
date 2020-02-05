@@ -1,8 +1,8 @@
 ---
 layout: post
 title: stranger danger
+slug: strangerdanger
 date: 2020-02-05T21:48:23.936Z
-description: the stranger marketplace
 categories: technically
 ---
 Parental wisdom tells you to avoid strangers. Don't talk to strangers. Don't accept candy from strangers. Don't get into a stranger's car. *Well*, that last one doesn't apply anymore.
