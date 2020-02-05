@@ -19,4 +19,4 @@ collections:
       - { label: 'title', name: 'title', widget: 'string' }
       - { label: 'publish date', name: 'date', widget: 'datetime'}
       - { label: 'body', name: 'body', widget: 'markdown' }
-      - { label: 'categories', name: 'tags', widget: 'array' }
+      - { label: 'categories', name: 'tags', widget: 'string' }
