@@ -18,9 +18,6 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
-backend:
-  name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
 
 publish_mode: editorial_workflow
 
