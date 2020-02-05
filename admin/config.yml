@@ -3,7 +3,7 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-  
+
 media_folder: 'images'
 
 collections:
@@ -11,7 +11,7 @@ collections:
     label: 'blog'
     folder: '_posts/'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{fields.slug}}'
     editor:
       preview: false
     fields:
