@@ -17,7 +17,6 @@ collections:
     fields:
       - { label: 'layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'title', name: 'title', widget: 'string' }
+      - { label: 'categories', name: 'categories', widget: 'string' }
       - { label: 'publish date', name: 'date', widget: 'datetime'}
       - { label: 'body', name: 'body', widget: 'markdown' }
-      - { label: 'description', name: 'description', widget: 'string' }
-      - { label: 'categories', name: 'categories', widget: 'string' }
