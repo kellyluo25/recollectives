@@ -5,9 +5,18 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'images'
 publish_mode: editorial_workflow
+
 collections:
   - name: 'blog'
     label: 'Blog'
     folder: '_posts/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
     fields:
-      - { name: Title }
+      - { label: 'layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'title', name: 'title', widget: 'string' }
+      - { label: 'publish date', name: 'date', widget: 'datetime'}
+      - { label: 'body', name: 'body', widget: 'markdown' }
+      - { label: 'categories', name: 'tags', widget: 'array' }
