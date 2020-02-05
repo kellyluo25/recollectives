@@ -1,7 +1,7 @@
-title: recollectives
+title: "recollectives: a blog by kelly luo"
 description: "a blog by kelly luo"
 url: https://blog.kellyluo.me 
-keywords: ["blog", "kelly luo", "kelly luo harvard"]
+keywords: ["blog", "kelly luo", "kelly luo harvard", "Kelly Luo"]
 name: kelly luo
   
 # jekyll
@@ -17,3 +17,11 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
+
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+publish_mode: editorial_workflow
+
+media_folder: "images"
