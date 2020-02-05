@@ -8,7 +8,7 @@ publish_mode: editorial_workflow
 
 collections:
   - name: 'blog'
-    label: 'Blog'
+    label: 'blog'
     folder: '_posts/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -19,4 +19,5 @@ collections:
       - { label: 'title', name: 'title', widget: 'string' }
       - { label: 'publish date', name: 'date', widget: 'datetime'}
       - { label: 'body', name: 'body', widget: 'markdown' }
-      - { label: 'categories', name: 'tags', widget: 'string' }
+      - { label: 'description', name: 'description', widget: 'string' }
+      - { label: 'categories', name: 'categories', widget: 'string' }
