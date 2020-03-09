@@ -3,7 +3,7 @@ layout: post
 title: p.s. i still love this sequel
 slug: ps i still have thoughts
 date: 2020-02-15T22:52:00.000Z
-categories: 'sending some virtual mail, culture shifts'
+categories: '''virtual mail'', ''culture shifts'''
 ---
 after re-reading the ending of the book last night and re-watching*ps i still love you*earlier today—the last thirty minutes was a poorly paced speedrace to get to that weird floating treehouse kiss scene to end with a neat bow and lost a lot of the charm it had in the first half. in the book, john ambrose got more closure, peter got more jealous (and actually had emotions of his own wow), and lara jean is less flaky/just as indecisive/more sympathetic.
 
