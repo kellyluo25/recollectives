@@ -19,5 +19,5 @@ collections:
       - { label: 'title', name: 'title', widget: 'string' }
       - { label: 'slug', name: 'slug', widget: 'string' }
       - { label: 'publish date', name: 'date', widget: 'datetime'}
-      - { label: 'categories', name: 'categories', widget: 'string' }
+      - { label: 'categories', name: 'categories', widget: 'list' }
       - { label: 'body', name: 'body', widget: 'markdown' }
