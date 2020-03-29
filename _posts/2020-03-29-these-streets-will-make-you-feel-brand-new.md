@@ -1,6 +1,6 @@
 ---
 layout: post
-title: every time I describe a city I am saying something about (new york)
+title: 'every time i describe a city, i am saying something about (new york)'
 slug: these streets will make you feel brand new
 date: 2020-03-23T23:20:24.643Z
 categories:
@@ -10,7 +10,7 @@ categories:
 
 There is nothing static about New York City; it is a constant ebb and flow of shifting gears and moving parts. I have observed the city as it lives and breathes as its own organism. Cities are dynamic, kinetic, and ever-changing: they bleed people and passion. 
 
-<!-- more -->
+<!--more-->
 
 My heart is in New York City. I have seen my neighborhood grow older and mature as small businesses shutter close and undergo dramatic cosmetic changes to become tall residential buildings. I have watched rusty old payphone booths on street corners become supplanted by silver-polished internet hubs, beacons of technology that create an interconnected network of people and devices. 
 
