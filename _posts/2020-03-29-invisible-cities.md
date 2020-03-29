@@ -4,10 +4,9 @@ title: 'with cities, it is as with dreams'
 slug: invisible cities
 date: 2020-03-22T23:05:44.519Z
 categories:
-  - '"bright lights'
-  - big city"
+  - bright lights / big city
 ---
-**bright lights, big city:** *a love letter to cityscapes and the urban form*
+**bright lights / big city:** *a love letter to cityscapes and the urban form*
 
 *Invisible Cities* by Italo Calvino is a literary monument to cities. *Invisible Cities* was the last piece of literature I read in English class before graduating from high school. Calvino’s vivid love letter to cities in all their iterations captured the goodbye I said to my hometown city of New York as I left for a new city—Cambridge. My love for Calvino’s work is rooted in its sentimentality, but also originates in its effortless universality. 
 
