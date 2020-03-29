@@ -8,7 +8,7 @@ categories:
   - technically
   - moving portraits
 ---
-**moving portraits |** a series about how the online and offline interact and collide 
+**moving portraits:** a series about how the online and offline interact and collide 
 
 *Living memory, as told through live performances.* 
 
