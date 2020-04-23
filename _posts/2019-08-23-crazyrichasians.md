@@ -3,7 +3,7 @@ layout: post
 title: how long can a meteor fly for?
 modified: 2013-05-31T00:00:00.000Z
 slug: crazy rich and asian
-date: 2020-04-23T04:08:11.585Z
+date: 2019-08-23T04:08:00.000Z
 categories:
   - culture shifts
   - hues
