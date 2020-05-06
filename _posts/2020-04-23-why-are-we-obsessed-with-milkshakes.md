@@ -1,10 +1,10 @@
 ---
 layout: post
 title: two scoops vanilla, quarter-cup milk, maraschino cherry
-slug: nostalgia works in mysterious ways
+slug: are they always destined to remember
 date: 2020-04-23T04:40:39.070Z
 categories:
-  - if they had past-lives
+  - if they have past-lives
 ---
 We love our milkshakes. It's *the* drink that screams Americana, from the whipped cream and literal cherry on top. 
 
