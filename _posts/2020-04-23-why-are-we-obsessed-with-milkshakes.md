@@ -2,7 +2,7 @@
 layout: post
 title: two scoops vanilla, quarter-cup milk, maraschino cherry
 slug: are they always destined to remember
-date: 2020-04-23T04:40:39.070Z
+date: 2020-05-06T19:15:39.070Z
 categories:
   - if they have past-lives
 ---
