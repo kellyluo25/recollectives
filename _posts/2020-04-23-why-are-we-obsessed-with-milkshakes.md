@@ -4,7 +4,7 @@ title: two scoops vanilla, quarter-cup milk, maraschino cherry
 slug: nostalgia works in mysterious ways
 date: 2020-04-23T04:40:39.070Z
 categories:
-  - past-lives
+  - if they had past-lives
 ---
 We love our milkshakes. It's *the* drink that screams Americana, from the whipped cream and literal cherry on top. 
 
