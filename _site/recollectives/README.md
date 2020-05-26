@@ -1,2 +1,0 @@
-# recollectives
- recollectives, a blog

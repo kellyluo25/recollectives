@@ -1543,7 +1543,7 @@ ul.tag-cloud {
 .post-listing {
   background-color: #fff;
   position: absolute;
-  top: 400px;
+  top: 350px;
   z-index: 225;
   width: 100%;
   padding: 20px 20px;
@@ -1570,12 +1570,14 @@ ul.tag-cloud {
 
 
 /* post */ 
+/* post on main post-listing */
 section.post { 
   margin: 175px 15px 0px;
 }
 
+/* top post on post-listing */
 .post:first-child {
-  margin-top: 175px;
+  margin-top: 125px;
 }
 
 .back-home a {
@@ -1615,8 +1617,9 @@ a.read-more {
   padding: 0px 25px;
   font-size: .8em }
 
+/* individual post pages */ 
 #post {
-  padding: 40px 20px 0px 20px; }
+  padding: 25px 20px 0px 20px; }
   #post .post-header {
     margin: 0 auto 40px; }
 
