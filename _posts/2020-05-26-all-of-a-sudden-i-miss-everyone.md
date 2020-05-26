@@ -15,6 +15,10 @@ Left us disoriented, wandering, directionless.
 
 <!-- more--> 
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 Spring has almost molded into summer by now. Once upon a time, we were untouchable. We were seniors, so close yet so far, and we weren't ready for the world as much as it wasn't ready for us. The fabled day of Commencement, one day in late May 2020, circled on calendars and printed on notices. A storied tradition to celebrate soon-to-be college graduates coming of age.
 
 Then, the axis shift.
@@ -23,11 +27,9 @@ All the details of our reality now would sound fictitious in another timeline. W
 
 Virtual will never be a substitute for the real. The nuance is lost: the coarse grain of paper in your hands, the loud blare of the band in your ears, the frantic adrenaline of the heartbeat in your chest. I used to cautiously hope that there would be an escape hatch. The promise of people gathered in the same physical place once again. Promises, like all those that came before it, are empty. It was easier to keep hope alive in March, when the bandage had first ripped off and the wounds were fresh and stinging. Now they've started to scab and heal over anew, nature's way of protecting us against more trauma.
 
-
-
-
-
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 When you're young, everything matters. What may seem ordinary in retrospect becomes amplified and vibrantly colored in our memory; that's everything our obsessive minds care about inside of our self-important bubbles. Graduation is a lot like that. Once again teetering on the cusp of youth and adulthood, bracing for impact. Soon thereafter, senior year didn't matter; then our grades; and lastly commencement. Twenty-one years of life collapsed into a single space alongside everything that mattered to us up until now.
 
