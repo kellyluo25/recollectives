@@ -13,7 +13,7 @@ Years from now, I wonder what I'll say about what happened. If I'll have more pe
 
 Left us disoriented, wandering, directionless.
 
-<!-- more--> 
+<!--more--> 
 
 &nbsp;
 &nbsp;
