@@ -27,7 +27,7 @@ Spring has almost molded into summer by now. Once upon a time, we were untouchab
 
 Then, the axis shift.
 
-All the details of our reality now would sound fictitious in another timeline. We were robbed by circumstance, a cruel form of emotional grand larceny. The things we lost in the dissonance. No time, no people, no celebration, no goodbyes; nothing but get out and go.
+All the details of our reality now would sound fictitious in another timeline. We were robbed by circumstance, a cruel form of emotional grand larceny. The things we lost in the dissonance. No time, no people, no celebration, no goodbyes; nothing but _get out and go._
 
 Virtual will never be a substitute for the real. The nuance is lost: the coarse grain of paper in your hands, the loud blare of the band in your ears, the frantic adrenaline of the heartbeat in your chest. I used to cautiously hope that there would be an escape hatch. The promise of people gathered in the same physical place once again. Promises, like all those that came before it, are empty. It was easier to keep hope alive in March, when the bandage had first ripped off and the wounds were fresh and stinging. Now they've started to scab and heal over anew, nature's way of protecting us against more trauma.
 
