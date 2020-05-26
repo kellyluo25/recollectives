@@ -13,11 +13,7 @@ Years from now, I wonder what I'll say about what happened. If I'll have more pe
 
 Left us disoriented, wandering, directionless.
 
-
-
-
-
-
+<!-- more--> 
 
 Spring has almost molded into summer by now. Once upon a time, we were untouchable. We were seniors, so close yet so far, and we weren't ready for the world as much as it wasn't ready for us. The fabled day of Commencement, one day in late May 2020, circled on calendars and printed on notices. A storied tradition to celebrate soon-to-be college graduates coming of age.
 
@@ -41,23 +37,11 @@ I won't ever have this memory to hold onto. How I woke up that morning feeling a
 
 I can only construct an imagined pastiche of what I think it was supposed to be. A false memory.
 
-
-
-
-
-
-
 I'm a romantic at heart. I have lofty, wide-eyed ideals about the world and try to sculpt the forces of my life to those presuppositions. I came into college with a lot of expectations, and I cycled through college with constant grievances about how Harvard never met those expectations. A litany of would-haves and should-have-beens: it wasn't what I wanted; I would be happier elsewhere; I wish I could do other things. I thought I would have a lot of regrets about the things I did and didn't do during college when I got to the end.
 
 Now that I'm finally at the end, I'm really at peace. An eerily quiet, pleasant sort of calm. I don't have this urge to wish for a time-turner and search for a reset button for freshman year. I'm grateful for the experiences I got to have and the people I got to meet and the things I got to learn. It wasn't everything, but it was something. Having that, and suddenly realizing how easily everything can be stolen from you, makes you treasure the parts you can keep.
 
 All this chaos has given me clarity. (A lot of confusion too, but a certain lucidity in the madness.)
-
-
-
-
-
-
 
 I thought I would have a lot to say when I got to the end. I thought of the melodramatic goodbye conversations I would have, the handwritten letters and messages with promises to keep in touch, and the personal essays I would write to catalogue the years into succinctly summarized takeaways and lifelong learnings. Over the course of senior year, I started workshopping those words in my head: the goodbye gifts, the tearful dinners and departures, and the apocalyptic preparation for the last time I would see most of these people. When the end came, there were no words left.
 
@@ -67,23 +51,11 @@ I was in mourning. There wasn't much to say because all the poets and songwriter
 
 Nothing about this was perfect, not in the way we had envisaged with our romantic ideals of a spring still to come. It was complicated, excruciating, and if you really read between the lines, traumatic. The weather wasn't warm yet and the Massachusetts winter hadn't seen its last snow. The sun had made its first appearance the week before, the rare glimpse of sunshine that makes even the bitterest of cynics dare to hope again. With 3.75 years behind us, the last 0.25 were supposed to be the most precious. These were the auspicious times when were going to forge our lasting memories of college, a few promised weeks of pure and unadulterated freedom. There were lists of things to do one final time or before time was up, but we all thought we would have the time to do it. The spring was sacrosanct. We had paid our dues and it was the moment to collect.
 
-
-
-
-
-
-
 Boston is the beacon for lost souls. Every fall, a pilgrimage of bright-eyed seventeen and eighteen year olds eagerly land on campus to make their mark on the world. They descend upon the brick and cobblestone of the historic city with their bulky suitcases and fantasies of freedom. Pilgrims on the shore of Plymouth Rock. They are adults yet, still earnest and hungry with a hopeful dose of naiveté.
 
 Some of us will leave Boston and return immediately; we begin our careers and post-grad dreams in the same city that shaped our present. Some of us leave and come back years later; we return as aged-up versions of ourselves to embark onto the next phase of our lives. Some of us leave and never come back.
 
 We have rooted ourselves to the heart of a place for four years, and these institutions have become a fundamental facet of our identity in our young adulthood. To suddenly displace us with an email at 8:00am one Tuesday morning challenges the systematic structures of belonging that have nurtured and comforted us throughout the years. Without a chance to repot and slowly acclimate to fresh soil, we have been uprooted. Pulled up our anchors and became unmoored wayfarers drifting at sea. There is no time left to indulge in the grandeur and ceremony of goodbye; closure will always be a privilege.
-
-
-
-
-
-
 
 I started writing this essay the night I left campus. I started—and then I stopped.
 
@@ -97,31 +69,13 @@ It wouldn't be an emotional essay from me if I didn't quote *To All The Boys* at
 
 I wonder if I've banished those spirits now.
 
-
-
-
-
-
-
 Conventional wisdom told me you're supposed to fall in love in college. We've all said we've loved a lot of things in this lifetime. People, places, passions. I don't know if I was ever supposed to fall in love *with* college, but at the very least, college convinces you that you're meant to find love. It's the kind of love that keeps you up at night, that takes up precious space in the waking moments of your brain. You might not figure out everything you want from life in the span of four years, but you figure some of the things. The things that would break your heart if you had to let them go. The things that did break your heart when you had three days to say goodbye.
 
 College also makes it easy to fall out of love. The easy disillusionment, the jaded regard for the new and old. That's what Tennyson was referring to when he spoke of sorrow; what Winnie the Pooh had to say about goodbyes. The reason we feel the loss is because we had something to hold onto in the first place.
 
 In the end, you do fall in love. Not with another person, but—yourself. You learn yourself in a way you never could at sixteen. You start paying attention to yourself: the way you think, the way you operate and move about the world, and the way you feel.
 
-
-
-
-
-
-
 I'm tired of my grief.
-
-
-
-
-
-
 
 Everyone grieves differently; the stages progress unevenly. You mourn and lament for the time and experiences you'll never get back (that you never had to begin with), and that sorrow weighs heavy on your shoulders. Soon, you'll be buried with it. Emotional whiplash left each one of us reeling. I've done my share of dissociation and screaming and spontaneous crying and getting hopes up too high. Maybe this is acceptance at last.
 
@@ -131,12 +85,6 @@ Light the candles and hold the vigil, scatter its ashes across the continents an
 
 Seal them into airtight compartments and carry those boxes into the attic of your brain. Let a thin layer of dust settle over the surface of your memory. One day—perhaps your fifth, tenth, or twenty-fifty reunion—you'll find the courage to walk up that creaky wooden staircase again. Open a few windows, draw the curtains back, and let the light in.
 
-
-
-
-
-
-
 It's your last morning, and you've already sealed up your last box and zipped up your last suitcase. You put down the half-used roll of packing tape and sit down at your desk and you suddenly start crying. And you can't stop. (An older, maybe wiser, version of yourself will say it was grief; but for now, it's the impenetrable silence in a vacant room.)
 
 You put on the saddest song you know and you sit in a bedroom that's been stripped bare. The walls are stark white again, the command strips peeled down, and the mattress abandoned on the wooden bedframe. You take inventory of what remains: just you in an empty room, and it's almost like you were never here. It would be so easy for the next person to move in and unpack their belongings and start this vicious cycle all over again. In the fall, someone will.
@@ -144,12 +92,6 @@ You put on the saddest song you know and you sit in a bedroom that's been stripp
 So you start writing. Letters are supposed to be your exorcisms, and maybe this will get that sinking feeling out of your chest. You seal them up and that's it—that's all the time you have left.
 
 Then you leave.
-
-
-
-
-
-
 
 I once read somewhere that going through college is like peeling a hard-boiled egg. We begin as a messy mixture of yolk and albumen. College submerges us into boiling hot water and pressure cooks us: the proteins denature and all the soft, amorphous parts of us at eighteen will harden by the time we're twenty-one. These years change us irrevocably and the laws of biology say we can never go back to who we were before. College beats and pries apart every piece of us until we fracture and break open. Whatever sticks by the time the egg emerges from beneath the shell is the version of us that lasts.
 
