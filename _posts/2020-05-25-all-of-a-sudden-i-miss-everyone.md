@@ -131,9 +131,9 @@ Everyone grieves differently; the stages progress unevenly. You mourn and lament
 
 The things I miss, even if I don't miss them now, were real once. They had physical form and took up corporeal space in my life. Endless, sprawling hours spent in the dining hall; conversations that lasted until the early morning; the way I always felt exasperated and exhausted and wonderous and so, so lucky to be here. I might not feel it now, but someday I will: all at once, all of a sudden, I will miss everything.
 
-Light the candles and hold the vigil, scatter its ashes across the continents and seas—because college is over and it is never coming back. Pack up the people and memories into cardboard boxes the same way you did with your clothes and toiletries back in March. The things that mattered then won't matter forever. Store away the sentimentality in a filing cabinet, because otherwise it can consume a person. I've always been good at this part.
+Light the candles and hold the vigil, scatter its ashes across the continents and seas—because college is over and it is never coming back. Pack up the people and memories into cardboard boxes the same way you did with your clothes and momentos back in March. The things that mattered then won't matter forever. Store away the sentimentality in a filing cabinet, because otherwise it can consume a person. I've always been good at this part.
 
-Seal them into airtight compartments and carry those boxes into the attic of your brain. Let a thin layer of dust settle over the surface of your memory. One day—perhaps your fifth, tenth, or twenty-fifty reunion—you'll find the courage to walk up that creaky wooden staircase again. Open a few windows, draw the curtains back, and let the light in.
+Seal them into airtight compartments and carry those boxes into the attic of your brain. Let a thin layer of dust settle over the surface of your memory. One day—perhaps your fifth, tenth, or twenty-fifth reunion—you'll find the courage to walk up that creaky wooden staircase again. Open a few windows, draw the curtains back, and let the light in.
 
 <br />
 <br />
