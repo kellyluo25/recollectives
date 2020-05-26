@@ -1543,7 +1543,7 @@ ul.tag-cloud {
 .post-listing {
   background-color: #fff;
   position: absolute;
-  top: 325px;
+  top: 400px;
   z-index: 225;
   width: 100%;
   padding: 20px 20px;
@@ -1551,7 +1551,7 @@ ul.tag-cloud {
   transform: translate3d(0, 0, 1px); }
   @media only screen and (min-width: 600px) {
     .post-listing {
-      padding: 50px 100px 0px 60px; } 
+      padding: 30px 100px 0px 60px; } 
       }
   @media only screen and (min-width: 992px) {
     .post-listing {
