@@ -386,7 +386,9 @@ td {
   display: table; }
 
 .table-cell {
-  display: table-cell; }
+  display: table-cell;
+  overflow: hidden;
+}
 
 .table-top {
   vertical-align: top; }
