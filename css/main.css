@@ -47,7 +47,8 @@ html {
  */
 body {
   margin: 0; 
-  color: #555555; }
+  color: #555555; 
+}
 
 /* HTML5 display definitions
    ========================================================================== */
@@ -1390,17 +1391,23 @@ pre code {
   width: 100%;
   min-height: 400px;
   padding: 30px 15px 20px;
-  z-index: 1; }
+  overflow: hidden; 
+  z-index: 1; 
+}
+
   @media only screen and (min-width: 800px) {
     .cover {
       background-position: center;
-      padding: 30px; }
+/*      padding: 30px; */
+      }
        }
   @media only screen and (min-width: 992px) {
     .cover {
       height: 100vh;
       position: initial;
-      width: 100%; } }
+      width: 100%; 
+      }
+}
 
 .cover-card {
   color: rgba(0, 0, 0, 0.87);

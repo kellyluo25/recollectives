@@ -17,8 +17,7 @@ i can't recall how many times i've listened to taylor swift's surprise folk-pop 
 
 <!--more-->
 
-
-
+<br />
 
 ### folklore: a review
 
@@ -31,7 +30,8 @@ i heard *folklore* described as a "halcyon album" — her fictionalized songs sp
 this record invites an open contemplation of personal mythology and the stories we tell ourselves and continue to pass down. we will mythologize and tell tales of this era in history for ages to come; and here, taylor swift has woven her own song-stories into the lore. as long as we're still listening.
 
 
-
+<br />
+<br />
 
 
 * *first favorites*: mirrorball, august, cardigan, exile (feat. bon iver), this is me trying
@@ -39,9 +39,14 @@ this record invites an open contemplation of personal mythology and the stories 
 * *need more listens*: illicit affairs, seven, mad woman, epiphany, betty, peace, my tears ricochet
 
 
-
+<br />
+<br />
 
 
 goodbye ***lover***—sunshine in the meadows of a hot july, iridescent sparkles and boozy frosé popsicles, phoenixes rising and pink-purple sunsets, the way light filters and scatters like a rainbow through a prism, and love like a heartbeat that plucks like a guitar chord.
 
 greetings ***folklore***—vanilla candles flickering in the cottage twilight; rain-soaked grass and long walks in the deep dark forest, that story about little red riding hood and her thoughts, her demons as the big bad wolf, and the quiet of isolation and first chills of the fall. we're not out of the woods yet.
+
+
+<br />
+<br />
