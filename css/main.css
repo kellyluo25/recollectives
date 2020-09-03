@@ -1570,7 +1570,8 @@ ul.tag-cloud {
       height: 100vh;
       overflow-y: scroll;
       position: initial;
-      top: 0; } }
+      top: 0; } 
+}
 
 .image-credit {
   float: right;
