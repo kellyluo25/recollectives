@@ -5,7 +5,7 @@ slug: put your records on
 date: 2020-03-29T22:54:55.044Z
 categories:
   - now playing
-  - technically
+  - digital relativity
   - moving portraits
 ---
 **moving portraits:** a series about how the online and offline interact and collide 

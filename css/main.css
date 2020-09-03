@@ -481,13 +481,21 @@ a {
   -o-transition: all 0.1s ease;
   transition: all 0.1s ease; }
 
+
+/*footer*/
+
 footer {
   text-align: center;
   padding-top: 5em;
   padding-bottom: 3em }
-  footer .heart-icon {
-    color: #f83e4b;
-    text-shadow: 0 0 5px #fff, 0 0 10px #f83e4b; }
+}
+
+
+/*pager*/
+#pager {
+    color: var(--lightgray);
+}
+
 
 .related-articles {
   margin-top: 2em; }
@@ -1008,10 +1016,23 @@ a {
 
 a.footer-link {
       text-decoration: none;
-      color: var(--pink); }
-      a:hover, a:focus {
-        color: var(--cornflower);
-        text-decoration: none; }
+      color: var(--pink);
+}
+
+#pager a {
+    color: var(--lightgray);
+    font-size: 14px; 
+}
+
+a.footer-link:hover, #pager a:hover{
+    color: var(--cornflower);
+    font-style: italic;
+}
+
+a:hover, a:focus {
+    color: var(--cornflower);
+    text-decoration: none; 
+}
 
 h1, h2, h3, h4, h5, h6 {
   margin:0 0 1em;
@@ -1470,6 +1491,10 @@ pre code {
     text-transform: lowercase; 
   }
 
+  p.blog_subheading:hover {
+    color: var(--lilac);
+}
+
   @media only screen and (min-width: 992px) {
     .cover-card {
       text-align: left;
@@ -1503,8 +1528,10 @@ ul.tag-cloud {
     ul.tag-cloud li a.post-tag {
       border-radius: 0.2em; }
 
+/* tags - ACTIVE as categories */
+
 .tag-list .tag-group {
-  margin-bottom: 2em; }
+  margin-bottom: 2.5em; }
   .tag-list .tag-group .tag-group-title {
     color: #feafbf;
     font-weight: normal; 
@@ -1512,13 +1539,18 @@ ul.tag-cloud {
     font-size: 1em;
     text-transform: lowercase; }
   .tag-list .tag-group .tag-item {
-    padding-left: 1em;
+    padding-left: 2em;
     margin-bottom: .5em; }
     .tag-list .tag-group .tag-item a {
       color: #555555}
       .tag-list .tag-group .tag-item a:hover, .tag-list .tag-group .tag-item a:focus {
         color: #c4daf5;
-          text-decoration: none;}
+        text-decoration: none;}
+.tag-description {
+    margin: 0 0 1.4em auto; 
+    color: var(--lightgray); 
+    font-size: 12px; 
+}
 
 .cat-list .cat-group {
   margin-bottom: 2em; }
@@ -1688,7 +1720,7 @@ a.read-more {
   padding-bottom: 50px;
   min-height: 70vh; }
   #page .page-header {
-    margin: 0 auto 50px; }
+    margin: 50px auto 50px; }
 
 .post-navigation {
   background-color: #f6f6f6;
@@ -1736,4 +1768,14 @@ a.read-more {
     padding: 40px 25px 25px 30px;
     /* position: relative; */
 }
+
+
+/* no selection */
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }

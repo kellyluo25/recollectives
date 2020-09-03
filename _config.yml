@@ -9,7 +9,11 @@ timezone:          America/New_York
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+permalink:         /:year-:month/:title
+
+plugins: 
+  - kramdown
+  - jekyll-paginate-v2
 
 kramdown:
   auto_ids: true
@@ -17,4 +21,14 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
+  
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/blog/page:num/'
+  title: 'page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
 

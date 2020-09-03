@@ -1,3 +1,15 @@
 <footer>
-  <a href="http://blog.kellyluo.me/" class="footer-link">kelly luo</a>
+
+{% if paginator.total_pages > 1 %}    
+  <div id="pager" style="margin-bottom: 40px">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="pager-prev noselect">prev</a><span class="noselect"> &nbsp;  /  &nbsp; </span>
+      {% endif %}
+      {% if paginator.next_page %}<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="pager-next noselect">next</a>
+      {% endif %}
+  </div>
+  {% endif %}
+    
+    
+  <a href="http://blog.kellyluo.me/" class="footer-link noselect">kelly luo</a>
 </footer>

@@ -6,7 +6,7 @@ date: 2020-07-25T18:44:00.000Z
 categories:
   - now playing
   - culture shifts
-  - mythos/logos
+  - mythos / logos
 ---
 
 when the greeks invented the word for myth, they found a place for all the stories they told and would continue to tell for years to come. when they found mythology, they also found logos. the infinite logic of trying to make sense of our own chaos as a people. 

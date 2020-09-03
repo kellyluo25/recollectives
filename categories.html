@@ -4,16 +4,24 @@ title:  tags
 permalink: /tags/
 ---
 
+{% assign sorted_categories = site.categories | sort %}
+
 <div class="tag-list">
-{% for category in site.categories %}
+{% for category in sorted_categories %}
+    
   <div class="tag-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
-    <h5 class="tag-group-title" id="{{ cat_name | slugize }}">{{ category_name }}</h5>
+    <a id="{{ category_name }}"><h5 class="tag-group-title" id="{{ cat_name | slugize }}">{{ category_name }}</h5></a>
+      
+<!-- tags_all in the _date yaml file-->
+    <p class="tag-description">{{ site.data.tags_all[category_name] }}</p>
+      
     {% for post in site.categories[category_name] %}
     <article class="tag-item">
       <a class="tag-item-title" href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
     </article>
     {% endfor %}
   </div>
+    
 {% endfor %}
 </div>

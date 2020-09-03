@@ -43,7 +43,7 @@ layout: home
     <p class="post-meta">
     {% if page.categories.size > 0 %}
       {% for category in page.categories %}
-        <a class="post-cat" href="{{ site.url }}/tags/#{{ category }}">{{ category }}</a>
+        <a class="post-cat" href="{{ site.url }}/tags/#{{ category }}" title="{{ site.data.tags_all[category] }}">{{ category }}</a>
         {% unless forloop.last %}
         {% endunless %}
       {% endfor %}
