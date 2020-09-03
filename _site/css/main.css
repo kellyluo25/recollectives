@@ -23,6 +23,7 @@ html {
 
 /* scrollbar and selection */ 
 
+/*
 ::-webkit-scrollbar{
   height:10px;
   width:5px;
@@ -36,9 +37,33 @@ html {
 ::-webkit-scrollbar-track {
   background:transparent;
 }
+*/
 
+
+    /* scrollbar */
+    
+    ::-webkit-scrollbar {
+    width: 10px;  
+}
+
+    ::-webkit-scrollbar-track {
+        background-color: #cfcfcf;
+        border-left: 4px solid #eee;
+        border-right: 4px solid #eee;
+        border-top:0;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background-color: var(--pink); 
+        border-left: 3px solid #eee;
+        border-right: 4px solid #eee;
+        width: 3px; 
+        border-top:0;
+        border-bottom: 0;
+    }
+    
 ::selection {
-  background: #c4daf5;
+  background: var(--cornflower);
   color: #ffffff;
 }
 
