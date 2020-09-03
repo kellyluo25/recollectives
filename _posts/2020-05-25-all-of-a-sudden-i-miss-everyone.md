@@ -6,7 +6,7 @@ date: 2020-05-26T00:48:30.751Z
 categories:
   - give me a second
   - if they have past-lives
-  - reflections
+  - recollections
 ---
 
 It's jarring to wake up one morning and realize the world has shifted on its axis. The collapsed, insular worldview of a college campus seemingly explodes overnight. The fairytale never gets its happy ending, the music stops, and the screen cuts to black.
