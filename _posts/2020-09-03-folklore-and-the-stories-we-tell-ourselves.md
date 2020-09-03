@@ -30,9 +30,11 @@ this record invites an open contemplation of personal mythology and the stories 
 
 
 
-* *first favorites*: mirrorball, august, cardigan, exile (feat. bon iver), this is me trying\
+
+* *first favorites*: mirrorball, august, cardigan, exile (feat. bon iver), this is me trying
 * *getting warmer*: invisible string, hoax, the 1, the last great american dynasty
 * *need more listens*: illicit affairs, seven, mad woman, epiphany, betty, peace, my tears ricochet
+
 
 
 
