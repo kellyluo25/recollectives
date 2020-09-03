@@ -1465,7 +1465,7 @@ pre code {
   a.blog_name {
     display: block;
     color: var(--pink);
-    font-size: 3em;
+    font-size: 44px;
     letter-spacing: .075em;
     text-transform: lowercase; 
   }
