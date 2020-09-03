@@ -8,6 +8,7 @@ categories:
   - culture shifts
   - mythos/logos
 ---
+
 when the greeks invented the word for myth, they found a place for all the stories they told and would continue to tell for years to come. when they found mythology, they also found logos. the infinite logic of trying to make sense of our own chaos as a people. 
 
 i've always been fascinated by the personal myths we keep close, woven into the fabric of our own folklore. i'm still working on piecing together the stories i tell myself. the stories we keep repeating the same stories even if we know the ending, because maybe this time it will be different. change the lyrics, the setting, the characters. 
@@ -15,6 +16,7 @@ i've always been fascinated by the personal myths we keep close, woven into the 
 i can't recall how many times i've listened to taylor swift's surprise folk-pop album *folklore* since it dropped on midnight, july 24th. who knew the interminable summer of 2020 would coalesce into a surprise autumn from taylor swift? if folklore is a collection of taylor's stories, then it's worth studying why her folklore are the tales that are passed down and whispered around. 
 
 <!--more-->
+
 
 
 
@@ -31,9 +33,11 @@ this record invites an open contemplation of personal mythology and the stories 
 
 
 
+
 * *first favorites*: mirrorball, august, cardigan, exile (feat. bon iver), this is me trying
 * *getting warmer*: invisible string, hoax, the 1, the last great american dynasty
 * *need more listens*: illicit affairs, seven, mad woman, epiphany, betty, peace, my tears ricochet
+
 
 
 

@@ -1383,7 +1383,7 @@ pre code {
   .highlight .il {
     color: #666666; }
 
-/* LAYOUT CSS */
+/* cover + cover-card CSS */
 .cover {
   position: fixed;
   text-align: center;
@@ -1427,12 +1427,15 @@ pre code {
       text-transform: lowercase;
       margin: -5px auto 10px; 
     }
+
   a.blog_name {
     display: block;
     color: var(--pink);
     font-size: 3em;
     letter-spacing: .075em;
-    text-transform: lowercase; }
+    text-transform: lowercase; 
+  }
+
   @media only screen and (min-width: 992px) {
     .cover-card {
       text-align: left;
@@ -1610,7 +1613,11 @@ section.post {
 
 .post-cat {
   font-style: italic; 
-  margin-right: 15px;
+  margin-right: 20px;
+}
+
+a.post-cat:hover {
+  color: var(--cornflower);
 }
 
 a.read-more {
@@ -1619,7 +1626,7 @@ a.read-more {
 
 /* individual post pages */ 
 #post {
-  padding: 25px 20px 0px 20px; }
+  padding: 40px 20px 0px 20px; }
   #post .post-header {
     margin: 0 auto 40px; }
 
