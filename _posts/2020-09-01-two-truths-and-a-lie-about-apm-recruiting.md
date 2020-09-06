@@ -10,6 +10,8 @@ categories:
 
 > "*I think I want to be a PM*." <br /> —all of us, at some point
 
+<br />
+
 There's a lightbulb moment that happens. You hear the magical words product management and a switch goes off in your brain. You see the venn diagram with three interlocking circles and decide you want to be at the exact center of it—tech, business, design. 
 
 Here are two truths and a lie I wish I knew before I started:
