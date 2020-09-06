@@ -1004,7 +1004,8 @@ blockquote {
   position: relative;
   padding-left: 20px;
   font-style: italic;
-  border-left: 3px solid #f5f5f5; }
+  border-left: 3px solid #f5f5f5; 
+}
 
   /* links */
 a {
