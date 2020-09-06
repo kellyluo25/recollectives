@@ -52,7 +52,7 @@ The truth is, it will be hard. Some days will be harder than others. You will fa
 
 The nature of any hyper-competitive endeavor is that everyone else makes it look effortless and easy. It’s okay if you’re struggling and feeling overwhelmed or distressed. Even if they don’t openly acknowledge it, nearly everyone goes through these tumultuous feelings. Acknowledge those feelings and talk about them; then, work on keeping yourself in balance.
 
-**First and foremost, take of of yourself.** Be honest and check-in with yourself during recruiting. It can be an exhausting process and all the prep, interviews, and rejections can take a steep toll on your mental health. Make your mental health a priority and you will be so much happier and fulfilled after the storm of recruiting passes.
+**First and foremost, take care of yourself.** Be candidly honest and check-in with yourself during recruiting. It can be an exhausting process and all the prep, interviews, and rejections can take a steep toll on your mental health. Make your mental health a priority and you will be so much happier and fulfilled after the storm of recruiting passes.
 
 It will work out (*really*, it will). It might not seem like it now or even a few months from now, but eventually it will. You got this.
 
