@@ -18,9 +18,8 @@ Here are two truths and a lie I wish I knew before I started:
 
 <br />
 <br />
-<br />
 
-# truth | practice, practice, practice
+## truth | practice, practice, practice
 
 That quote about *fortune favors the prepared*? It’s true. There's a lot of luck involved in the process, but luck only works in your favor if you're prepared too. 
 
@@ -30,7 +29,6 @@ Interviews are all about skillful improvisation. In the span of minutes, you nee
 
 Repeat until you feel readily familiar with any curveballs that might get thrown your way, but be careful to not go overboard and burn out. The sooner you are comfortable with the format and nature of the interview questions, the sooner you can focus on highlighting your unique strengths and experiences in your responses. The more you understand about the role of a product manager, the more you will think/act/talk like one. The genuinely fun part about most pm interviews is that there are no conventionally “right” answers, but there is a defined process to get you to an answer. Embrace the hypothetical scenarios and trust your product sense.
 
-<br />
 <br />
 <br />
 
@@ -46,7 +44,6 @@ Everyone has a unique origin story into product; what's yours?
 
 <br />
 <br />
-<br />
 
 ## lie | it won't be this hard
 
@@ -60,6 +57,7 @@ It will work out (*really*, it will). It might not seem like it now or even a fe
 
 <br />
 <br />
-<br />
 
 🌟 say [hello](https://twitter.com/kluo25) if you ever want to chat!
+
+<br />
