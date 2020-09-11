@@ -10,7 +10,6 @@
   {% capture name %}{{ site.name }}{% endcapture %}
 {% endif %}
 
-<!--deprecated: strip_newlines-->
 {% if page.excerpt %}
   {% capture excerpt %}{{ page.excerpt | strip_html | truncate: 160 }}{% endcapture %}
 {% else %}
