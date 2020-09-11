@@ -11,9 +11,9 @@
 {% endif %}
 
 {% if page.excerpt %}
-  {% capture description %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% endcapture %}
+  {% capture excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% endcapture %}
 {% else %}
-  {% capture description %}{{ site.description }}{% endcapture %}
+  {% capture excerpt %}{{ site.description }}{% endcapture %}
 {% endif %}
 
 <head>
@@ -30,7 +30,7 @@
     <!-- Primary Meta Tags -->
     <meta name="title" content="{{ page.title }} — a blog by kelly luo">
     
-    <meta name="description" content="{{ page.excerpt }} {{ site.description }}">
+    <meta name="description" content="{{ excerpt }} ">
     <meta name="keywords" content="kelly luo, twitter">
     
     <meta name="robots" content="index, follow">
@@ -41,15 +41,15 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://kellyluo.me/">
     <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:description" content="{{ page.excerpt }} | {{ site.description }}">
-    <meta property="og:image" href="/images/retrospect.jpg">
+    <meta property="og:description" content="{{ excerpt }}">
+    <meta property="og:image" content="https://blog.kellyluo.me/images/retrospect.jpg" href="/images/retrospect.jpg">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="og:url" content="https://kellyluo.me/">
     <meta property="twitter:title" content="{{ page.title }}">
     <meta property="twitter:description" content="{{ page.excerpt }} | {{ site.description }}">
-    <meta property="twitter:image" href="/images/retrospect.jpg">
+    <meta property="twitter:image" content="https://blog.kellyluo.me/images/retrospect.jpg" href="/images/retrospect.jpg">
     
   <!-- ga -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-173560135-1"></script>
