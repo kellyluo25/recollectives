@@ -10,8 +10,9 @@
   {% capture name %}{{ site.name }}{% endcapture %}
 {% endif %}
 
+<!--deprecated: strip_newlines-->
 {% if page.excerpt %}
-  {% capture excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% endcapture %}
+  {% capture excerpt %}{{ page.excerpt | strip_html | truncate: 160 }}{% endcapture %}
 {% else %}
   {% capture excerpt %}{{ site.description }}{% endcapture %}
 {% endif %}
@@ -48,7 +49,7 @@
     <meta property="twitter:card" content="summary_large_image">
     <meta property="og:url" content="https://kellyluo.me/">
     <meta property="twitter:title" content="{{ page.title }}">
-    <meta property="twitter:description" content="{{ page.excerpt }} | {{ site.description }}">
+    <meta property="twitter:description" content="{{ excerpt }}">
     <meta property="twitter:image" content="https://blog.kellyluo.me/images/retrospect.jpg" href="/images/retrospect.jpg">
     
   <!-- ga -->
