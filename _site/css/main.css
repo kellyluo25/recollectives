@@ -1,7 +1,5 @@
 /* css */
 
-
-
 @import url('https://fonts.googleapis.com/css?family=Gelasio:400,400i,700&display=swap');
 
 
@@ -40,14 +38,14 @@ html {
 */
 
 
-    /* scrollbar */
+/* scrollbar */
 
   
     ::-webkit-scrollbar {
     width: 10px;  }
 
     ::-webkit-scrollbar-track {
-        background-color: var(--accentgrey);
+        background-color: var(--lightgrey);
         border-left: 4px solid #eee;
         border-right: 5px solid #eee;
         border-top:0;
@@ -487,7 +485,7 @@ a {
 footer {
   text-align: center;
   padding-top: 5em;
-  padding-bottom: 3em;
+  padding-bottom: 3.5em;
   color: var(--lightgray);
 }
 
@@ -1018,6 +1016,7 @@ blockquote {
 a {
   text-decoration: none;
   color: var(--lilac); }
+
   a:hover, a:focus {
     color: var(--cornflower);
     text-decoration: none; }
@@ -1025,6 +1024,25 @@ a {
 a.footer-link {
       text-decoration: none;
       color: var(--pink);
+}
+
+a.back-link {
+    font-weight: 700; 
+    color: var(--lightgrey);
+    background-image: none;
+    font-size: 12px; 
+}
+
+a.back-link:hover {
+    background-image: linear-gradient(transparent 0, rgba(254, 175, 191	
+,0.50) 0);
+    color: var(--darkgray); 
+    font-style: none; 
+    background-position-y: .70em;
+	background-repeat: no-repeat;
+	transition: background-position .25s ease-in-out;
+    -webkit-transition:all .2s linear;
+    transition: all .2s linear;  
 }
 
 #pager a {
@@ -1500,6 +1518,10 @@ pre code {
     letter-spacing: .075em;
     text-transform: lowercase; 
   }
+
+a.blog_name:hover {
+    color: var(--darkgray)
+}
 
   p.blog_subheading:hover {
     color: var(--lilac);
