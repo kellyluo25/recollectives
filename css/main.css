@@ -1014,10 +1014,10 @@ blockquote {
 }
 
 .post ul, #post ul {
-  list-style: none; /* Remove default bullets */
+  list-style: none;
 }
 
-.post li:before, #post li:before {
+.post ul li:before, #post ul li:before {
   content: "\2022"; 
   color: var(--lightgray); 
   display: inline-block; 
