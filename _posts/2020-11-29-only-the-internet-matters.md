@@ -1,7 +1,7 @@
 ---
 layout: post
 title: the last time the internet was the only place that mattered to us
-slug: internet-as-a-place-that-matters
+slug: only-the-internet-matters
 date: 2020-11-29
 categories:
   - digital relativity
