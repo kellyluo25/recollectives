@@ -1010,7 +1010,20 @@ blockquote {
 
 .post li, #post li {
     margin-bottom: 0.5em; 
-    font-size: 1.4em;
+    font-size: 0.95em;
+}
+
+.post ul, #post ul {
+  list-style: none; /* Remove default bullets */
+}
+
+.post li:before, #post li:before {
+  content: "\2022"; 
+  color: var(--lightgray); 
+  font-weight: bold;
+  display: inline-block; 
+  width: .95em;
+  margin-left: -1em; 
 }
 
   /* links */
