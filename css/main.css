@@ -1020,7 +1020,6 @@ blockquote {
 .post li:before, #post li:before {
   content: "\2022"; 
   color: var(--lightgray); 
-  font-weight: bold;
   display: inline-block; 
   width: .95em;
   margin-left: -1em; 
