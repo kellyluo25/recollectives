@@ -1098,10 +1098,19 @@ h1 {
 
 h2 {
   font-size:1.5em;
-  margin-bottom:.5em;
+  margin: 1.5em 0 0.75em;
   letter-spacing:0.06em;
   word-spacing:0.06em;
-  color: var(--darkgray); 
+  display:inline-block; 
+  /*  padding-bottom: 0.5em;*/
+  background-image: linear-gradient(transparent 0, rgba(254,175,191,0.25) 0);
+	background-position-y: .75em;
+	background-repeat: no-repeat;
+	transition: background-position .25s ease-in-out;
+}
+
+h2:hover {
+	background-position: 0;
 }
 
 
@@ -1759,19 +1768,6 @@ a.read-more {
     color: #555555;
 }
 
-#post h2 {
-  margin: 1.5em 0 0.75em;
-  display:inline-block; 
-/*  padding-bottom: 0.5em;*/
-  background-image: linear-gradient(transparent 0, rgba(254,175,191,0.25) 0);
-	background-position-y: .75em;
-	background-repeat: no-repeat;
-	transition: background-position .25s ease-in-out;
-}
-
-#post h2:hover {
-	background-position: 0;
-}
 
 #post h3 {
   margin: 1.75em 0 1.2em;
