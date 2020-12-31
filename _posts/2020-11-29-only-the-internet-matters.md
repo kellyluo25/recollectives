@@ -23,7 +23,7 @@ essays that i will someday (start and) finish writing:
 <br />
 
 ## the theory of digital relativity
-_we're all writing about the digital world and how we're just living in it_
+###### we're all writing about the digital world and how we're just living in it
 
 #### signed by screenname
 the screenname as a performance of our digital identity that contain the multitudes of who we are as individuals and the complex lives we lead in and outside of the virtual landscape. the way our names take on multiformations depending on where we are and who we're talking to. and how these screennames are scattered throughout our online presence like difference faces of the same person. 

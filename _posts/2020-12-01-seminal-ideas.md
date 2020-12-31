@@ -19,7 +19,7 @@ _**notes on**_ diegesis, intertextuality, skeumorphs, bildungsroman, zeitgeist, 
 
 
 ## diegesis 
-_as it happened, not as it happens_
+###### as it happened, not as it happens
 
 this is storytelling as we know it, passed through the oral tradition (and if lucky, written down), filtered from one person to another. it's how we recount our memories: backwards and forwards like a film reel, recalling the cast and setting and plot points that matter. an insurgent inversion of the show not tell adage.
 
@@ -27,36 +27,36 @@ this is storytelling as we know it, passed through the oral tradition (and if lu
 
 
 ## intertextuality 
-_a shared body of references_
+###### a shared body of references 
 
 shared stories that breakes boundaries of genealogy and geography; or molded into the cultural foundations or moral architecture to express the abstract and oft ineffeable. it in itself, is also generative, and as much as it contributes to the culture through its own existence, it propagates a larger artistic machine as a fountain of continued inspiration. telling the same story, but imbuing a different meaning each time.
 
 > the shaping of a text's meaning by another text. it is the interconnection between similar or related works of literature that reflect and influence an audience's interpretation of the text. intertextuality is the relation between texts that are inflicted by means of quotations and allusion.
 
 ## bildungsroman 
-_the formative coming of age years_
+###### the formative coming of age years
 
 it's moody, it's enchanting, it's mysterious and alluring.  it builds and builds, builds until it can't take it anymore, and then explodes. we all knew how it felt once. that feeling, however fleeting or precarious or delicate, may never go away.
 
 > a literary genre that focuses on the psychological and moral growth of the protagonist from youth to adulthood, in which character change is important. 
 
 ## skeumorphs 
-_imbuing reality into fiction_
+###### imbuing reality into fiction
 
 if the interpretive archetypes template our sources of inspiration, we can borrow the hallmarks of reality to capture the spirit of its corpeal form. there's something uncertaintly wonderous and awe-inspiring about the ability to render the real in imagined representations of it.
 
- > a derivative object that retains ornamental design cues from structures that were inherent to the original. 
+> a derivative object that retains ornamental design cues from structures that were inherent to the original. 
  
 ## zeitgeist 
- _subconcious aesthetic_
+###### subconcious aesthetic
  
- the only thing that matters in our discourse.
+the only thing that matters in our discourse.
  
- > meaning "spirit of the age", it refers to an invisible agent or force dominating the characteristics of a given epoch in world history.
+> meaning "spirit of the age", it refers to an invisible agent or force dominating the characteristics of a given epoch in world history.
  
  
 ## reflexivity 
-_the self-awareness trap_
+###### the self-awareness trap
 
 a low level of reflexivity would result in an individual shaped largely by their environment or society. a high level of social reflexivity would be defined by an individual shaping their own norms, tastes, politics, desires, and forces of autonomy.
  
@@ -64,7 +64,7 @@ a low level of reflexivity would result in an individual shaped largely by their
  
  
 ## nostalgia 
-_yearning for the yesteryear_
+###### yearning for the yesteryear
 
 seeking psychological equanimity looking at the past through the lens of the present in anticipation for the future.
 
@@ -75,7 +75,7 @@ seeking psychological equanimity looking at the past through the lens of the pre
 <br />
  
 ### the playground
-_ideas i'm nurturing, seeds i'm planting_
+###### ideas i'm nurturing, seeds i'm planting
 
 ## novel of manners
 > a work of fiction that re-creates a social world, conveying with finely detailed observation the customs, values, and mores of a highly developed and complex society.
@@ -86,5 +86,5 @@ _ideas i'm nurturing, seeds i'm planting_
 <br />
 <br />
 
-_**concepts i'm playing with that defy cateogorization**_:
+_**concepts i'm playing with that defy categorization**_:
 self-narrativization, protagonist syndrome, third spaces, moral ecologies
