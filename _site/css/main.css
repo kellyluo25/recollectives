@@ -1085,7 +1085,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 
 /* post */
 h1 {
-  font-size: 1.8em;
+  font-size: 1.8rem;
   font-weight: normal;
   line-height:1.5em;
   margin-bottom:1em;
@@ -1097,11 +1097,20 @@ h1 {
 /* post-listing */
 
 h2 {
-  font-size:1.5em;
-  margin-bottom:.5em;
+  font-size:1.5rem;
+  margin: 1.5em 0 0.75em;
   letter-spacing:0.06em;
   word-spacing:0.06em;
-  color: var(--darkgray); 
+  display:inline-block; 
+  /*  padding-bottom: 0.5em;*/
+  background-image: linear-gradient(transparent 0, rgba(254,175,191,0.25) 0);
+	background-position-y: .75em;
+	background-repeat: no-repeat;
+	transition: background-position .25s ease-in-out;
+}
+
+h2:hover {
+	background-position: 0;
 }
 
 
@@ -1750,32 +1759,20 @@ a.read-more {
     margin: 0 auto 40px; }
 
 #post h1 {
-    font-size:1.8em;
+    font-size:1.8tem;
     font-weight: normal;
     line-height:1.5em;
     margin-bottom:.8em;
     letter-spacing:0.06em;
     word-spacing:0.06em;
-    color: #555555;
+    color: var(--darkgray);
 }
 
-#post h2 {
-  margin: 1.5em 0 0.75em;
-  display:inline-block; 
-/*  padding-bottom: 0.5em;*/
-  background-image: linear-gradient(transparent 0, rgba(254,175,191,0.25) 0);
-	background-position-y: .75em;
-	background-repeat: no-repeat;
-	transition: background-position .25s ease-in-out;
-}
-
-#post h2:hover {
-	background-position: 0;
-}
 
 #post h3 {
   margin: 1.75em 0 1.2em;
   position: relative; 
+  font-size: 1.5rem; 
 }
 
 #page {
