@@ -21,7 +21,7 @@ Take these last three minutes and twenty seven seconds with your hipster glasses
 
 <br />
 
-<span style="margin-left: 15px">*everything will be alright if we just keep—*</span>
+<span style="margin-left: 25px">*everything will be alright if we just keep—*</span>
 
 <br/>
 
@@ -165,7 +165,7 @@ That's where I am now. Newly twenty-two—tired of a year of false promises, and
 
 <br />
 
-<span style="margin-left: 15px">—like we're twenty-two</span>
+<span style="margin-left: 25px">—like we're twenty-two</span>
 
 <br />
 
