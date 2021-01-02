@@ -17,6 +17,8 @@ There's a certain rite of passage when you turn twenty-two. All the major young 
 
 A perfect storm of happy, free, confused, and lonely. 
 
+Take these last three minutes and twenty seven seconds with your hipster glasses and oversized t-shirts. You may never feel this way again, but
+
 <br />
 
 ​					*everything will be alright if we just keep—*
@@ -35,21 +37,19 @@ A perfect storm of happy, free, confused, and lonely.
 
 When we get to that fateful day, the self-referential title serves its fullest purpose. "22" is about turning 22, embracing it, wondering what it's all about. When we play it at the loudest volume our speakers can tolerate and shout the chorus at the top of our lungs, it's the *hoping* and *wanting* and *celebrating* the misery and magic of turning twenty-two in a cursed year.
 
-Take these last three minutes and twenty seven seconds with your hipster glasses and oversized t-shirts. You may never feel this way again, but
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
 When you're a kid, you close your eyes and blow out your candles to count down the days until you become an adult. Twenty-one is supposed to be the last milestone of young adulthood. It's the line in the sand that demarcates *before* and *after*. A concrete moment in time that soon slips past, and the years become quicksand draining to the bottom of the hourglass. There are no more deadlines to meet, just darkness at the finish line.
 
 That treacherous darkness has crept up on us the same year we are turning twenty-two. The same year that was supposed to hold a college graduation, post-graduate travels, moving to a new city, starting a full-time job—now footnotes to an unfathomable tragedy of the commons. To come of age in truly the strangest of times. 
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
 
 2020 has been a typhoon of magic and misery. An agent of chaos that tore through the bedrock of every institution we thought we knew. A year of nothing but bad news and steeply-sloped curves. We have all written and spoken about it at length, and there will never be enough words for it; and furthermore, any attempt to summarize these events in a year-end reflection would be disingenuous. The wounds are still raw and reeling and the nation has never stopped bleeding. We may never recover from the ghosts of living in this haunted madhouse, but the least we can do is shut them in the attic, go downstairs to the living room couch, and watch the sparkling ball drop on the cusp of 2021. 
 
