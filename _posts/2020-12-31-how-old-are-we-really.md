@@ -21,7 +21,7 @@ Take these last three minutes and twenty seven seconds with your hipster glasses
 
 <br />
 
-​					*everything will be alright if we just keep—*
+<span class="margin-left: 15px">*everything will be alright if we just keep—*</span>
 
 <br/>
 
@@ -71,17 +71,13 @@ At the end of December, in the minutes and few hours before the glistening mirro
 
 There's no preamble here on the meaning of happiness and whether it exists or how to attain it. We are all some combination of too disillusioned, despondent, and delirious to debate on happiness. 2020 itself is the prognosis of a bad time; in future years, it will become an omen. When times are bad, we turn to things that we think will make us happy. That matters a lot: finding the small, simple joys in things and holding on whenever possible. 
 
-It's about finding and creating joy where we can. These days, it's in the small things. Receiving a nice email in your inbox;
+It's about finding and creating joy wherever we can. These days, it's in the small things. Receiving a nice email in your inbox; seeing well-wishes in an unexpected text; and people who show up for you even when it's hard. 
 
-from a people who show up for you even when it's hard. I spent quarantine months figuring out what made me happy, because whatever I had up until that point wasn't quite doing it for me. 
-
-I learned to note base my emotional state on the whims of the world.
-
-I clung to empty rituals as a life raft, and when they didn't work, I 
+I spent quarantine months figuring out what made me happy, because whatever I had up until that point wasn't quite doing it for me. I clung to empty rituals as a life raft, and when they didn't work, I found myself spiraling. I am starting to learn how to let go and not base my emotional state on the whims of the world. The world changes so quickly that the emotional whiplash is seldom worth it. Lately, I've been thinking about 
 
 I think I wanted to be angry at myself, but I'm not. A word from the unwise: you should never be angry with yourself; be gentle, be kind.
 
-I have some resolutions for the new year. I haven't written them down yet, 
+I have some resolutions for the new year. I haven't written them down yet, but i'm drafting them and. 
 
 <br/>
 
@@ -167,7 +163,7 @@ That's where I am now. Newly twenty-two—tired of a year of false promises, and
 
 <br />
 
-​					*—like we're twenty-two*
+<span class="margin-left: 15px">—like we're twenty-two*</span>
 
 <br />
 
