@@ -17,6 +17,7 @@ essays that i will someday (start and) finish writing:
 - **lowercase legacies**: all-lowercase writing as a structural condition for internet cognition and communication.
 - **the making of an aesthetic**: the ~ aesthetic ~ as digital ambiance, how they're formed and take shape, and design as a visual language of the online.
 - **online blues: #36465D vs #001935**: tumblr as a genre-defining cornerstone of the internet; how that indie internet conciousness has somehow elevated to the mainstream. 
+- **reacts as the convresational metalayer**: reactions take the complexity of human emotions and render them in bite-sized emoji form. 
 
 <!--more-->
 
@@ -32,7 +33,11 @@ the screenname as a performance of our digital identity that contain the multitu
 how writing in all-lowercase (case in point) became an extension of a lifestyle in the post-2016 internet. how stylistic choice in expression and convenience became a linguistic phenomenon. but as the sapir-whorf hypothesis says, the structure of a language inherently affect our worldview and cognition. what's life when everything's in lowercase?
 
 #### the making of an aesthetic
-aesthetics as digital ambiance. maybe it's how the dusty pastels meet pantone swatches, or the thick serif type meets the occasional slab accent. or maybe it's the blindings neons and bold geometry, minimized by pixels and sharpened by distortion. what are the forms and factors that turn a visual into a style that is recognizable and pervasive on the internet? 
+aesthetics as digital ambiance. maybe it's how the dusty pastels meet pantone swatches, or the thick serif type meets the occasional slab accent. or maybe it's the blinding neons and bold geometry, minimized by pixels and sharpened by distortion. what are the forms and factors that turn a visual into a style that is recognizable and pervasive on the internet? 
 
 #### #36465D vs #001935 
-how that weird teen consciousness that emerged on tumblr in the early 2010s has transformed what we know of modern culture today through its uncanny prescience, useful anonymity, and unparalleled in-jokes.
+how that weird teen consciousness that emerged on tumblr in the early 2010s has transformed what we know of modern culture today through its uncanny prescience, useful anonymity, and unparalleled in-jokes. how the internet we know it today was crafted by these strange humours and awkward, anxious dispositions. 
+
+#### reacts as the conversational metalayer
+
+reactions, diluted down to their base picturesque form. the message conveyed by the text is then superseded by the little bubbles of a smiley face or sad face or thumbs up. a metalayer that exists beyond the bubble of the text itself. it's the instant gratification that the receiver has acknowledged and appreciated our message. in the moments between a message is received and must be responded to, it forces you to process a spectrum of specific emotions within seconds. from happy to sad to angry to frustrated to bemused to sarcastic. elicits an almost pavlovian response, waiting for the dopamine rush to hit.
