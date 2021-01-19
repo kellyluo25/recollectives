@@ -17,7 +17,8 @@ essays that i will someday (start and) finish writing:
 - **lowercase legacies**: all-lowercase writing as a structural condition for internet cognition and communication.
 - **the making of an aesthetic**: the ~ aesthetic ~ as digital ambiance, how they're formed and take shape, and design as a visual language of the online.
 - **online blues: #36465D vs #001935**: tumblr as a genre-defining cornerstone of the internet; how that indie internet conciousness has somehow elevated to the mainstream. 
-- **reacts as the convresational metalayer**: reactions take the complexity of human emotions and render them in bite-sized emoji form. 
+- **reacts as the conversational metalayer**: reactions take the complexity of human emotions and render them in bite-sized emoji form. 
+- **by poor design**: the humans in human-centered design and the inequities in user experience as a reflection of the inequities in humanity.
 
 <!--more-->
 
@@ -41,3 +42,7 @@ how that weird teen consciousness that emerged on tumblr in the early 2010s has 
 #### reacts as the conversational metalayer
 
 reactions, diluted down to their base picturesque form. the message conveyed by the text is then superseded by the little bubbles of a smiley face or sad face or thumbs up. a metalayer that exists beyond the bubble of the text itself. it's the instant gratification that the receiver has acknowledged and appreciated our message. in the moments between a message is received and must be responded to, it forces you to process a spectrum of specific emotions within seconds. from happy to sad to angry to frustrated to bemused to sarcastic. elicits an almost pavlovian response, waiting for the dopamine rush to hit.
+
+#### by poor design (and design for the poor)
+
+we talk about human-centered design, we talk about how we must design for the person first and foremost. that the center of all technology and product we produce is the human (tech is the only industry that calls its customers users, they also say). what kind of humans are we qualified to design for? when we want experiences to feel delightful and luxurious and expensive, who is really the audience and who are we kidding? when technology "democratizes" in the name of fin tech and health tech and civic tech, is it for the rich and assimilated as much as it is for the poor and marginalized?  we have phones and internet, but there is no magic wand that makes these experiences for all; how might these indignities and inequalities be baked in the product itself? 
