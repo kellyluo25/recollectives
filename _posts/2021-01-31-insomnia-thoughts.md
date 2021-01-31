@@ -3,7 +3,7 @@ layout: post
 title: "i can't sleep because i'm thinking about"
 published: true
 slug: insomnia-thoughts
-date: 2021-0131
+date: 2021-01-31
 categories:
   - recollectives
 ---
