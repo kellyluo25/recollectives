@@ -3,7 +3,7 @@ layout: post
 title:  i'm writing a newsletter, she said.
 published: true
 slug: blog turned newsletter
-date:  2021-02-2020
+date:  2021-02-15
 categories:
 
 ---
