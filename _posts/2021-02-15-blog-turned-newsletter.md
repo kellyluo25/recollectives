@@ -5,7 +5,7 @@ published: true
 slug: blog turned newsletter
 date:  2021-02-15
 categories:
-	- collections
+  - collections
 
 ---
 
