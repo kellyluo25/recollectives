@@ -5,7 +5,7 @@ published: true
 slug: how-old-are-we-really
 date: 2020-12-31
 categories:
-  - recollectives
+  - recollections
   - give me a second
 ---
 

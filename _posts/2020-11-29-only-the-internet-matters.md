@@ -6,6 +6,7 @@ date: 2020-11-29
 categories:
   - digital relativity
   - technically
+  - give me a second
 ---
 
 a generation raised by the internet. growing up in a digital headspace with bodies in a physical world. coming of age with the internet as the internet came of age itself. 

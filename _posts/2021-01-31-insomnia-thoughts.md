@@ -5,7 +5,7 @@ published: true
 slug: insomnia-thoughts
 date: 2021-01-31
 categories:
-  - recollectives
+  - recollections
 ---
 
 Sleepless nights when I try to make sense of the confused chaos of my own brain. These are the late hours when I think about: 
