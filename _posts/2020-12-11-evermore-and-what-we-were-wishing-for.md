@@ -2,7 +2,8 @@
 layout: post
 title: evermore; and what we were wishing for
 slug: evermore; and what we were wishing for
-date: 2021-12-11
+published: true
+date: 2020-12-11
 categories:
   - now playing
   - culture shifts
