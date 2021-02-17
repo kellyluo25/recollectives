@@ -1,7 +1,7 @@
 ---
 layout: post
 title: evermore; and what we were wishing for
-slug: evermore; and what we were wishing for
+slug: evermore and what we were wishing for
 published: true
 date: 2020-12-11
 categories:
