@@ -22,7 +22,7 @@ It's this date
 - **my youtube playlist mixtape**
 - **attic-dwellers that live rent-free**: the things i should start charging rent for in my mind
 - **the genius of spotify playlists**
-- **my life into folklore:** grammy predictions after this album snapped us out of our quarantine stupor
+- **spiritfarer:**
 
 
 
