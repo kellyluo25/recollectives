@@ -2,7 +2,7 @@
 layout: post
 title:  collections — no.
 published: false
-slug: collections
+slug: collections-
 date:  2021-02-20
 categories:
   - collections
@@ -23,6 +23,7 @@ It's this date
 - **attic-dwellers that live rent-free**: the things i should start charging rent for in my mind
 - **the genius of spotify playlists**
 - **spiritfarer:**
+- **fighting fire with fire**: the little fires everywhere in a pandemic year
 
 
 
