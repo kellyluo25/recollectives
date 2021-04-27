@@ -4,7 +4,7 @@
 
 
 html {
-  font-family: Gelasio; serif;
+  font-family: Gelasio, serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   
@@ -1116,7 +1116,7 @@ h2:hover {
 
 h3 {
   font-size: 1.5rem;
-  margin: 0.75rem 0 0.6rem 0; 
+  margin: 1rem 0 0.6rem 0; 
   color: #787878; 
 }
 
@@ -1770,7 +1770,7 @@ a.read-more {
 
 
 #post h3 {
-  margin: 1.75em 0 1.2em;
+  margin: 2.0em 0 0.75em;
   position: relative; 
   font-size: 1.5rem; 
 }
