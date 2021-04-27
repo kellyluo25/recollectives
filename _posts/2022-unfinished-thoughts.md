@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  collections — no.
+title:  collections — 
 published: false
 slug: collections-
-date:  2021-02-20
+date:  2021-04-26
 categories:
   - collections
 
@@ -15,15 +15,14 @@ categories:
 
 
 
-It's this date
+On this date.
 
 - **romanticizing the forgotten half of the holland tunnel**: jack antonoff & co makes me think about the underdog narrative baked into the jersey suburbs. it's quite literally something i've never thought about until bleachers made music.
 - **half-baked, inchoate thoughts**: why do we always preemptively disclaim our personal opinions by saying they're not fully formed? (i do it too)
 - **my youtube playlist mixtape**
 - **attic-dwellers that live rent-free**: the things i should start charging rent for in my mind
 - **the genius of spotify playlists**
-- **spiritfarer:**
-- **fighting fire with fire**: the little fires everywhere in a pandemic year
+- ready for the red-carpet: obsession with pretty people in pretty outfits
 
 
 
