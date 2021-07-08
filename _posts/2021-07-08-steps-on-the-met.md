@@ -19,7 +19,9 @@ categories:
 
 ###### 
 
-> the scene, ten years ago: a train pulls into grand central; a soft camera shutter; the backseat of a black limousine; central park at the dawn of winter; tight headbands and loose scarves; and here's a secret: happiness does not seem to be on the menu.
+> the scene, ten years ago: 
+>
+> a train pulls into grand central; a soft camera shutter; the backseat of a black limousine; central park at the dawn of winter; tight headbands and loose scarves; and here's a secret: happiness does not seem to be on the menu.
 
 <br />
 
@@ -41,7 +43,7 @@ They don't make shows like this anymore. By all counts, *gossip girl* was a terr
 
 <br />
 
-The music in *gossip girl* was a visceral stylistic choice (listen: [this spotify playlist](https://open.spotify.com/playlist/5LS331Ne16mF0LoD1VGw9H?si=085bae754212401b)). This show was glamorous, glitzy, and gilded: covered in lush excess, with real heart underneath. Shows about these super rich kids with fake friends and 
+The music in *gossip girl* was a visceral stylistic choice (listen: [this spotify playlist](https://open.spotify.com/playlist/5LS331Ne16mF0LoD1VGw9H?si=085bae754212401b)). This show was glamorous, glitzy, and gilded: covered in lush excess, with real heart underneath. 
 
 <br />
 
