@@ -5,7 +5,7 @@ published: false
 slug: collections-
 date:  2021-04-26
 categories:
-  - collections
+  - culture shift
 
 
 
