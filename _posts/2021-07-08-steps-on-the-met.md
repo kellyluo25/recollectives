@@ -43,7 +43,7 @@ They don't make shows like this anymore. By all counts, *gossip girl* was a terr
 
 <br />
 
-The music in *gossip girl* was a visceral stylistic choice (listen: [this spotify playlist](https://open.spotify.com/playlist/5LS331Ne16mF0LoD1VGw9H?si=085bae754212401b)). This show was glamorous, glitzy, and gilded: covered in lush excess, with real heart underneath. In the post-indie rock of the early 2000s to emergent edm-influenced pop of the late 2000s, emerged Josh Schwartz-produced television as a vehicle for musical discovery.
+The music in *gossip girl* was a visceral stylistic choice (listen: [this spotify playlist](https://open.spotify.com/playlist/5LS331Ne16mF0LoD1VGw9H?si=085bae754212401b)). This show was glamorous, glitzy, and golden: covered in lush excess, but beating with a real heart underneath. In the post-indie rock of the early 2000s to emergent edm-influenced pop of the late 2000s, emerged Josh Schwartz-produced television as a vehicle for musical discovery.
 
 <br />
 
