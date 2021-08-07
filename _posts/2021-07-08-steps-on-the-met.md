@@ -1,18 +1,11 @@
 ---
 layout: post
-title:  you're nobody until you're talked about 
+title: you're nobody until you're talked about
 published: true
 slug: steps on the met
-date:  2021-06-29
+date: 2021-06-29
 categories:
-  - collections
-
-
-
-
-
-
-
+  - culture shift
 ---
 
 ###### gossip girl was the greatest show of our generation: ***the prologue***
