@@ -31,10 +31,6 @@ I'm serious: the collective of post-*gossip girl* society thinks and behaves in 
 
 I sat down to write my magnum opus on why *gossip girl* was the greatest show, period. This isn't that post.*
 
-<br />
-
-<br />
-
 <!--more-->
 
 <br />
@@ -61,4 +57,4 @@ The 2021 pilot doesn't quite live up to the musical legacy of its predecessor, b
 
 <br />
 
-*I'm not quite there yet, but perhaps I'll gather these thoughts on paper when I'm feeling particularly sharp pangs of nostalgia during the season finale of the reboot.)
+*I'm not quite there yet, but perhaps I'll gather these thoughts on paper when I'm feeling particularly sharp pangs of nostalgia during the season finale of the reboot.
