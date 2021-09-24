@@ -8,7 +8,6 @@ categories:
   - culture shifts
   - mythos / logos
 ---
-
 when the greeks invented the word for myth, they found a place for all the stories they told and would continue to tell for years to come. when they found mythology, they also found logos. the infinite logic of trying to make sense of our own chaos as a people. 
 
 i've always been fascinated by the personal myths we keep close, woven into the fabric of our own folklore. i'm still working on piecing together the stories i tell myself. the stories we keep repeating even if we know the ending, because maybe this time it will be different. change the lyrics, the setting, the characters. 
@@ -29,10 +28,8 @@ i heard *folklore* described as a "halcyon album" — her fictionalized songs sp
 
 this record invites an open contemplation of personal mythology and the stories we tell ourselves and continue to pass down. we will mythologize and tell tales of this era in history for ages to come; and here, taylor swift has woven her own song-stories into the lore. as long as we're still listening.
 
-
 <br />
 <br />
-
 
 * *first favorites*: mirrorball, august, cardigan, exile (feat. bon iver), this is me trying
 * *getting warmer*: invisible string, hoax, the 1, the last great american dynasty
@@ -55,7 +52,7 @@ greetings ***folklore***—vanilla candles flickering in the cottage twilight; r
 
 ### on the first listen
 
-1. **the 1** — ****the opener! it's a little bit upbeat piano jazz; feels like an old-timey, post wwi perspective. and her love for gatsby-esque references to the roaring twenties. sets a good tone and ambiance for the album to come.
+1. **the 1** — the opener! it's a little bit upbeat piano jazz; feels like an old-timey, post wwi perspective. and her love for gatsby-esque references to the roaring twenties. sets a good tone and ambiance for the album to come.
 2. **cardigan** — the jaunty little piano chord that repeats is fantastic. the music video channels this ethereal, peter pan + wendy flying above the enchanted woodland aesthetic. this is the slowest of her album debut singles and (it's finally one that i like) and establishes this era with such optimism. her lyricism here is a mature evolution of lover.
 3. **the last great american dynasty** — first, i'm in love with this title. second, she loves evoking the americana of the twenties with the robber barons. this is a grown-up sequel to red's "the lucky one"; fits right in with when she dated a kennedy and spent her summers on the cape.
 4. **exile (feat. bon iver)** — hello bon iver ! welcome to the most ambitious musical crossover of all time. (2012 is shaking and would not believe this is happening). i love this and i will keep listening to it. "i think i've seen this film before; and i didn't like the ending." red’s “the last time” (feat. gary lightbody) grew up and got her heart broken again in this duet.
@@ -69,9 +66,9 @@ greetings ***folklore***—vanilla candles flickering in the cottage twilight; r
 12. **mad woman** — repeated piano chords make a return, as does the POV of the vilified woman from lover's "the man." you can tell the concept of this song has been sitting in taylor's subconscious for a while. but it sounds less angry, and more resigned. tired. (and taylor is tired of all of our shit)
 13. **epiphany** — is this her wwii song? there is going to be an indie movie about war released a few years from now that will play this song in the background when the soldier's homecoming doesn't quite work out as expected. "something med school did not cover" (i did laugh).
 14. **betty** — they said this song was about joe alwyn's mom but instead it's about a high school breakup? it's a childish and more naïve in tone; sounds like a vestige of her fearless + speak now days but with bluegrass influences.
-15. **peace** —** "our coming-of-age has come and gone" (this opening lyric is something i've thought about for a long time and will continue to haunt me). the last notes of this has bon iver fingerprints.
+15. **peace** — "our coming-of-age has come and gone" (this opening lyric is something i've thought about for a long time and will continue to haunt me). the last notes of this has bon iver fingerprints.
 16. **hoax** — she certainly likes her blues. at a time rampant with misinformation and conspiracy, she puts a romantic spin on hoaxes. chronologically, this is where present taylor is. fascinating that she ends her "folklore" on the idea of fake lore. what's real; what's not real?
-17. **the lakes [bonus]** — the poets have something to say about this and it's in the way taylor spins a tale of fantasy and yearning out of her own tragedy and turmoil: "tell me what are my words worth?" we all want her to have her happy ending; if she doesn't get it, she'll write it herself.
+17. **the lakes \[bonus]** — the poets have something to say about this and it's in the way taylor spins a tale of fantasy and yearning out of her own tragedy and turmoil: "tell me what are my words worth?" we all want her to have her happy ending; if she doesn't get it, she'll write it herself.
 
 <br />
 <br />
