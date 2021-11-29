@@ -19,7 +19,7 @@ This is an essay about music and memory—not because I have any specific opinio
 
 <br/>
 
-## **the time we woke up to find that summer had gone**
+### **the time we woke up to find that summer had gone**
 
 In the late summer of 2016, I started my freshman year of college. The #9 song on the Billboard charts was a pure pop confection produced by two bedroom DJ ingenues and featuring an on-the-rise indie pop songwriter. During any other season or year, it would be a wholly unremarkable song.  
 
@@ -43,7 +43,7 @@ Maybe the heat warps our memories. Maybe our rose-tinted sunglasses reveal a dif
 
 
 
-## **with some indie record that's much cooler** 
+### **with some indie record that's much cooler** 
 
 It's that time of the year again when Taylor Swift releases a re-recording of a beloved album and I find myself swirling in a tailspin of nostalgia. I've spent the better half of two weeks listening to a ten-minute version of a ballad that was already six minutes long. Nine years later, Taylor's Version revisits that crisp autumn with the patina of navel-gazing wisdom she did not fully possess while heartbroken at twenty-two.
 
@@ -61,7 +61,7 @@ All of this matters because I look at an album eight years later—with Aaron De
 
 
 
-## **something as good as our song**
+### **something as good as our song**
 
 Someday, I will write an essay about the music moment™ and the pure magic of marrying a scene with a soundtrack. But until that day, I'll gush about the deep reverence I hold for music supervision. Functionally, it's the role of selecting and securing tracks for a work of visual media. When done extraordinarily well, music becomes it's own character. It lives and breathes with the contours of the cast and blends into the backdrop.
 
