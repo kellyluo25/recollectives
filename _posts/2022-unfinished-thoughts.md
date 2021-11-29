@@ -22,9 +22,8 @@ On this date.
 - **my youtube playlist mixtape**
 - **attic-dwellers that live rent-free**: the things i should start charging rent for in my mind
 - **the genius of spotify playlists**
-- ready for the red-carpet: obsession with pretty people in pretty outfits
 
-
+  
 
 - 
 
