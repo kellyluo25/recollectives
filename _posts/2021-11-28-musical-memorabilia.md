@@ -12,12 +12,10 @@ categories:
 This is an essay about music and memory—not because I have any specific opinions about music—but because I am acutely aware of the time-travelling nature of sonic textures.
 
 - **the time we woke up to find that summer had gone**: getting closer to the songs of summer
-
 - **with some indie record that's much cooler**: we are who we listen to
-
 - **something as good as our song**: music supervision, and the soundtrack of our lives
 
-  
+
 
 <!--more-->
 
