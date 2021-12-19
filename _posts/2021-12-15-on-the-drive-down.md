@@ -11,7 +11,7 @@ categories:
 
 I spent six hours on a plane flying west-to-east across the country and had some thoughts about the places we go and the things that take us there. 
 
-This is about first texts, shared backseats, and. 
+This is about first texts, shared backseats, and conversational routes. 
 
 <!--more-->
 
@@ -40,6 +40,8 @@ Second, is the fact that in a before-time, I had taken nearly a third of these r
 and I was thinking in the backseat of this car ride I had paid for with my phone—how crazy it once was to share something as close as seats in the backseat of a stranger's car. How there's this hard-to-place intimacy of the proximity against the trivialness of the passing. 
 
 <br /><br />
+
+###### on **conversational routes**
 
 I miss shared walking routes. It used to be the bedrock of knowing people around you, and being able to temporally and geographically orient them in a neighborhood. Having a route to walk with someone on is a signal of famliarity, as in, *you and I are headed in the same direction and having some company is better than no company on our way there*. It's the acknowledgement that both of you are busy, or maybe both of you are bored, but you'd rather talk to each other than nobody at all. Those conversations are always the casual kind: catching up on the comings and goings of their lifem, a funny story that happened to them earlier in the day, or a problem they're facing complicated by the decision they need to make. 
 
