@@ -14,4 +14,4 @@ steven yeun used the phrase "prismatic neurosis" and I haven't been able to shak
 
 
 
-and the mirroball itself is a prism: draws light, and reflects it in every direction. 
+and the mirrorball itself is a prism: draws light, and reflects it in every direction. 

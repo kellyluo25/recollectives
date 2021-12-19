@@ -5,7 +5,7 @@ published: true
 slug: steps on the met
 date: 2021-06-29
 categories:
-  - culture shift
+  - culture shifts
 ---
 
 ###### gossip girl was the greatest show of our generation: ***the prologue***

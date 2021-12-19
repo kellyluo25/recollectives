@@ -5,7 +5,7 @@ published: false
 slug: seasons-twenty-one
 date:  2021-08-08
 categories:
-  - seasons twenty-one
+  - seasons twenty
 
 
 
@@ -34,7 +34,7 @@ It was a cold winter. A slog. I was working at five p.m. and all the light would
 
 I felt vacant. Hollowed out by the past year: one whole year. 
 
-I watched *Mare of Easttown*. Listened to *Sour*, repeatedly, teenage angst on a sonic warpath. I found myself eager to write again, but lost that eagerness as soon as we turned the corner on the solstice. I filled this incessant void called time and played video games, revisited the Pokémon pals of my youth. I took up painting with watercolors, studied up on color theory, and revived pigments from baked slumber with single drops of water.
+There are a few systematic phases to picking up new interests while the world warps in a different direction. I watched *Mare of Easttown*. Listened to *Sour*, repeatedly, as go the chronicles of teenage angst on a sonic warpath. I found myself eager to write again, but lost that eagerness as soon as we turned the corner on the solstice. I filled this incessant void called time by playing video games and revisited the Pokémon pals of my youth. I took up painting with watercolors, studied up on color theory, and revived pigments from pan-baked slumber with drops of water.
 
 
 
@@ -48,6 +48,6 @@ It was good for a while. I wish it was still as great as I'd hoped at the start.
 
 ### fall
 
-###### — | brisk chill
+###### H: 70°F; L: 51°F | brisk chill
 
-When fall begins, we renew. 
+When fall begins, we renew. The leaves they stayed on their branches this year. I was in a different state.
