@@ -60,4 +60,4 @@ and it taught me how little they knew about me, in reality. How they didn't pay 
 
 
 
-[the last time](https://www.youtube.com/watch?v=pCH4QrSx2Jg). i love writing lists. a coherent structure to incoherent vignettes tied together with a loose theme. 
+[the last time](https://www.youtube.com/watch?v=pCH4QrSx2Jg). 

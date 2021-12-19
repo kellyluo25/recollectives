@@ -9,7 +9,7 @@ categories:
 
 ---
 
-I spent six hours on a plane flying west-to-east across the country and had some thoughts about the places we go and the things that take us there. 
+I spent six hours on a plane flying west-to-east across the country and had some thoughts about the places we go, the things that take us there, and (occasionally) the people we're with.
 
 This is about first texts, shared backseats, and conversational routes. 
 
@@ -53,4 +53,8 @@ and I was thinking while walking alone on a new street with broken headphones—
 
 <br /><br />
 
-–[and i was thinking on the drive down](https://youtu.be/nJr_8l0AEWE?t=149)
+[and i was thinking on the drive down.](https://youtu.be/nJr_8l0AEWE?t=149)
+
+—
+
+*a preview*: as the holidays come into season, I'm resolved to finish: (1) a pre-birthday retrospective; (2) a list of people; and (3) a seasonal year-in-review
