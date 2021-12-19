@@ -49,7 +49,7 @@ The consistency of the routine, or even sudden encounter that turns into a share
 
 Perhaps some of my most unexpected encounters have happened on these spontaneously-struck walking conversations with people I had limited famliarity with. An acquaintance or someone I loosely knew once and felt compelled by politeness, each drawn into the orbit of our feet headed in the same directions. These routes are never specific to a person: different conversations, same path. But the instant familiarity still lingers, and what I really miss is the mutality of it. 
 
-and I was thinking while walking alone on a new street with broken headphones—how lovely it is to have the familiarity of a sidewalk conversation with someone else. How you pass so many people in you're life you're never going to talk to, yet some may walk beside you after all.
+and I was thinking while walking alone on a new street with broken headphones—how lovely it is to have the familiarity of a sidewalk conversation with someone else. How you pass so many people you're never going to talk to, yet some may walk beside you after all.
 
 <br /><br />
 
