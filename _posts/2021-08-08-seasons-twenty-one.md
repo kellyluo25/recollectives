@@ -3,7 +3,7 @@ layout: post
 title:  seasons mmxxi
 published: false
 slug: seasons-twenty-one
-date:  2021-08-08
+date:  2021-12-31
 categories:
   - seasons twenty
 
@@ -54,5 +54,4 @@ It was good for a while. I wish it was still as great as I'd hoped at the start.
 
 ###### H: 70°F; L: 51°F | brisk chill
 
-When fall begins, we renew. The leaves they stayed on their branches this year. I was in a different state. I ate so many bowls of ramen (indoors), with many different people. I listened to *Red (Taylor's Version)* every chance I got, and it was like coming back to something broken and great again. 
-
+When fall begins, we renew. The leaves they stayed on their branches this year. I was in a different state. I ate so many bowls of ramen (indoors), with many different people. I listened to *Red (Taylor's Version)* every chance I got, and it was like coming back to something broken and great again. What was once a crumpled piece of paper smoothed out once again.
