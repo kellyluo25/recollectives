@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  seasons mmxxi
-published: false
+published: true
 slug: seasons-twenty-one
 date:  2021-12-30
 categories:
