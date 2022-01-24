@@ -16,7 +16,9 @@ In a past-life, I would write a series about the seasons. I'd use those installm
 
 As the twentieth year of the millennia turned into the twenty-first, the days turned into months and the months have become a year and some change. Just like the rest of us, the seasons are scathing, bitter, and weary.
 
-I read something about the seasons this past year that I'll think about forever: "*the seasons no longer mark the passing of time but various failed bargains with nature.*" I've failed so many times.
+I read something about the seasons this past year that I'll think about forever: "*the seasons no longer mark the passing of time but various failed bargains with nature.*"
+
+I've failed so many times.
 
 <!--more-->
 
@@ -48,7 +50,7 @@ There are a few systematic phases to picking up new interests while the world wa
 
 It was good for a while. I wish it was still as great as I'd hoped at the start. I watched the *Gossip Girl* reboot and this was one of many things I would end up disappointed by this summer. I saw people, real people, for the first time in a little over a year. I started reflecting on the pieces of myself I lost while at home, and everything I had to regain by being out and about once again.
 
-It was a warm summer in the city: some days sweltering, other days mellow and baking. It felt ripe for renewal, and I was planning all the could-be of possibility. Planning up until I learned my lesson, once again, that only the best laid plans go astray. By the end of the season, we were once suspended in doubtful animation. Nothing had really changed after all; but the heat had deluded our beliefs.
+It was a warm summer in the city: some days sweltering, other days mellow and baking. It felt ripe for renewal, and I was planning all the could-be of possibility. Planning up until I learned my lesson, once again, that only the best laid plans go astray. By the end of the season, we were once suspended in doubtful animation. Nothing had really changed after all; but the heat had deluded us into a cozy, sun-speckled fantasy.
 
 
 
@@ -56,7 +58,7 @@ It was a warm summer in the city: some days sweltering, other days mellow and ba
 
 ###### H: 70°F; L: 51°F | brisk chill
 
-When fall begins, we renew. I was in a different state. It wouldn't be the same this time; it may still be. I last left off in the middle of stanza, and resumed in a separate paragraph of my life. 
+When fall begins, we renew. I was in a different state. I last left off in the middle of stanza, and resumed in a separate paragraph of my life. It wouldn't be the same this time; it may still be.
 
 As things crackled and stirred slowly to life, I wondered if this is what it could have been like all this time. I purchased my apartment essentials, rearranged cheap furniture, and put up postcards on a blank white wall; then went grocery shopping and did all the boring, mundane things you have to do when you're out on your own. I ate so many bowls of ramen (indoors), with many different people. I listened to *Red (Taylor's Version)* as late autumn hummed along, and it was like coming back to something broken and great again. What was once a crumpled piece of paper smoothed out upon second thought. And it was fine, and it was fun, and it was finally here in some form. 
 
