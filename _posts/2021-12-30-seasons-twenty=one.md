@@ -14,6 +14,8 @@ categories:
 
 ![seasons twenty-one]({{site.baseurl}}/images/seasons_twentyone.jpg)
 
+<br />
+
 In a past-life, I would write a series about the seasons. I'd use those installments to mark the passage of time and wax poetic about the seasons evolving and bleeding into each other. That as one season ended and another began, we'd keep moving forward: because the seasons would keep changing even as we asked (kindly) for it to stop. Each new season beautifully distinct from the last, but resolute in their transient familiarity.  
 
 As the twentieth year of the millennia turned into the twenty-first, the days turned into months and the months have become a year and some change. Just like the rest of us, the seasons are scathing, bitter, and weary.
