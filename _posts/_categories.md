@@ -12,7 +12,7 @@
 **moving portraits**: how the online and offline interact and collide
 **mythos / logos**: myths, logic, and the stories we tell ourselves
 **now playing**: the soundtrack of our lives
-**origin stories**: birthplaces and the start of something new
+**origin stories**: birthplaces, beginnings, and the start of something new
 **recollections**: a space to collect and recollect
 **paperless post**: longform letters and messages
 **placecards**: postcards from places
