@@ -4,6 +4,10 @@
 
 
 
+ burnt-out ingenues get burned if they continue to flirt with self-delusion.
+
+
+
 I turned twenty-three and. 
 
 The elegy would some something like "relentless self-possession." 
