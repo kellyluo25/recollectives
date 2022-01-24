@@ -20,6 +20,8 @@ I read something about the seasons this past year that I'll think about forever:
 
 I've failed so many times.
 
+![{{site.baseurl}}/images/seasons_twentyone.jpg]()
+
 <!--more-->
 
 <br/>
