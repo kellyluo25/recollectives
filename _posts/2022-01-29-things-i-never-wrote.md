@@ -13,9 +13,9 @@ This is a dangerous, uninhibited look inside my brain. It separates sinew from n
 
 
 
-fiction vs non-fiction
+The closest I've gotten is *[this](https://reading.supply/@kelly/tell-me-something-i-dont-already-know-hGzs5s)* or maybe some other drafts from that first quarantine summer. 
 
-having lived experiences
+  
 
-boggled by our own lives
+### this one thinks i'm a slaughterhouse
 
