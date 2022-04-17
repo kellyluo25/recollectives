@@ -39,7 +39,7 @@ Here are some sentences that cut me open in the last three months:
 
 
 
-### the day job
+## the day job
 
 I was asked recently to describe the kind of writing I do in my daily life, if at all. I described my writing at work as business writing: it spans the transactional to the generative. Transactional in the slack messages and email replies and document comments; a treadmill of following-up on loose ends and exchanging feedback. Generative in the product documentation that establishes the setting of a problem and charts a storyline to resolution.
 

@@ -75,6 +75,20 @@ romance podcasts i guess
 
 
 
+
+
+## bridgerton
+
+###### explaining why the hell i'm obsessed with season 02
+
+
+
+
+
+
+
+
+
 ## this past week
 
 - **watched**: 
