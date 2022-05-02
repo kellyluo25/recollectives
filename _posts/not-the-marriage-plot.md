@@ -11,25 +11,13 @@ categories:
 
 ---
 
-###### collections: a weekly reset
+## not the marriage plot
 
+- self-insert defence of romance genre in romance novels
 
+- romance podcasts (why do we not think there is human emotion that merits deep analysis)
 
-On this date.
-
-- **half-baked, inchoate thoughts**: why do we always preemptively disclaim our personal opinions by saying they're not fully formed? (i do it too)
-
-- **i grew up too quick and i still forgive too slow**
-
-- **my youtube playlist mixtape**
-
-- **attic-dwellers that live rent-free**: the things i should start charging rent for in my mind
-
-- **the genius of spotify playlists**
-
-- **on saturday we're sad girls**
-
-- i find myself enraptured by the desolation of my own self-image
+- the romantic hero (jane austen > joseph campbell)
 
   
 
@@ -42,18 +30,6 @@ On this date.
   <!--more-->
 
   <br/>
-
-### sample
-
-###### one
-
-The 
-
-
-
-## interior pith
-
-###### identity crises on the page
 
 
 
