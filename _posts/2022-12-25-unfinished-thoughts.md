@@ -93,6 +93,12 @@ romance podcasts i guess are my new favorite thing to read/write about
 
 
 
+## screaming crying throwing up
+
+This is one of those things where you had to have been there to know what it really means. If you were a preteen girl once, you get pretty close
+
+
+
 
 
 ## this past week
