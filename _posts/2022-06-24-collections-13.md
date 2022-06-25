@@ -33,7 +33,7 @@ I woke up this morning, on June 24th, and thought about the generation of girls 
 
 The sovereignty of the dystopia isn't waiting for us in an untouchable, far-off future. It sits in a classical building high up on a hill, twisting its hands and thinking it knows best. Its machinations are little pulses of seismic activity: small earthquakes that tremble into full-blown natural disasters across the social topography. For a long while, we've felt the ground sinking beneath our feet. Today, it's swallowing us whole. 
 
-The legends of David v. Goliath persist because when David falls, he gets to get back up. No bruises on his knee or gashes on his palm. Unscathed. When laws and institutions and an entire judicial system fail the girl, she becomes the failure. Judicial precedent cannot save her; somebody made up that word once in old French, and now, precedent is just another word for a stone left unturned. Sometimes, she wonders if precedent is just the word that cowards use when they're scared to face the truth.
+The legend of David v. Goliath persists because when David falls, he gets to get back up. No bruises on his knee or gashes on his palm. Unscathed. When laws and institutions and an entire judicial system fail the girl, she becomes the failure. Judicial precedent cannot save her; somebody made up that word once in old French, and now, precedent is just another word for a stone left unturned. Sometimes, she wonders if precedent is just the word that cowards use when they're scared to face the truth.
 
 I woke up this morning, looked at my phone, and wanted to go back to sleep. I wanted to return to my body, but it doesn't really belong to us anymore, does it. Maybe that's what those movies were trying to tell us all along.
 
@@ -45,7 +45,7 @@ anyway, read [this](https://www.newyorker.com/magazine/2022/07/04/we-are-not-goi
 ## hello girl
 ###### clean girl, material girl, *that* girl 
 
-*Preface*: This is probably part of a longer essay: a piece about girlhood and what that uniquely means to every girl, and the girls we want to be in the forming stage and the girls we've become in the norming stage. The dominant theme is the fracturing. The splintered creation and demolition of various personas, enforced by societal and cultural expectations, that condense into the palatable version of a normal girl. The ideas here explore some of the containers the girls have been put in, and why they're leaders in their category.
+*preface*: This is probably part of a longer essay: a piece about girlhood and what that uniquely means to every girl, and the girls we want to be in the forming stage and the girls we've become in the norming stage. The dominant theme is the fracturing. The splintered creation and demolition of various personas, enforced by societal and cultural expectations, that condense into the palatable version of a normal girl. The ideas here explore some of the containers the girls have been put in, and why they're leaders in their category.
 
 —
 
@@ -53,7 +53,7 @@ In the early aughts, the *it* girl was all the rage. She was an heiress to a sma
 
 Later, the *it* girl became ringarde, too tacky and insincere for a societal order that prized authenticity. A reactionary counterculture swooped in for the girls next door. More girls filed in after: skater girl, boss girl, lulu girl, granola girl, sad girl. Fast-forward to the modern girls of today. 
 
-The material girl likes material things, the fancy clothes and expensive cosmetics the *it* girl prized, but now with the down-to-earth awareness about her self indulgence. The credit card bears her name: she owns what she buys. She buys luxury handbags and linen bedding because she can, because they make her feel great; so why should she be faulted for liking nice things? Why should any girl be ashamed of wanting nice things? The corporatization of femininity is consecrated as a viable business model, but  maybe the material girl wields her material power as an exercise of personal capital. Her things are not what make her valuable, but rather, she treasures her valuables because of her inherent sense of self-worth. 
+The material girl likes material things, the fancy clothes and expensive cosmetics the *it* girl prized, but now with the down-to-earth awareness about her self-indulgence. The credit card bears her name: she owns what she buys. She buys luxury handbags and linen bedding because she can, because they make her feel great; so why should she be faulted for liking nice things? Why should any girl be ashamed of wanting nice things? The corporatization of femininity is consecrated as a viable business model, but  maybe the material girl wields her material power as an exercise of personal capital. Her things are not what make her valuable, but rather, she treasures her valuables because of her inherent sense of self-worth. 
 
 The clean girl is effortless. She practically floats on air, and when she doesn't float, she dons athleisure and performs yoga in a hot studio. She wears makeup, but just so her cheeks embrace a soft rosy glow and her lips glisten with a barely-there rouge. Only so her natural beauty can shine through; she's beautiful inside and out. Cleaning is not a chore, but a cleansing ritual that brings her in harmony with her surroundings. Her cleaning supplies are probably non-toxic, biodegradable. There's extra spinach in her morning smoothies. She is untouchable in the way she ensures nothing harmful could ever come her way.
 
@@ -70,4 +70,4 @@ What's almost worse is how easy it is to become a picture-perfect recreation of 
 - **not watching:** the fleabag-ification of [persuasion](https://www.youtube.com/watch?v=Fz7HmgPJQak). 
 - **read**: *book lovers* by emily henry
 	- such a smart book. knows the tropes of a small town romance and plays those cards so well. 
-- **listened**: *the summer i turned pretty* soundtrack could hardly be more perfect if it tried—taylor, bleachers, olivia, phoebe, carly. *and* bon iver. plus billie and ariana just for kicks.
+- **listening**: *the summer i turned pretty* soundtrack could hardly be more perfect if it tried—taylor, bleachers, olivia, phoebe, carly. *and* bon iver. plus billie and ariana just for kicks.
