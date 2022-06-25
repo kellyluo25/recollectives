@@ -47,7 +47,7 @@ anyway, read [this](https://www.newyorker.com/magazine/2022/07/04/we-are-not-goi
 
 *Preface*: This is probably part of a longer essay: a piece about girlhood and what that uniquely means to every girl, and the girls we want to be in the forming stage and the girls we've become in the norming stage. The dominant theme is the fracturing. The splintered creation and demolition of various personas, enforced by societal and cultural expectations, that condense into the palatable version of a normal girl. The ideas here explore some of the containers the girls have been put in, and why they're leaders in their category.
 
--
+—
 
 In the early aughts, the *it* girl was all the rage. She was an heiress to a small family fortune, who set the tone of what was in (and what was out) with avant-garde looks and ruled the social scene with her a manicured fist of influence. The *it* girl let her privilege radiate out of her pores, wore it like her best perfume. If she wasn't well-liked, she was thoroughly envied. An aura personified as the popular girl in teen films or the cover model of grocery store tabloids. 
 
