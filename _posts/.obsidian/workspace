@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "ec93ca1ed4bf3c7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "76cd6cd00d22ca12",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-06-24-collections-13.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c9185f8545625e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e2db49027e5948f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a2584c1cf143801",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d30e9277207ef712",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.00000190734863,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e458455caf295df4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cabad800cf361f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4245aeb850d2df7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-06-24-collections-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "76cd6cd00d22ca12",
+  "lastOpenFiles": [
+    "2022-06-24-collections-13.md",
+    "not-the-marriage-plot.md",
+    "2022-12-25-unfinished-thoughts.md",
+    "2022-06-04-collections-012.md",
+    "2022-360-days.md",
+    "every-version-of-yourself.md",
+    "on-showing-up.md",
+    "this-is-the-last-time.md",
+    "Untitled.md",
+    "2022-04-12-little-thing-called-spring.md"
+  ]
+}

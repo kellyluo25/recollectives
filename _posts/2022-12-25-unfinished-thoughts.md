@@ -69,8 +69,6 @@ The meta-point is that this is a romance novel wherein the main character is a r
 
 Writers who insert writers (aspiring, burnt out, retired, etc) as their leads.
 
-beach read was kind of a terrible book
-
 
 
 ## reading a romance novel at 2am
@@ -97,6 +95,10 @@ romance podcasts i guess are my new favorite thing to read/write about
 
 This is one of those things where you had to have been there to know what it really means. If you were a preteen girl once, you get pretty close
 
+
+## creation myths 
+
+I miss a beautiful internet. Consumerist creation.
 
 
 

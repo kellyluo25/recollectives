@@ -7,8 +7,6 @@ date:  2021-04-26
 categories:
   - culture shift
 
-
-
 ---
 
 ## not the marriage plot
