@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "collections — no. 013"
-published: false
+published: true
 slug: collections-013
 date:  2022-06-24
 categories:
@@ -67,5 +67,7 @@ What's almost worse is how easy it is to become a picture-perfect recreation of 
 ## this past month
 
 -   **watched**: *the summer i turned pretty*
+	- **not watching:** the fleabag-ification of [persuasion](https://www.youtube.com/watch?v=Fz7HmgPJQak). 
 -   **read**: *book lovers* by emily henry
+	- such a smart book. knows the tropes of a small town romance and plays those cards so well. 
 -   **listened**: *the summer i turned pretty* soundtrack could hardly be more perfect if it tried—taylor, bleachers, olivia, phoebe, carly. *and* bon iver. plus billie and ariana just for kicks.
