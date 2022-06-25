@@ -62,3 +62,10 @@ The clean girl is effortless. She practically floats on air, and when she doesn'
 Some day, these girls will grow up; or maybe they are already grown, but we have a nasty habit of infantilizing women. We press them between pages of dress codes and social etiquette, and hope they're preserved in perfect condition when we're done. They may grow up and read the headlines. They may be grown and listen behind closed doors. 
 
 What's almost worse is how easy it is to become a picture-perfect recreation of these model girls. It's easy with the right capital to architect the right lifestyle. All that's required is buying the right things to compose the tableau. A three-thousand dollar handbag; or a closet full of leggings; a leather-bound lined journal. Buy these things, and you'll become her, approximate. Share the things you buy, and you'll inspire others to be more like you. A pessimist sees a capitalist flywheel; an optimist sees an empire. Girls see nice things and wonder why they can't have them.
+
+
+## this past month
+
+-   **watched**: *the summer i turned pretty*
+-   **read**: *book lovers* by emily henry
+-   **listened**: *the summer i turned pretty* soundtrack could hardly be more perfect if it tried—taylor, bleachers, olivia, phoebe, carly. *and* bon iver. plus billie and ariana just for kicks.
