@@ -9,7 +9,7 @@ timezone:          America/New_York
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         /:year-:month-:/:title
+permalink:         /:year-:month/:title
 
 plugins: 
   - kramdown
