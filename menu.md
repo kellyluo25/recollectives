@@ -17,6 +17,7 @@ let's talk. or we don't have to talk at all. but if we did, try ordering off the
 <br />
 
 **s u m m e r / f a l l &nbsp; 2 0 2 2**
+
 - cultural resets
     - namely, why i can't stop watching shows about rich white people doing terrible rich white things to each other.
     - shows about the restaurant back of house. toxic environments. people really good at their jobs doing their jobs. 
@@ -38,4 +39,25 @@ let's talk. or we don't have to talk at all. but if we did, try ordering off the
     - i wish i fucking wrote that
     
     
+
 or, a longform article i've [read recently](https://lighthouse.kellyluo.me/)
+
+<br /> <br />
+
+**p r i x &nbsp; f i x e**
+
+notes on a worldview, the seminal influences that have made me who i am
+
+
+
+what i’ve spent my whole life trying to put into words, and i’m still looking for the words to say the things i mean; someday soon, i may find them.
+
+
+
+the last time the internet was the only place that mattered to us, and how it reminds you of another time in your life when online was the only thing that mattered.
+
+
+
+tell me something i don’t know, the things i keep writing the same versions of.
+
+
