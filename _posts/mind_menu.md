@@ -1,0 +1,13 @@
+conversations a la carte
+
+- pop culture
+    - namely, why i can't stop watching shows about rich white people doing terrible rich white things to each other
+- "born but not raised"
+    - i read this somewhere in passing, and I keep thinking about the immigrant experience, and also the systems and institutions impressed upon us
+    - i keep saying i was a girl born of the internet. 
+- anthropologizing the first decade of my relationship to tech (from pokémon  to photoshop)
+- tiny living, constant compartmentalization, misplaced wanderlust
+- pokémon
+    - as a cultural good for children: tangible, transactional
+    - why i played it as a kid; why i stopped playing it
+- a longform article i've [bookmarked](https://lighthouse.kellyluo.me/) or read recently

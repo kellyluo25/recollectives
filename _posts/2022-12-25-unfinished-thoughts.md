@@ -101,6 +101,11 @@ This is one of those things where you had to have been there to know what it rea
 I miss a beautiful internet. Consumerist creation.
 
 
+## legibility
+people are so legible. reading people. making yourself legible to someone else. as an expression of trust.
+
+
+
 
 
 ## this past week

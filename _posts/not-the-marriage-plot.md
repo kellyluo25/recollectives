@@ -3,7 +3,7 @@ layout: post
 title:  collections — 
 published: false
 slug: collections-
-date:  2021-04-26
+date:  2022-04-26
 categories:
   - culture shift
 
@@ -60,6 +60,7 @@ romance podcasts i guess are my new favorite thing to read/write about
 ## bridgerton
 
 ###### explaining why the hell i'm obsessed with season 02
+
 
 
 

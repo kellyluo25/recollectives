@@ -26,7 +26,7 @@ permalink: /archive/
     {% endif %}
     {% endunless %}
     <li>
-      <div class="archive-datestamp">{{ post.date | date: "%b %-d" }}</div> <a class="archive-url" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+      <div class="archive-datestamp">{{ post.date | date: "%b %d" }}</div> <a class="archive-url" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     </ul>
 

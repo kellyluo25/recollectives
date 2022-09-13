@@ -4,7 +4,7 @@
 
 
 html {
-  font-family: Gelasio, serif;
+  font-family: Gelasio, Georgia, serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   
@@ -1010,7 +1010,7 @@ blockquote {
 
 .post li, #post li {
     margin-bottom: 0.5em; 
-    font-size: 0.95em;
+    font-size: 1.0em;
 }
 
 .post ul, #post ul {
@@ -1021,7 +1021,7 @@ blockquote {
   content: "\2022"; 
   color: var(--lightgray); 
   display: inline-block; 
-  width: .95em;
+  width: 1.0em;
   margin-left: -1em; 
 }
 
@@ -1158,7 +1158,7 @@ small,
 p {
   margin: 1.4em 0;
   word-spacing: 0.05em;
-  font-size: 0.95em;
+  font-size: 1.0em;
  }
 
 /* buttons  */
@@ -1625,6 +1625,8 @@ ul.tag-cloud {
       .cat-list .cat-group .cat-item a:hover, .cat-list .cat-group .cat-item a:focus {
         color: #fcb4b9; }
 
+/* archive */
+
 .archive #timeline {
   position: relative; }
   .archive #timeline:before {
@@ -1659,12 +1661,15 @@ ul.tag-cloud {
   list-style: none; }
   .archive ul li {
     margin: 1em auto; }
+.archive-url {
+    color: var(--darkgray);
+}
 
 .archive-datestamp {
    width:60px;
    float:left;
    text-transform: lowercase;
-   margin-right: 10px; 
+   margin-right: 24px; 
    color: #999999; 
 }
 
@@ -1759,7 +1764,7 @@ a.read-more {
     margin: 0 auto 40px; }
 
 #post h1 {
-    font-size:1.8tem;
+    font-size:2.0rem;
     font-weight: normal;
     line-height:1.5em;
     margin-bottom:.8em;
@@ -1837,4 +1842,24 @@ a.read-more {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+}
+
+/*for markdown pages turned into html*/
+/* mind menu */
+#page_md li {
+    font-size: 1.0em;
+}
+
+#page_md ul {
+  list-style: none;
+  margin-bottom: 2em; 
+
+}
+
+#page_md ul li:before {
+  content: "\2022"; 
+  color: var(--lightgray); 
+  display: inline-block; 
+  width: 1.0em;
+  margin-left: -1em; 
 }
