@@ -46,18 +46,18 @@ or, a longform article i've [read recently](https://lighthouse.kellyluo.me/)
 
 **p r i x &nbsp; f i x e**
 
-notes on a worldview, the seminal influences that have made me who i am
+[notes on a worldview](https://blog.kellyluo.me/2020-12/seminal-ideas-and-more), the seminal influences that have made me who i am
 
 
 
-what i’ve spent my whole life trying to put into words, and i’m still looking for the words to say the things i mean; someday soon, i may find them.
+[what i’ve spent my whole life trying to put into words](https://blog.kellyluo.me/2020-11/putting-into-words), and i’m still looking for the words to say the things i mean; someday soon, i may find them.
 
 
 
-the last time the internet was the only place that mattered to us, and how it reminds you of another time in your life when online was the only thing that mattered.
+[the last time the internet was the only place that mattered to us](https://blog.kellyluo.me/2020-11/only-the-internet-matters), and how it reminds you of another time in your life when online was the only thing that mattered.
 
 
 
-tell me something i don’t know, the things i keep writing the same versions of.
+[tell me something i don’t know](https://reading.supply/@kelly/tell-me-something-i-dont-already-know-hGzs5s), the things i keep writing the same versions of.
 
 
