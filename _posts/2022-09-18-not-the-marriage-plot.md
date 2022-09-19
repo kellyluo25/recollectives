@@ -10,7 +10,7 @@ categories:
 
 In the Austen tradition, the marriage plot is a story construct designed around two individuals destined to marry. Courtship is never a linear path, but the destination is a well-paved inevitability.
 
-I've been thinking about this one for a while, because there's nothing quite like the comfort of the romance genre in media. This one is about the defensibility of the genre, a dearth of leading love interests, romance podcast english classes, and logical girls that live for the messiness of a fictional romance. 
+I've been working on this for a while, because there's nothing quite like the comfort of the romance genre. This one is about the defensibility of the genre, a dearth of leading love interests, romance podcast english classes, and logical girls that live for the messiness of a fictional romance. 
 
 <br />
 
@@ -47,7 +47,7 @@ Romance has a new armor and a battalion of devoted mainstream consumers. There a
 
 I started thinking about this because I took the misinformed recommendation of the Goodreads Best Books list (okay, so I don't actually learn from my mistakes) and read Emily Henry's *Beach Read*. It was January and I was craving a reminder of warm summers. This book exploits the trauma plot, mines it for every bit of the conflict catalysis and miscommunication its worth, and resolves by disemboweling their main leads of any personality. As in, they are not people aside from their orientation and reaction to their trauma. The meta-point is that this is a romance novel wherein the main character is a romance novelist and she fervidly defends her craft. Rachel Lynn Solomon's *Today, Tonight, Tomorrow* did something similar with its graduating high school senior-slash-aspiring romance novelist protagonist. There's even a scene where she attends a book reading of her favorite romance novelist and is encouraged to read the first chapter of her own fiction by the love interest.
 
-It's the problem I have with writers who insert writers (aspiring, burnt out, retired, etc) as their leads. The romance genre didn't need to turn sentient. Romance novelists didn't need to insert romance authors as characters in their book to offer an air of legitimacy to the production and conception of these works. They were loved, are loved, by readers who aren't ashamed to lose themselves in another love story; maybe they're waiting for theirs. But to explain it outright to their own readers is a pick-me sign of trying to hard. 
+It's the problem I have with writers who insert writers (aspiring, burnt out, retired, etc) as their leads. The romance genre didn't need to turn sentient. Romance novelists didn't need to insert romance authors as characters in their book to offer an air of legitimacy to the production and conception of these works. But to explain it outright to their own readers is simply a pick-me sign of trying to hard. They were loved, are loved, by readers who aren't ashamed to lose themselves in another love story; maybe they're waiting for theirs.
 
 
 
