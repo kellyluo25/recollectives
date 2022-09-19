@@ -6,6 +6,7 @@ slug: seasons-twenty-two
 date:  2022-03-10
 categories:
   - collections
+  - seasons twenty
 
 
 
