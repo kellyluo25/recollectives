@@ -7,8 +7,12 @@
         "id": "a003f3ab0804945a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2022-09-18-not-the-marriage-plot.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-09-18-not-the-marriage-plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a2584c1cf143801",
+  "active": "a003f3ab0804945a",
   "lastOpenFiles": [
     "2022-08-31-before-the-fall.md",
-    "{{site.baseurl}}/images/interludes.png.md",
     "2022-12-25-unfinished-thoughts.md",
-    "2022-360-days.md",
-    "on-showing-up.md",
-    "every-version-of-yourself.md",
-    "2022-03-10-before-the-spring.md",
-    "2022-08-02-not-the-marriage-plot.md",
     "not-the-marriage-plot.md",
-    "nothing-at-22.md"
+    "2022-09-18-not-the-marriage-plot.md",
+    "every-version-of-yourself.md",
+    "nothing-at-22.md",
+    "mind_menu.md",
+    "{{site.baseurl}}/images/interludes.png.md",
+    "2022-360-days.md",
+    "on-showing-up.md"
   ]
 }

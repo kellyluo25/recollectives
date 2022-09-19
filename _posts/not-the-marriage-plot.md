@@ -30,6 +30,14 @@ categories:
   <br/>
 
 
+## legibility
+
+Legibility. Meaning readable, to the point of comprehension. The ability to string together signals and form a conclusion at the end of it.
+
+Making yourself legible to someone.
+
+
+
 
 ## not the marriage plot
 
