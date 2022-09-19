@@ -5,7 +5,8 @@ published: true
 slug: not-the-marriage-plot
 date:  2022-09-18
 categories:
-  - collections
+  - culture shifts
+  - paperless post
 ---
 
 In the Austen tradition, the marriage plot is a story construct designed around two individuals destined to marry. Courtship is never a linear path, but the destination is a well-paved inevitability.

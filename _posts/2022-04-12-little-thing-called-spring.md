@@ -5,7 +5,8 @@ published: true
 slug: "persephone and hades send their best from the underworld"
 date:  2022-04-12
 categories:
-  - collections
+  - culture shifts
+  - mythos / logos
 
 ---
 
