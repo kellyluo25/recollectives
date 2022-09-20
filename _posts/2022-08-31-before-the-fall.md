@@ -12,9 +12,9 @@ categories:
 
 ---
 
-Another season is upon us. Taylor Swift announced a new album. I had trouble sleeping for a few weeks in August because I was overcaffeinated from green tea. I agonized over, then purchased an expensive pillow in a quest for better neck support. 
+Another season is upon us. Taylor Swift announced a new album. I had trouble sleeping for a few weeks in August because I was overcaffeinated from green tea. I agonized over, then purchased an expensive memory foam pillow on a consumerist quest for better neck support. I watched the skies above the bay break open and rain on for a full Sunday afternoon. I contemplated what it meant to spend a year in one place, and interrogated the desire to upgrade all the little touches that make it closer to home.
 
-At parties, I'd ask *what keeps you up at night?* into the din of the room, an attempted shortcut into the inner psyche.
+At parties last fall, I'd ask *what keeps you up at night?* into the din of the room, an attempted shortcut into the inner psyche.
 
 Here are things that keep me up at night. 
 
