@@ -1,4 +1,5 @@
 {
   "theme": "system",
-  "interfaceFontFamily": "Lora"
+  "interfaceFontFamily": "Lora",
+  "baseFontSize": 16
 }

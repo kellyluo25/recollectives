@@ -13,7 +13,7 @@ categories:
 
 ---
 
-!["interlude: before the spring"]({{site.baseurl}}/images/interludes.png)
+!["interlude: before the spring"]({{site.baseurl}}/images/interludes_spring.png)
 
 This is a momentary pause from irregularly scheduled programming. I share some of what I’ve been reading, ramble about what I want to write, and list other possible endeavors.
 
