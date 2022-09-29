@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-09-25-before-the-fall.md",
+            "file": "2022-09-28-before-the-fall.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-09-25-before-the-fall.md",
+                "file": "2022-09-28-before-the-fall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a2584c1cf143801",
+  "active": "157d06a7adaa0a25",
   "lastOpenFiles": [
-    "Pasted image 20220924234942.png",
     "2022-12-25-unfinished-thoughts.md",
-    "not-the-marriage-plot.md",
-    "2022-09-25-before-the-fall.md",
-    "2022-360-days.md",
     "every-version-of-yourself.md",
+    "2022-360-days.md",
+    "2022-03-10-before-the-spring.md",
+    "2022-09-28-before-the-fall.md",
+    "not-the-marriage-plot.md",
+    "Pasted image 20220924234942.png",
     "nothing-at-22.md",
     "on-showing-up.md",
-    "this-is-the-last-time.md",
-    "2022-09-18-not-the-marriage-plot.md"
+    "this-is-the-last-time.md"
   ]
 }
