@@ -60,14 +60,6 @@ The
 
 
 
-## reading a romance novel at 2am
-
-###### what the fuck is the romance genre anyway
-
-romance podcasts i guess are my new favorite thing to read/write about
-
-
-
 
 
 
