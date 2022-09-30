@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "interlude: before night falls"
+title: 'interlude: before night falls'
 published: true
 slug: seasons-twenty-two
-date:  2022-09-28
+date: {}
 categories:
   - collections
   - seasons twenty
-
 ---
 
 !["interlude: before the spring"]({{site.baseurl}}/images/interludes_fall.png)
@@ -62,7 +61,7 @@ Nights reveal all. Strips us bare of the light, noise, and warmth that obscure u
 
 then ask yourself: *does it ever drive you crazy; just how fast the night changes?* ([🌃](https://www.tiktok.com/@dkawn.me/video/7093465404835663130?is_from_webapp=1&sender_device=pc&web_id=7144839271172998699))
 
-<br/ >
+<br />
 
 ## stay tuned for
 This season is for autumn leaves falling into place and: 
