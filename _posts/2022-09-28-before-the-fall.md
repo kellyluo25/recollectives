@@ -3,7 +3,7 @@ layout: post
 title: 'interlude: before night falls'
 published: true
 slug: seasons-twenty-two
-date: {}
+date: 2022-09-28
 categories:
   - collections
   - seasons twenty
