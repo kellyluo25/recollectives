@@ -14,7 +14,7 @@ The elegy would some something like "relentless self-possession."
 
 
 
-There's this lyric in the song that Phoebe sings—"and I wake up in the middle of the night / it's like I can feel time moving"—and it explains this sudden vertigo I've always tried to place, but have been too disoriented to describe. 
+There's this lyric in the song that Phoebe sings—"*and I wake up in the middle of the night / it's like I can feel time moving*"—and it explains this sudden vertigo I've always tried to place, but have been too disoriented to describe. 
 
 
 
