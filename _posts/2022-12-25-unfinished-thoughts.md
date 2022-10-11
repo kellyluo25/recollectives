@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  collections — 
+title: "collections — "
 published: false
 slug: collections-
 date:  2021-04-26
@@ -59,14 +59,6 @@ The
 
 
 
-
-
-
-
-
-## screaming crying throwing up
-
-This is one of those things where you had to have been there to know what it really means. If you were a preteen girl once, you get pretty close
 
 
 ## creation myths 
