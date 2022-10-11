@@ -59,7 +59,7 @@ Before, I would have called it weaponized casting or revivalist mania. But it is
 
 
 
-## this month
+## this october month
 
 - **watching**: if i disappear for the next month or so, it's because i gave into the collective impulses of my digital feeds and started watching *house of the dragon*. it will be the lack of self-preservation that's caught up to me; and it'll hurt like hell.
 - **baking**: pumpkin cookies coming to a social event near you soon.
