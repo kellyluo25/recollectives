@@ -8,6 +8,8 @@ categories:
   - collections
 ---
 
+No preface, just an all-consuming eagerness to read and watch television once again. Languid afternoons in a room, settled in quiet interiority. 
+
 - **i've been to the year 2014**: i built myself in the image of this year
 - **words of worship**: wordship, or i read a really good thing
 - **screaming crying throwing up**: you had to have been there
