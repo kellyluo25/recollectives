@@ -7,8 +7,6 @@ date:  2021-04-26
 categories:
   - culture shift
 
-
-
 ---
 
 ###### collections: a weekly reset
