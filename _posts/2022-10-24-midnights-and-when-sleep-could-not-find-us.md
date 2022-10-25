@@ -9,7 +9,7 @@ categories:
   - culture shifts
 ---
 
-Taylor released her twelfth album and we all lost a little sleep over it. In anticipation of a third re-recording, she graced us with a concept album. An album that reverberates into the darkness. She's grown up and dazing, dancing, drinking the night away. If *Karma* was purportedly the secret album between *1989* and *Reputation*, then maybe *Midnights* found her in dreams / nightmares in all her sleeps since.
+The inimitable Taylor Swift released her twelfth album and we all lost a little sleep over it. In anticipation of a third re-recording, she graced us with a concept album. An album that reverberates into the darkness. She's grown up and dazing, dancing, drinking the night away. If *Karma* was purportedly the secret album between *1989* and *Reputation*, then maybe *Midnights* found her in dreams / nightmares in all her sleeps since.
 
 <!--more-->
 
