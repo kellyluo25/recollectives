@@ -66,6 +66,9 @@ I miss a beautiful internet. Consumerist creation.
 
 
 
+## placecards
+- paris (we'll always have)
+- amsterdam
 
 
 ## this past week
