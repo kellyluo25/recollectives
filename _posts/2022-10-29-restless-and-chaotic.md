@@ -15,7 +15,7 @@ categories:
 
 Then the first episode came out in late August to above-average positive sentiment, and I largely ignored it. The episodes premiered every Sunday, and out of a stubborn, perverse curiosity, I'd roam the Sunday night commentary on Twitter. Just to see how poorly a follow-up adaptation could fare. I was vaguely familiar with characters who didn't make sense to me, and had some recognition of the actors garnering acclaim for their performances. The moments the internet was reacting to and fixated on didn't make sense in a vacuum. I'd see clips of it appear on my timeline, interests of my interests completing the closed loop. Here I am, having lived alongside the last stretch of the first season in another cultural moment of ours. I forgot how fun it follow watercooler television every weekend. 
 
-I think I'm mad about how much I enjoyed this. As if it had no right to be as compelling as it was. They did time jumps and recast two of their most prominent actors and shrunk the political subterfuge down to a family, yet they still pulled it off. The joke is on me, I get it; they really did it.
+I think I'm mad about how much I enjoyed this. As if it had no right to be as compelling as it was. They did time jumps and recast two leading actors and shrunk the political subterfuge down to a single family, yet they still pulled it off. The joke is on me, I get it; they really did it.
 
 <!--more-->
 
@@ -48,8 +48,8 @@ I think I'm mad about how much I enjoyed this. As if it had no right to be as co
 - the rhaenyra and daemon thing is emma and mr. knightley and i will not comment on it any further
 - desperately need this show to continue to be written by women, where the women are allowed to be morally grey and the men are allowed to be awful, but the awfulness of men should not come at the expense of the women
 	- [ep 10] turns out this wasn't true after all. turns out women can suffer at any time if they surround themselves with violent men
-	- please allow these women to hunger for blood. war is not a game between daemon v. otto.
-- the physical acting is so good, especially the nervous tics that carry through the years
+	- please allow these women to hunger for blood. war is not a game between daemon v. otto. kingdoms are not a boys-only playground.
+- the physical acting is so good, especially the nervous tics that carry through the years. the wigs, though. the silvered blonde, perhaps light gold, wigs are something else.
 - i don't love, but also don't hate, how they've tied in the song of ice and fire as a plot point in this series as a callback to the main thing. it's a little clunky, especially since it's used to drive character conflict and spur the plot forward in the season finale
 	- the "accident" is also annoying because they were going for the profound dramatic irony that dragons were the very thing that did them in, in spite of their claim to superiority on the backs of their dragons, but that didn't fully land. 
 - awards season: milly alcock was magnetic and radiant as a young rhaenyra, but emma d'arcy fully realized an older rhaenyra. they were a revelation. olivia cooke will likely win the emmy that lena heady deserved, time and time again, for cersei. everybody's heard and talked about matt smith at this point; he definitely gets it. 
