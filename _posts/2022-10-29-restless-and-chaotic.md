@@ -9,7 +9,7 @@ categories:
 
 ---
 
-####### ***i watched the first season of the dragon show (spoilers abound)***
+###### ***i watched the first season of the dragon show (spoilers abound)***
 
 *House of the Dragon* feels distinct from the disgraced legacy of the original series. I didn't expect this show to succeed, and truly, when the first stills of episode 7 were put forth, I didn't expect anyone else to think it would succeed either. I sneered, rolled my eyes, made my peace with how HBO and every other streaming service were grabbing bags of money and burning them in a pyre to recreate the high fantasy entertainment delusion. 
 
