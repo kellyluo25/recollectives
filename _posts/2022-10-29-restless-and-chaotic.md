@@ -48,6 +48,7 @@ I think I'm mad about how much I enjoyed this. As if it had no right to be as co
 - the rhaenyra and daemon thing is emma and mr. knightley and i will not comment on it any further
 - desperately need this show to continue to be written by women, where the women are allowed to be morally grey and the men are allowed to be awful, but the awfulness of men should not come at the expense of the women
 	- [ep 10] turns out this wasn't true after all. turns out women can suffer at any time if they surround themselves with violent men
+	- please allow these women to hunger for blood. war is not a game between daemon v. otto.
 - the physical acting is so good, especially the nervous tics that carry through the years
 - i don't love, but also don't hate, how they've tied in the song of ice and fire as a plot point in this series as a callback to the main thing. it's a little clunky, especially since it's used to drive character conflict and spur the plot forward in the season finale
 	- the "accident" is also annoying because they were going for the profound dramatic irony that dragons were the very thing that did them in, in spite of their claim to superiority on the backs of their dragons, but that didn't fully land. 
