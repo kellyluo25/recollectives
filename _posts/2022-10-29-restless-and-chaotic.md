@@ -32,7 +32,7 @@ I think I'm mad about how much I enjoyed this. As if it had no right to be as co
 - dragonstone bridge [ep 02 / 10]: the stunning visual callback of rhaenyra and syrax descending upon the bridge at dragonstone. first, as the newly decreed heir asserting her power in daemon v. otto + rhaenyra. last, as the one true queen reclaiming her power in daemon + rhaenyra v. otto.
 
 **trailing moments**: certain scenes are more memorable than others
-- [ep 1] my actual favorite scene of this show is the necklace scene in the throne room in the pilot. it so immediately establishes the dynamic between to key characters, and continues to cascade throughout the season
+- [ep 01] my actual favorite scene of this show is the necklace scene in the throne room in the pilot. it so immediately establishes the dynamic between to key characters, and continues to cascade throughout the season
 - [ep 03] my other favorite scene of the season is rhaenyra stabbing the jugular out of this hog
 - [ep 03] at no point did we miss single-shot battle sequences, but the daemon suicide mission feels like a character *becoming*, cloaked in plot armor
 - [ep 04] short hair daemon targaryen
