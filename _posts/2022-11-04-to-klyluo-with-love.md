@@ -11,12 +11,15 @@ categories:
 
 !["an internet love letter"]({{site.baseurl}}/images/loveletter.jpg)
 
-I wrote this back the spring. I've meant to edit and polish this into finer form, but I almost prefer the version of this that is raw and unwound. This is the unedited, unvarnished story of a young girl on the internet. I just wanted it to exist somewhere else in cyberspace.
+I wrote this back the spring. I've meant to edit and polish this into finer form, but I almost prefer the version of this that is raw and unwound. This is the unedited, unvarnished story of a young girl on the internet. I just wanted it to exist somewhere else in cyberspace. 
 
-> PRELUDE | This lives within a coming of age on the internet story: a nostalgic period piece about the formative years of online existence. Technology not as the central focus, but as the undercurrent. Here are some words that may live in the back of your head as you read—Isolation and anxiety. Panopticon; solipsism. Navel-gazing worldliness. Performances in an empty theatre. Superficial interiority and self-delusion. Amateur; auteur; aesthetic. Taking ordinary things way too seriously.
+> **PRELUDE** | This lives within a coming of age on the internet story: a nostalgic period piece about the formative years of online existence. Technology not as the central focus, but as the undercurrent. Here are some words that may live in the back of your head as you read—Isolation and anxiety. Panopticon; solipsism. Navel-gazing worldliness. Performances in an empty theatre. Superficial interiority and self-delusion. Amateur; auteur; aesthetic. Taking ordinary things way too seriously.
 
 
 <!--more-->
+
+<br />
+<br />
 
 Emails are a birthplace. I was born under an August sky at age seven: the internet cable had been wired through our living room computer in the morning and I made my first decision about my pseudonymous self in the evening. I was too young to broadcast my full name to faraway strangers, so I christened myself a new identity. In this new world order, I was much more cosmopolitan and worldly. I was me; as someone else; closer to a dreamt-up self. Rarely do we get to choose who we want to be—yet at seven, an email gave me power, and it gave me place.
 
@@ -180,5 +183,9 @@ The internet explodes reality, and that reality is cyclonic. Sucks you in, spins
 They'd ask me why I didn’t go outside and see the world—and I’d respond that the world was right there in the palm of my hand.
 
 <br />
+<br />
 
 <h4 style="text-align:center">💌</h4>
+
+<br />
+<br />
