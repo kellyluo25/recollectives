@@ -1,4 +1,19 @@
+---
+layout: post
+title: "to @klyluo, with love"
+published: yes
+slug: to-klyluo-with-love
+date:  2022-11-04
+categories:
+  - if they have past lives
+
+---
+
 !["an internet love letter"]({{site.baseurl}}/images/loveletter.jpg)
+
+I wrote this back the spring. I've meant to edit and polish this into finer form, but I almost prefer the version of this that is raw and unwound. This is the unedited, unvarnished story of a young girl on the internet. I just wanted it to exist somewhere else in cyberspace.
+
+> PRELUDE | This lives within a coming of age on the internet story: a nostalgic period piece about the formative years of online existence. Technology not as the central focus, but as the undercurrent. Here are some words that may live in the back of your head as you read—Isolation and anxiety. Panopticon; solipsism. Navel-gazing worldliness. Performances in an empty theatre. Superficial interiority and self-delusion. Amateur; auteur; aesthetic. Taking ordinary things way too seriously.
 
 
 <!--more-->
