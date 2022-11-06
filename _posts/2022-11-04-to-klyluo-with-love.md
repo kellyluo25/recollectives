@@ -31,9 +31,15 @@ All my online memories are time-stamped and scattered across different addresses
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 When you start, nobody tells you the internet is a sad place. It will break your heart if you don’t break it yourself first. To do that, it lets you fall in love with it; pulls you close and tells you what you want to hear; let’s you believe that it was always about you.
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -44,6 +50,9 @@ Her post was two clicks away from bright, beaming headlines about housing forecl
 
 The whiplash is treacherous. Everything matters, but nothing matters. Minimizes what you’re feeling, again and again. Explodes the little things, like fiery sparks that push your emotional buttons; then shuts it away because the world is bigger than you. Too big for you and your little hypocrisy. 
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -61,6 +70,9 @@ She’s in the way I order avocado toast with an over-easy egg at brunch; wear t
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 The reel begins in collections of videos and posts. They call it the algorithm that feeds us. The beast of a learned machine that consumes inputs and regurgitates outputs for consumption. The oracle predicts what we want to watch or purchase. We wonder when we got so predictable, but we’ve always been hungry and keen to force-quit our addiction to novelty. Too much novelty becomes an uncomfortable disturbance, and the things you didn’t want to know about yourself, others, the world scare you into reticence. This is the folktale of a system knowing us better than we can ever know ourselves.
 
@@ -68,6 +80,9 @@ We want to feel intimately known but not thoroughly seen.
 
 The folktale almost has a happy ending. This is good for us—no apples were poisoned in the making of the modern internet. It gave us endless entertainment when our days overflowed with boredom; it gave us friendship when nobody would sit with us at lunchtime; it gave us solace when our families were fighting in the room next door. It gave us so much, and we took it all.
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -83,6 +98,9 @@ I was locked away in my bedroom at home, and whatever eludes my memory of a chil
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
   
 Vertigo is a feeling of displacement. At great heights, tiny crystals in the inner ear dislodge and send the world spinning. Gravity lets loose. There’s a physicality to the topsy-turvy motion as familiar surroundings warp and time caves in, but the disorientation is all imagined inside the head. Nothing has moved and little has changed.
 
@@ -95,6 +113,9 @@ As I get further, the spiral tightens. I watch change unravel over time. I notic
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 A scroll down memory lane displaces me; everything has an echo of a timestamp. Every picture taken, text sent, or website visited is embalmed in the digital record. These snapshots have a long memory: they remember where I’ve been and who I was with, even when I don’t. Sometimes I’ll look at photos from old friends and acquaintances, and ask myself when I fell out of the frame. Simple explanations are they went to different schools or we fell out of touch; harder explanations reconcile their past importance with the size of their absence. People move on and everything has shfited. 
 
@@ -103,9 +124,15 @@ My camera roll collapses upon itself: as if these were yesterday’s events, but
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 I can only describe the pieces of myself as they existed in my browser history in 2014. That year tells the origin story of girls who grew up under the grace of an aesthetic monoculture.
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -118,11 +145,17 @@ I spent my teenage years on this anonymous microblogging platform, a place as un
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 Most importantly, she was sad. Sorrow found her when she was young. A fanciful condition for experiencing something more meaningful than ruthless monotony. Tumblr normalized and held space for tragic glamor, peeling back the veneer of curated perfection to reveal a hardened romantic. Flower crowns with thorns. She wanted love but didn’t have anything close to it. Always knew the villain was the true hero of the story. Believed broken things were more beautiful. Could cut open her insecurities and never stop bleeding. She didn’t have many reasons for sadness (but hers; and that of the world), though it was closer to being more alive. 
 
 She envied the self-esteem and security that came so easily for others enamored with real life. The joy and contentment of having it all. So she sought it elsewhere, and the desire for self-destruction became teen girl agency. They could ugly cry in the dark and crave violence as satisfaction. Internalization as resistance against external pressure, wielded in sad song lyrics and brooding quotes. This is the language of angst, translated into verses of internet poetry. I loved all these things too, and still do.
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -135,6 +168,9 @@ Music holds sonic memory, and the soundtrack of this time promised it was self-d
 
 The hellsite consecrated the aesthetic. Then we molded ourselves in its image.
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />  
@@ -152,6 +188,9 @@ If I could reach out and touch it, I’d pull back and see my fingerprints all o
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 I can hear her voice in my head. The narrator who monologues with the authority of a wiser self; the soft and serene voiceover of a semi-autobiographical film. She told me to romanticize my life in the pith of unremarkableness. She says things like “pay attention to the way you feel/do/think this,” as if others are watching; keeps going even though I know they’re not. She insists that ordinary moments feel grand, and carefully threads them together in a character arc about who I am and who I will become. 
 
@@ -159,6 +198,9 @@ A small footnote: I never asked where she came from. I imagine it’s from the s
 
 Sometimes I wonder if she’ll ever shut up. Most of the time I know I’d be lost without her. 
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -176,6 +218,9 @@ It was achingly familiar. I’d been here for a while, yet this was the first ti
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 My coming of age has come and gone in cyberspace. Perspective constricts in a childhood bedroom. Nothing to do, nowhere to go, nobody to see. Me with the same desk and posters and twin bed; and me with the phone on an infinite scroll. I’ve been wired through the internet, cables that criss-cross my time in the physical world and my attention on the digital web. 
 
@@ -185,8 +230,10 @@ They'd ask me why I didn’t go outside and see the world—and I’d respond th
 
 <br />
 <br />
+<br />
 
 <h4 style="text-align:center">💌</h4>
 
+<br />
 <br />
 <br />
