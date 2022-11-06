@@ -15,7 +15,8 @@ this is *day one* of a mini-writing sabbatical, aiming to publish one piece ever
 
 <br /> 
 
-today, we write of **succession crises**: ascension. transference. empire / state. king-making. 
+today, we write of **succession crises**.
+ascension. transference. empire / state. king-making. 
 
 <!--more-->
 
