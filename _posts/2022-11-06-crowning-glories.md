@@ -15,7 +15,7 @@ this is *day one* of a mini-writing sabbatical, aiming to publish one piece ever
 
 <br /> 
 
-today, we write of **succession crises**.
+today, we're writing about **succession crises**.
 
 ascension. transference. empire / state. king-making. 
 
@@ -62,7 +62,7 @@ sit there with your gleaming crown and syllabic honorifics. heavy does the crown
 
 <br /> 
 
-the kingmakers did not tell you. anointed, not appointed. you cannot buy loyalty. you cannot tamp down discontent, unrest. that is the debt of the prized inheritance. buy the prize, stolen treasure. prices that are not paid, merely discounted.
+your kingmakers did not tell you, did they? anointed, not appointed. you cannot buy loyalty. you cannot tamp down discontent, unrest. that is the debt of the prized inheritance. buy the prize, steal the treasure. prices that are not paid, merely discounted.
 
 <br /> 
 
@@ -70,4 +70,4 @@ we have so little faith when in want of a leader. sheep to lions; lions to leper
 
 <br />
 
-when the people ask,what they really want to know is—who the fuck is next? if we must follow, then we will follow, and into the deep dark we go.
+when the people ask, what they really want to know is—who the fuck is next? if we must follow, then we will follow, and into the deep dark we go.
