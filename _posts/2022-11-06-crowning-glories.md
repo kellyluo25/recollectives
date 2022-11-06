@@ -61,7 +61,7 @@ sit there with your gleaming crown and syllabic honorifics. heavy does the crown
 
 <br /> 
 
-the kingmakers did not tell you. anointed, not appointed. you cannot buy loyalty. you cannot tamp down discontent, unrest. that is the debt of the prized inheritance. buy the prize, stolen treasure. prices that may not be paid, merely discounted.
+the kingmakers did not tell you. anointed, not appointed. you cannot buy loyalty. you cannot tamp down discontent, unrest. that is the debt of the prized inheritance. buy the prize, stolen treasure. prices that are not paid, merely discounted.
 
 <br /> 
 
