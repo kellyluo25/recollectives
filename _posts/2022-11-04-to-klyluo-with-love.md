@@ -5,7 +5,8 @@ published: yes
 slug: to-klyluo-with-love
 date:  2022-11-04
 categories:
-  - if they have past lives
+  - "if they have past-lives"
+  - origin stories
 
 ---
 

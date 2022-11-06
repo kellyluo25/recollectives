@@ -47,14 +47,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11-04-to-klyluo-with-love.md",
+                "file": "2022-10-31-collections-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12712ef70399d8bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11-06-interregnum.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-04-to-klyluo-with-love.md",
+                "file": "2022-11-06-interregnum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a2584c1cf143801",
+  "active": "12712ef70399d8bb",
   "lastOpenFiles": [
+    "2022-11-04-to-klyluo-with-love.md",
+    "2022-11-06-interregnum.md",
+    "2022-10-31-collections-15.md",
+    "this-is-the-last-time.md",
+    "where we worked.md",
     "2022-360-days.md",
     "avocado, runny yolk, french batard.md",
-    "this-is-the-last-time.md",
-    "2022-11-04-to-klyluo-with-love.md",
-    "where we worked.md",
-    "2022-10-31-collections-15.md",
     "2022-10-29-restless-and-chaotic.md",
     "2022-10-24-midnights-and-when-sleep-could-not-find-us.md",
-    "2022-12-25-unfinished-thoughts.md",
-    "2022-10-10-collections-14.md"
+    "2022-12-25-unfinished-thoughts.md"
   ]
 }
