@@ -27,7 +27,7 @@ ascension. transference. empire / state. king-making.
 
 kings. queens. executives. robber-barons. 
 
-turning, churning, call it spokes on  a wheel. only one person stands at the helm (so much to gain, i suppose; nothing much to lose). craven. we are at a lost for a cause, it appears. 
+turning, churning, call it spokes on  a wheel. only one person stands at the helm (so much to gain, i suppose; nothing much to lose). craven. crown and chief; synecdoche. we are at a lost for a cause, it appears. 
 
 
 <br />
@@ -36,7 +36,7 @@ what do we owe to a people? hungry, wanting as they are. i'd ask you of their ne
 
 <br />
 
-and what is duty if not consecrated on a crown. passed from from forefather to father to son (a daughter, if we are so lucky to make it). sire a bloodline for the good of a kingdom; the crown recognizes none other than a natural born. i will have it in blood if i did not buy it in bonds. 
+and what is duty if not consecrated on a crown. passed from from forefather to father to son (a daughter, if we are so lucky to make it). sire a bloodline for the good of a kingdom; the headpiece recognizes none other than a natural born. i will have it in blood if i did not buy it in bonds. 
 
 <br />
 
