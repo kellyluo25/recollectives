@@ -9,13 +9,14 @@ categories:
   - origin stories
 ---
 
-####### interregnum: discontinuity, or the period in between
+###### interregnum: discontinuity, or the period in between
 
 this is *day one* of a mini-writing sabbatical, aiming to publish one piece every day for the next week. just to have something of mine out in the world again. consistent quantity over obsessive quality. 
 
 <br /> 
 
 today, we write of **succession crises**.
+
 ascension. transference. empire / state. king-making. 
 
 <!--more-->
