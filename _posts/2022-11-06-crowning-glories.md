@@ -36,7 +36,7 @@ what do we owe to a people? hungry, wanting as they are. i'd ask you of their ne
 
 <br />
 
-and what is duty if not consecrated on a crown. passed from forefather to father to son (a daughter, if we are so lucky to make it). sire a lineage for the good of a kingdom; the throne recognizes none other than a natural born. i will have it in blood if i did not buy it in bonds. 
+and what is duty if not consecrated on a crown. passed from forefather to father to son (a daughter, if we are so lucky to make it). sire a lineage for the good of a kingdom; the throne recognizes none other than a natural born. you will have it in blood if you did not buy it in bonds. 
 
 <br />
 
@@ -46,7 +46,7 @@ please tell me of your court. who stays? who gets to go? who was most loyal, rea
 
 i ask you again. what is duty? 
 
-what is your duty, fisted in your meaty hand, and why must you let go of it? why must you leave us so? duty like law, custom. duty like culture, community. if it is not enough to remain, then we must trim the fat off, the seat of power for your polished, stinking throne. 
+what is your duty, fisted in your meaty hand, and why must you let go of it? birth rights or purchase rights. why must you leave us so? duty like law, custom. duty like culture, community. if it is not enough to remain, then we must trim the fat off, the seat of power for your polished, stinking throne. 
 
 <br /> 
 
