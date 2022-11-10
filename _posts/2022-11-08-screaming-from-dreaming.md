@@ -19,6 +19,12 @@ A dream of sponge cake and sweet strawberries, coated in fluffed cream. A dream 
 Rare was the dreamer who could could only access what resides at the tip of their tongue. Taste could only name sweet, salt, bitter, sour, umami, then hot or cold. Though every sense was empowered to capture the sensory details of slumber, seeing and hearing were the most common disciplines. Sight could unravel any story, pinpoint complete details with visual precision. Sound could beckon secrets from beneath floorboards and behind shut doors; what is heard only exists because it happened in utterance. Touch could map out a room, a terrain, an instrument; the scald and pulse of something under skin. Taste and smell were not particularly advantaged, but they had their place in the world.
 
 <!--more-->
+<br /> 
+<br />
+<br /> 
+<br />
+<br /> 
+<br /> 
 
 Nightmare was not a word she knew. All dreams were a blessing, for they were veritable signs of a brilliant mind at work through all hours. Her dreams weren't always soft and sweet, but when they were sweet, they were honeyed and luxurious. The aftertaste of a delectable meal left on the palette. Food and drink were her closest companions at night. 
 
