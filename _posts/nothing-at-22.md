@@ -28,7 +28,7 @@ I think I made a lot of assumptions about myself, because I knew myself so thoro
 
 
 
-I've lost a lot of friends before the age of eighteen. Much like a non-Newtonian fluid clutched in the palm of your hand: if you hold tight, it's rock solid; if you let go, even just a little, it melts through your fingers. And you keep grasping, scooping handful after handful—always worried when something will give, but if you clutched any harder, you'd suffocate. So you wonder why you even bother holding on, when everything will go slack and slip through eventually.
+I've lost a lot of friends before the age of eighteen. Much like a non-Newtonian fluid clutched in the palm of your hand: if you hold tight, it's rock solid; if you let go, even just a little, it melts through your fingers. And you keep grasping, scooping handful after handful—always worried when something will give, but if you clutched any harder, you'd smother it whole. Suffocated. So you wonder why you even bother holding on, when everything will go slack and slip through eventually.
 
 
 
