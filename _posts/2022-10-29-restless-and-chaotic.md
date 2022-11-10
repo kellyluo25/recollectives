@@ -26,9 +26,9 @@ I think I'm mad about how much I enjoyed this. As if it had no right to be as co
 - valyrian steel necklace [ep 01 - 04]: its repetition in the first half of the series
 - twin childbirth pilots [ep 01 / 06]: in the sixth episode (named the second pilot), leana's death by dragon and going out as a dragonrider. it's the second childbirth death in the twin pilots but this one is granted the courage of agency 
 - dead harts [ep 03]: viserys struggling to maim a bound brown hart, his weakness exposed as his compatriots hold down his claim. rhaenyra graced by a white hart, yet choosing to let its divinity roam free.
-- narcissus, mirrors [ep 07]: daemon and rhaenyra reunite at the episode seven funeral, like falling in love with your own reflection
+- narcissus, mirrors [ep 07]: daemon and rhaenyra reunite at the episode seven funeral, like falling in love with your own reflection. it's awfully good.
 - loneliness [ep 06]: they're all so lonely when we visit them again after the decade-long time jump. that isolation and otherness comes in many forms across two generations.
-- daemon / aemond [ep 08]: this generational parallel is out of hand, and the book spoilers know it.
+- second son syndrome [ep 08]: this daemon / aemond generational parallel is out of hand, and the book spoilers know it.
 - dragonstone bridge [ep 02 / 10]: the stunning visual callback of rhaenyra and syrax descending upon the bridge at dragonstone. first, as the newly decreed heir asserting her power in daemon v. otto + rhaenyra. last, as the one true queen reclaiming her power in daemon + rhaenyra v. otto.
 
 **trailing moments**: certain scenes are more memorable than others
