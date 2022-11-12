@@ -43,7 +43,7 @@ only darkness
 
 i am so sick of people.\
 i am so sick of what they leave behind.\
-i can still feel you. it feels like
+i can still feel you. it feels like\
 ghost pressure in your palm when someone lets go,\
 base notes of a scent gone missing. 
 
