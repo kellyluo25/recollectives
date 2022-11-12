@@ -60,7 +60,7 @@ The thing that scared me was how normal it all sounded. We'd stood like that, wa
 
 
 
-### elevator, seventh floor
+### elevator, the tower
 
 Doomsday loomed ahead, knowing we had to vacate the premises in the next few days. This was before we all developed a devastatingly rational fear of existing in small, cramped spaces with one another. Elevators would soon be a thing of the past.
 
