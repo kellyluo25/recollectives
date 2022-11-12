@@ -13,23 +13,10 @@ today is not tuesday poetry; but rather a collection of poems i'll never finish.
 
 <br />
 
-feat. cyanide; ***chemtrails***; ***would you give me your heart if it asked for it?***; ***any(young)body;* ***salted oranges***
+feat. ***chemtrails***; ***would you give me your heart if it asked for it?***; ***any(young)body***; ***salted oranges***
 
 
 <!--more--->
-
-### oct 17 2022
-cyanide in my styrofoam cup
-
-<br />
-<br />
-
-
-<h4 style="text-align:center">🌠</h4>
-
-<br />
-<br />
-
 
 ### **aug 06 2022**
 ***chemtrails***
