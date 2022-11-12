@@ -16,8 +16,19 @@ today is not tuesday poetry; but rather a collection of poems i'll never finish.
 feat. cyanide; ***chemtrails***; ***would you give me your heart if it asked for it?***; ***any(young)body;* ***salted oranges***
 
 
+<!--more--->
+
 ### oct 17 2022
 cyanide in my styrofoam cup
+
+<br />
+<br />
+
+
+<h4 style="text-align:center">🌠</h4>
+
+<br />
+<br />
 
 
 ### **aug 06 2022**
@@ -53,10 +64,14 @@ until there's is little left\
 (i am left.\
 you left me—you are made of me)
 
+<br />
+<br />
 
 
+<h4 style="text-align:center">🌠</h4>
 
-
+<br />
+<br />
 
 
 ### **aug 05 2022**
@@ -70,12 +85,17 @@ i would have cut it out\
 for you, myself\
 if only you had asked
 
-<br />
-
 it would have hurt\
 less.
 
+<br />
+<br />
 
+
+<h4 style="text-align:center">🌠</h4>
+
+<br />
+<br />
 
 
 ### **mar 21 2022**
@@ -87,7 +107,14 @@ but you, child, are no god—\
 when you bleed,\
 you bleed out.
 
+<br />
+<br />
 
+
+<h4 style="text-align:center">🌠</h4>
+
+<br />
+<br />
 
 
 #### **feb 14 2022**
