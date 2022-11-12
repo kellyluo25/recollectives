@@ -18,7 +18,7 @@ categories:
 
 <br /> 
 
-#### **plane, exit row**
+### **plane, exit row**
 
 Planes are the perfect place to meet people if you never want to see them again. Not before security: that's where you go to say goodbye. Or near baggage claim, where you go to say hello again. When you're on a plane, this hunk of industrialized society suspended in the stratosphere, you expect to fully disconnect from all the humanity that awaits you below. You and whatever you're doing in the microscopic world of your middle seat. 
 
@@ -28,7 +28,7 @@ When deplaning, the swell of urgency to get off the plane disrupted any zen from
 
 
 
-#### **bus, boston-bound**
+### **bus, boston-bound**
 
 I'd taken this route so many times between two cities, I regarded it with the routine mundanity of a necessary commute. Wait in this pre-boarding line; stow luggage here; claim a row of seats there. 
 
@@ -38,7 +38,7 @@ All your laugh lines were in the same place as before. There was that thing you 
 
 
 
-#### holiday market, union square
+### holiday market, union square
 
 You were very, very high on the list of people I never thought I would see again. This is the dangerous thing about being in New York. People frequent the same places, walk the same roads: small town, big city.
 
@@ -50,7 +50,7 @@ But I felt thrown into another timeline.
 
 
 
-#### subway platform, R 
+### subway platform, R 
 
 It was the morning after my parents had mentioned you at the dinner table. They told me how you were doing (very well), asked if we had spoken recently (definitely no). 
 
@@ -60,7 +60,7 @@ The thing that scared me was how normal it all sounded. We'd stood like that, wa
 
 
 
-#### elevator, seventh floor
+### elevator, seventh floor
 
 Doomsday loomed ahead, knowing we had to vacate the premises in the next few days. This was before we all developed a devastatingly rational fear of existing in small, cramped spaces with one another. Elevators would soon be a thing of the past.
 
@@ -70,13 +70,13 @@ We made polite conversation in the elevator, as all acquaintances do in a colleg
 
 
 
-#### fifth floor, market building
+### fifth floor, market building
 I don't know how many people were gathered there by the close of the day, but it was a small representative sliver of whoever was left with a doomed ticket. As if the colleagues remaining on the floors above were the orchestra playing on the deck of the Titanic. As if all the colleagues left in the lodge were destined for the frigid Atlantic sea, soon to be set adrift. 
 
 This, unlike all the ones before it, came with a half-certainty. Pre-apocalyptic inevitability. One day, it was free throws and sour patch kids; the next day, it would become the fall of a new Rome. The only certainty I still have is that this would be the last time I would see most-if not all-of these people as I had known them.
 
 
-#### bar, brattle st.
+### bar, brattle st.
 
 We were sitting in a high-top table near the entrance. Everyone we knew was there that night. We were all everywhere, anywhere. At some point, you walked through the front door and past the table. You greeted someone else and then greeted me, then goodbye.
 
@@ -85,7 +85,7 @@ My friends turned to me and looked surprised; that we knew each other, that we'd
 
 
 
-#### unknowable, parking lot probably
+### unknowable, parking lot probably
 
 I don't remember this one. I'm sorry, I didn't know. I swear—(I swear it; nobody told me. I swear it on soft serve vanilla cones with sprinkles and gummy bears on the side. Pinky promise on the banana-flavored popsicles you always had in the freezer and every time I think of you in the grocery store aisles)—it wasn't until years later when the truth was delivered to me as a correction. I said your name in passing, in present tense. And that was wrong.
 
