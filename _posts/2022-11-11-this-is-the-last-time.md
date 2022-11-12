@@ -34,7 +34,7 @@ I'd taken this route so many times between two cities, I regarded it with the ro
 
 The surprise is the best part: to find yourself sitting next to an old friend, who had long since left the premises—and is doing just fine, thanks for asking—but you'd never wondered how they were or what they were up to. To have some miracle around the Thanksgiving holiday where both of you decided to depart on the same day at the same time to the same place. To invite someone into the regimen of a journey, and have it take on a different shape in unexpected company.
 
-All your laugh lines were in the same place as before. There was that thing you did, where you'd always talk in the past tense. This memory and that anecdote—you were full of them, filled the brim of tales that weren't always your own. I think I laughed the entire time. Every pause was a transition to the next beat in the story. 
+All your laugh lines were in the same place as before. There was that thing you did, where you'd always talk in the past tense. This memory and that anecdote—you were full of them, filled to the brim with tales that weren't always your own. I think I laughed the entire time. Every pause was a transition to the next beat in the story. 
 
 
 
