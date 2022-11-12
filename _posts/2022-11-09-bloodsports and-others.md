@@ -13,10 +13,30 @@ today is not tuesday poetry; but rather a collection of poems i'll never finish.
 
 <br />
 
-feat. ***chemtrails***; ***would you give me your heart if it asked for it?***; ***any(young)body***; ***salted oranges***
+feat. ***what people do***; ***chemtrails***; ***would you give me your heart if it asked for it?***; ***any(young)body***; ***salted oranges***
 
 
 <!--more--->
+
+### **aug 25 2022**
+***what people do***
+
+when people say they're afraid of the dark, i think they really mean to say they're afraid of themselves of the dark. when the lights are down low and you cannot see your face. you reach out with ten fingers and find the slope of your nose, trace the rise and fall of your cheeks. slow breathing, drumming along the beat. isn't it funny; doesn't it feel the same way in the dark, too?
+
+here is what i think people do after the dark. they drink whiskey sours after last call at the bar. they teer in high heels down empty city streets. they set early alarms and pray that, in the morning, they'll feel better. they read their children bedtime stories from a picture book. they check under the bed for monsters, but all the monsters are already here.
+
+but i cannot see myself in this room,\
+only darkness
+
+<br />
+<br />
+
+
+<h4 style="text-align:center">🌠</h4>
+
+<br />
+<br />
+
 
 ### **aug 06 2022**
 ***chemtrails***
