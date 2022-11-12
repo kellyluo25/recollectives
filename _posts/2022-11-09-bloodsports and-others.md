@@ -48,8 +48,8 @@ ghost pressure in your palm when someone lets go,\
 base notes of a scent gone missing. 
 
 what people leave behind:\
-i see you everywhere, nowhere.\
 traces of themselves for you to find.\
+i see you everywhere, nowhere.\
 scavenger hunt. i have been scavenged.
 
 (promise me you will think of me.\
