@@ -67,7 +67,7 @@ i could build a full person again
 frankenstein's monster,\
 i could be, made of you.\
 fusing all the remains,\
-until there's is little left\
+until there is little left\
 (i am left.\
 you left me—you are made of me)
 
