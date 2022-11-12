@@ -51,7 +51,7 @@ i could be, made of you.\
 fusing all the remains,\
 until there's is little left\
 (i am left.\
-you left me—)
+you left me—you are made of me)
 
 
 
