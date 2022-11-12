@@ -16,7 +16,7 @@ today is not tuesday poetry; but rather a collection of poems i'll never finish.
 feat. ***what people do***; ***chemtrails***; ***would you give me your heart if it asked for it?***; ***any(young)body***; ***salted oranges***
 
 
-<!--more--->
+<!--more-->
 
 ### **aug 25 2022**
 ***what people do***
