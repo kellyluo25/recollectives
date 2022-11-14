@@ -50,7 +50,7 @@ It's like staring up at the firmament, skies and souls suddenly made legible. It
 ###### you had to have been there
 This is one of those things where you had to have been there to know what it really means. If you were a preteen girl once, you get pretty close.
 
-In these moments, you just want to be *there*, wherever and what everyone is talking about. Cyberspace exacerbates this effect. My most milestones in life have been swept up in the current of culture, of keeping up with a zeitgeist. Drawn to the flame of fanatic chatter and critical praise. It's an approximation of extended community, the obsessive hivemind of wanting to be part of something greater. Some riptide of feeling that cuts through. It's a visceralness. Raw and full-bodied. 
+In these moments, you just want to be *there*, wherever and what everyone is talking about. Cyberspace exacerbates this effect. My most treasured milestones in life have been swept up in the current of culture, of keeping up with a zeitgeist. Drawn to the flame of fanatic chatter and critical praise. It's an approximation of extended community, the obsessive hivemind of wanting to be part of something greater. Some riptide of feeling that cuts through. It's a visceralness. Raw and full-bodied. 
 
 These are among the few things that can provoke an all-consuming reaction out of me. To know what it is like is to be part of it; hindsight will say there is no other way in this communion. They say *screaming crying throwing up* like it's a joke. Yet it's a violent thing to feel beyond, obsess outside of oneself.
 

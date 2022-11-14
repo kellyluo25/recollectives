@@ -4,93 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "84a9d5a8c80dd086",
+        "id": "1aa0c7bb3eca8d6b",
         "type": "tabs",
         "children": [
           {
-            "id": "0b68776c47628dd2",
+            "id": "0f7773932a3a48e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2020-12-11-evermore-and-what-we-were-wishing-for.md",
+                "file": "nothing-at-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d3b79a692f35dcfa",
+            "id": "90c17292528a2286",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-10-29-restless-and-chaotic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6b652c1136c1df3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
-          },
-          {
-            "id": "da484f2bc92a1e0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-10-31-collections-15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12712ef70399d8bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "where we worked.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae9d7de1ffca4576",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11-08-screaming-from-dreaming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d88a92f29896251",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11-09-bloodsports and-others.md",
+                "file": "2022-11-12-american-brittle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-09-bloodsports and-others.md",
+                "file": "2022-11-12-american-brittle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d88a92f29896251",
+  "active": "90c17292528a2286",
   "lastOpenFiles": [
+    "2022-12-25-unfinished-thoughts.md",
     "2022-11-11-this-is-the-last-time.md",
-    "2022-10-24-midnights-and-when-sleep-could-not-find-us.md",
-    "2022-10-29-restless-and-chaotic.md",
-    "2022-11-08-screaming-from-dreaming.md",
-    "2022-11-09-bloodsports and-others.md",
+    "2022-11-12-american-brittle.md",
+    "nothing-at-22.md",
+    "every-version-of-yourself.md",
+    "on-showing-up.md",
     "spectral wounds.md",
-    "2022-11-06-crowning-glories.md",
-    "2022-09-18-not-the-marriage-plot.md",
-    "2022-09-28-before-the-fall.md",
-    "2022-11-04-to-klyluo-with-love.md"
+    "where we worked.md",
+    "2022-10-10-collections-14.md",
+    "2022-11-08-screaming-from-dreaming.md"
   ]
 }
