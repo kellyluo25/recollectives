@@ -9,6 +9,7 @@ categories:
   - hues
   - "if they have past-lives"
 ---
+
 i traded my mother tongue for fluency in assimilation. i would have cut it out myself, muscle from membrane, if it made me sound more like everyone else. 
 
 my ancestors could not recognize me. i am saturated with a culture that does not belong to me, or anyone who looks like me. *repeat after me*, the pundits bade me. familiarity, too, can be outsourced for manufacture—made in elsewhere. my repertoire of practiced references play on loop. they fall easily and cleanly from a foreign mouthpiece.

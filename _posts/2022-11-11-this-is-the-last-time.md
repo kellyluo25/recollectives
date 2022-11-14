@@ -7,7 +7,6 @@ date:  2022-11-11
 categories:
   - interregnums
   - recollections
-
 ---
 
 ###### we always write about the first times and meet cutes; but we never know when the goodbye is coming                             

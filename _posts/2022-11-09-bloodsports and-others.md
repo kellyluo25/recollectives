@@ -7,13 +7,13 @@ date:  2022-11-09
 categories:
   - interregnums
   - from the archives
-
 ---
+
 today is not tuesday poetry; but rather a collection of poems i'll never finish. in the spirit of anti-completionism, i'm excerpting partial-phrases from my notebook at various points in the year. one of the greatest joys and crushing defeats of having an archive of past writing is realizing that so much of it is unfulfilled potential: scraps of beautiful prose that never found a home or a proper resolution. but it's also gratifying to return to words that you wrote down once because they sounded pleasant, and to find a reminder that they're just as lovely with mild age. to see where these could-be stories started and stopped. 
 
 <br />
 
-feat. ***what people do***; ***chemtrails***; ***would you give me your heart if it asked for it?***; ***any(young)body***; ***salted oranges***
+feat. *what people do*; *chemtrails*; *would you give me your heart if i asked for it?*; *any(young)body*; *salted oranges*
 
 
 <!--more-->

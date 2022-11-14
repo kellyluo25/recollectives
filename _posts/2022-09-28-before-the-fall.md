@@ -7,6 +7,7 @@ date: 2022-09-28
 categories:
   - collections
   - seasons twenty
+  - origin stories
 ---
 
 !["interlude: before the spring"]({{site.baseurl}}/images/interludes_fall.png)
