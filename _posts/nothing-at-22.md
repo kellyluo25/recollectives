@@ -1,20 +1,21 @@
-## how can a person know everything at eighteen and nothing at twenty-two
+###### how can a person know everything at eighteen and nothing at twenty-two
+
+
+
+
+There's this lyric in "Nothing new" off Red (Taylor's Version) that Phoebe sings—"*and I wake up in the middle of the night / it's like I can feel time moving*"—and it explains this sudden vertigo I've always tried to place, but have been too disoriented to describe. 
+
+
+"Nothing new" is the song for burnt-out ingenues who get burned if they continue to flirt with self-delusion.
+
 
 *i wrote one last thing as i leave twenty-two behind.* 
-
-
-
- burnt-out ingenues get burned if they continue to flirt with self-delusion.
-
-
 
 I turned twenty-three and. 
 
 The elegy would some something like "relentless self-possession." 
 
 
-
-There's this lyric in the song that Phoebe sings—"*and I wake up in the middle of the night / it's like I can feel time moving*"—and it explains this sudden vertigo I've always tried to place, but have been too disoriented to describe. 
 
 
 
