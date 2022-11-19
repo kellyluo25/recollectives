@@ -1,6 +1,7 @@
 {
   "theme": "system",
   "interfaceFontFamily": "Lora",
-  "baseFontSize": 18,
-  "accentColor": ""
+  "baseFontSize": 19,
+  "accentColor": "",
+  "textFontFamily": "Gelasio"
 }

@@ -54,9 +54,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9bf0d56e9055ead7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-12-25-unfinished-thoughts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aac2ec7b0fbf5476",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11-18-bad-habits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fc9c700e9a3c842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11-18-bad-habits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -114,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-16-brainrot.md",
+                "file": "2022-11-18-bad-habits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +168,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54f06c8b78e45922",
+  "active": "8a2584c1cf143801",
   "lastOpenFiles": [
-    "bad dialogue.md",
     "2022-11-16-brainrot.md",
-    "2022-11-12-american-brittle.md",
+    "2022-12-25-unfinished-thoughts.md",
+    "2022-11-11-this-is-the-last-time.md",
+    "2022-11-18-bad-habits.md",
+    "malibu consort.md",
+    "my true love gave to me.md",
+    "2022-360-days.md",
     "where we worked.md",
-    "on-showing-up.md",
-    "2022-03-25-come-away-to-the-water.md",
-    "2022-03-10-before-the-spring.md",
-    "2022-02-20-collections-011.md",
-    "2022-02-02-collections-010.md",
-    "2022-01-23-collections-009.md"
+    "bad dialogue.md",
+    "2022-11-12-american-brittle.md"
   ]
 }
