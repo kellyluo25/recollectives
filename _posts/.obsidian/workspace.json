@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11-18-bad-habits.md",
+                "file": "where we worked.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-18-bad-habits.md",
+                "file": "where we worked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,17 +168,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a2584c1cf143801",
+  "active": "7fc9c700e9a3c842",
   "lastOpenFiles": [
+    "2022-10-24-midnights-and-when-sleep-could-not-find-us.md",
+    "2022-11-18-bad-habits.md",
     "2022-11-16-brainrot.md",
     "2022-12-25-unfinished-thoughts.md",
     "2022-11-11-this-is-the-last-time.md",
-    "2022-11-18-bad-habits.md",
     "malibu consort.md",
     "my true love gave to me.md",
     "2022-360-days.md",
     "where we worked.md",
-    "bad dialogue.md",
-    "2022-11-12-american-brittle.md"
+    "bad dialogue.md"
   ]
 }
