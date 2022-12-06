@@ -12,9 +12,9 @@ at temperatures below zero celsius for years twice-over, grounds preserve as per
 
 <br/>
 
-<!--more-->
-
 *what are all the ways to preserve something?* 
+
+<!--more-->
 
 to pickle, ferment. bottle up in pressurized jars, stow away dimly-lit cabinets. desiccate until the sun vaporizes shape. souse in brines too sour to nurture.
 
