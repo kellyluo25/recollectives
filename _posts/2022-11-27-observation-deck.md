@@ -1,7 +1,7 @@
 ---
 layout: post
 title: observation deck
-published: true
+published: false
 slug: observation deck
 date:  2022-11-27
 categories:
