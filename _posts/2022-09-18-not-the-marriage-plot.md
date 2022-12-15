@@ -3,7 +3,7 @@ layout: post
 title: not the marriage plot
 published: true
 slug: not-the-marriage-plot
-date: {}
+date: 2022-09-18
 categories:
   - culture shifts
   - paperless post
