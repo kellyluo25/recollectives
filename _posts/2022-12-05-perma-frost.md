@@ -16,7 +16,7 @@ at temperatures below zero celsius for years twice-over, grounds preserve as per
 
 <!--more-->
 
-to pickle, ferment. bottle up in pressurized jars, stow away dimly-lit cabinets. desiccate until the sun vaporizes shape. souse in brines too sour to nurture.
+to pickle, ferment. bottle up in pressurized jars, stow away in dimly-lit cabinets. desiccate until the sun vaporizes shape. souse in brines too sour to nurture.
 
 to hold it so close to the chambers of the heart. to clutch, protect. keep fingers wrapped around it, anywhere hands can touch. insist it is important in each promise. 
 
