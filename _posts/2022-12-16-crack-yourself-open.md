@@ -43,9 +43,9 @@ This scene understood the bubbling mess of the subway cry and unabashedly portra
 
 *Love Life* found me in the late spring, early summer of 2020. I didn't seek it out as much as it stumbled upon some shell of myself, and decided it would make a temporary settlement. This time period is a hollow; like if I stared down the curling spiral of that year, I'd see a pitch-black vacancy where my personhood used to be. The cavern is cold and carries an echo—listless, impressionless. 
 
-To exist in a *lack* is to sit alone at the bottom of a well, hardened and insulated and numb. Sennights spent staring ahead at the walls of wallow, so when the light passes from above on occasion, it's rays scarcely reach whichever self-pitying pit has been dug deep. When your own feelings and faculties have abandoned you, you look for it where others offer their emotions so readily. Forgeries of externalized experiences, like this silly little show about millennials looking for love in the city. It makes you wonder why there's all this bother for human connection and why people keep hurting themselves over it. Watching repeated failures rekindles a recalcitrant hope, against all odds. 
+To exist in a *lack* is to sit alone at the bottom of a well, hardened and insulated and numb. Sennights spent staring ahead at the walls of wallow, so when the light passes from above on occasion, its rays scarcely reach whichever self-pitying pit has been dug deep. When your own feelings and faculties have abandoned you, you look for it where others offer their emotions so readily. Forgeries of externalized experiences, like this silly little show about millennials looking for love in the city. It makes you wonder why there's all this bother for human connection and why people keep hurting themselves over it. Watching repeated failures rekindles a recalcitrant hope, against all odds. 
 
-When I think about this time period, there's nothing on the wall; what could have been memories have since curled into a tiny ball and collapsed in upon itself. In this plume of dust that remains, I remember there was this show with a good subway cry, and a largely forgettable plot and protagonist, and a final line about eggs that clings to me like a friendly ghost.
+When I think about this time period again, there's nothing on the wall; what could have been memories have since curled into a tiny ball and collapsed in upon itself. In this plume of dust that remains, I remember there was this show with a good subway cry, and a largely forgettable plot and protagonist, and a final line about eggs that clings to me like a friendly ghost.
 
 <br />
 <br />
@@ -53,9 +53,9 @@ When I think about this time period, there's nothing on the wall; what could hav
 <br />
 <br />
 
-Shows don't always need a narrator. Most shows haven't perfected the delicate art of pithy tidbits for their self-insert, third-party omniscient voices to float lazily about the main scene. When they do, they have Kristen Bell confidently at the helm of *Gossip Girl* or *Julie Andrews* gossiping about the ton in *Bridgerton*. *Love Life*'s first season had a middle-aged woman with an affected British accent, but it kind of worked. It was a show about romanticization in its heart of hearts, and there's nothing as deeply affirming in the millennial mind's-eye as a life worthy of a witty British narrator.
+Shows don't always need a narrator. Most shows haven't perfected the delicate art of pithy tidbits for their self-insert, third-party omniscient voices to float lazily about the main scene. When they do, they have Kristen Bell confidently snarking at the helm of *Gossip Girl* or Julie Andrews gossiping about the ton in *Bridgerton*. *Love Life*'s first season presented a middle-aged woman with an affected British accent, but it kind of worked. It was a show about romanticization in its heart of hearts, and there's nothing as deeply affirming in the millennial mind's-eye as a life worthy of a witty British narrator.
 
-There's one line of the show that has stuck with me. I don't have the capacious memory to quote lines off-hand, but I'm inclined to remember the beats of this one. Over the final narration of the season, our main character recognizes the estranged feeling she'd spent her whole life (and ten episodes) chasing after:
+There's one line of the show that has since stuck with me. Over the final narrative beat of the season, our main character recognizes the estranged feeling she'd spent her whole life (and ten episodes) chasing after:
 
 >"Finally, Darby had stopped wondering whether or not she was worth loving and simply cracked herself open. Simply cracked her whole life open."
 

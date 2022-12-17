@@ -8,102 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f7773932a3a48e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "malibu consort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6784ed3cbc2857d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-12-05-perma-frost.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30b364d8659642c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "seasons 2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b984b23c83789e66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "seasons 2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aac72f22a329b80a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "no. 015.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "229a098403401ce9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "no. 015.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c58378a73dd44d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-01-21-pastlife-2021.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5de15e1837d21c0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-12-16-crack-yourself-open.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0ac93a7123c41b33",
             "type": "leaf",
             "state": {
@@ -115,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,15 +97,15 @@
   },
   "active": "0ac93a7123c41b33",
   "lastOpenFiles": [
+    "2022-01-21-pastlife-2021.md",
+    "no. 015.md",
+    "seasons 2022.md",
+    "2022-12-16-crack-yourself-open.md",
     "days-360-past.md",
     "2020-07-23-red-book.md",
-    "2022-12-16-crack-yourself-open.md",
     "pastlife 2022.md",
     "nothing-at-22.md",
     "on-showing-up.md",
-    "no. 015.md",
-    "my true love gave to me.md",
-    "malibu consort.md",
-    "2022-12-05-perma-frost.md"
+    "my true love gave to me.md"
   ]
 }
