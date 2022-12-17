@@ -41,7 +41,7 @@ This scene understood the bubbling mess of the subway cry and unabashedly portra
 <br />
 <br />
 
-*Love Life* found me in the late spring, early summer of 2020. HBOMax is permanently removing this show from its catalogue for whatever reasons related to profitability and platform management. In short, it means this show will be inaccessible to audiences, soon and forevermore. Blink and it will be gone.
+*Love Life* found me in the late spring, early summer of 2020. Two and a half years since the first season's debut, HBOMax is permanently removing this show from its catalogue for whatever reasons related to profitability and platform management. In short, it means this show will be inaccessible to audiences, soon and forevermore. Blink and it will be gone.
 
 I didn't seek out this show as much as it stumbled upon some shell of myself, and decided it would make a temporary settlement. This time period is a hollow; like if I stared down the curling spiral of that year, I'd see a pitch-black vacancy where my personhood used to be. The cavern is cold and carries an echo—listless, impressionless. 
 
