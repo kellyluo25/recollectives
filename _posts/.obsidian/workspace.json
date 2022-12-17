@@ -97,14 +97,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-09-18-not-the-marriage-plot.md",
+                "file": "2022-12-16-crack-yourself-open.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ac93a7123c41b33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-12-16-crack-yourself-open.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-09-18-not-the-marriage-plot.md",
+                "file": "2022-12-16-crack-yourself-open.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,17 +192,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5de15e1837d21c0d",
+  "active": "0ac93a7123c41b33",
   "lastOpenFiles": [
-    "2022-09-28-before-the-fall.md",
-    "2022-09-18-not-the-marriage-plot.md",
-    "2022-12-31-pastlife-2022.md",
-    "2022-01-21-pastlife-2021.md",
-    "2022-01-23-collections-009.md",
-    "2022-01-29-things-i-never-wrote.md",
-    "2022-11-27-observation-deck.md",
-    "2022-11-08-screaming-from-dreaming.md",
-    "2021-02-15-blog-turned-newsletter.md",
-    "2021-01-31-insomnia-thoughts.md"
+    "days-360-past.md",
+    "2020-07-23-red-book.md",
+    "2022-12-16-crack-yourself-open.md",
+    "pastlife 2022.md",
+    "nothing-at-22.md",
+    "on-showing-up.md",
+    "no. 015.md",
+    "my true love gave to me.md",
+    "malibu consort.md",
+    "2022-12-05-perma-frost.md"
   ]
 }
