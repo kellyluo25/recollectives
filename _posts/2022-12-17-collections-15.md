@@ -25,7 +25,7 @@ This collection is the *care* diaries.
 <br />
 
 ## **care** / **less**
-##### could i care less? ; hadn't you always been so careless?
+###### could i care less? ; hadn't you always been so careless?
 
 We are so willing to bend ourselves into shapes others can love. 
 
