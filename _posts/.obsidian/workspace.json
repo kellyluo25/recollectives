@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1aa0c7bb3eca8d6b",
+        "id": "d1b88dd1bd1c4844",
         "type": "tabs",
         "children": [
           {
-            "id": "0ac93a7123c41b33",
+            "id": "f5abd72878c220be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-12-16-crack-yourself-open.md",
+                "file": "no. 015.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.00000190734863
+    "width": 221.00000190734863,
+    "collapsed": true
   },
   "right": {
     "id": "e458455caf295df4",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12-16-crack-yourself-open.md",
+                "file": "no. 015.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ac93a7123c41b33",
+  "active": "f5abd72878c220be",
   "lastOpenFiles": [
-    "my true love gave to me.md",
-    "days-360-past.md",
-    "malibu consort.md",
+    "2022-10-10-collections-14.md",
     "no. 015.md",
-    "2021-12-31-2021review.md",
-    "2020-12-31-how-old-are-we-really.md",
-    "2020-12-30-2020review.md",
-    "2020-12-29-elf-yourself.md",
-    "2020-12-01-seminal-ideas.md",
-    "2020-11-29-only-the-internet-matters.md"
+    "2022-02-02-collections-010.md",
+    "2022-12-31-pastlife-2022.md",
+    "days-360-past.md",
+    "2022-06-24-collections-13.md",
+    "2022-12-16-crack-yourself-open.md",
+    "my true love gave to me.md",
+    "where we worked.md",
+    "malibu consort.md"
   ]
 }
