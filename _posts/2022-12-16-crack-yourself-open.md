@@ -41,7 +41,9 @@ This scene understood the bubbling mess of the subway cry and unabashedly portra
 <br />
 <br />
 
-*Love Life* found me in the late spring, early summer of 2020. I didn't seek it out as much as it stumbled upon some shell of myself, and decided it would make a temporary settlement. This time period is a hollow; like if I stared down the curling spiral of that year, I'd see a pitch-black vacancy where my personhood used to be. The cavern is cold and carries an echo—listless, impressionless. 
+*Love Life* found me in the late spring, early summer of 2020. HBOMax is permanently removing this show from its catalogue for whatever reasons related to profitability and platform management. In short, it means this show will be inaccessible to audiences, soon and forevermore. Blink and it will be gone.
+
+I didn't seek out this show as much as it stumbled upon some shell of myself, and decided it would make a temporary settlement. This time period is a hollow; like if I stared down the curling spiral of that year, I'd see a pitch-black vacancy where my personhood used to be. The cavern is cold and carries an echo—listless, impressionless. 
 
 To exist in a *lack* is to sit alone at the bottom of a well, hardened and insulated and numb. Sennights spent staring ahead at the walls of wallow, so when the light passes from above on occasion, its rays scarcely reach whichever self-pitying pit has been dug deep. When your own feelings and faculties have abandoned you, you look for it where others offer their emotions so readily. Forgeries of externalized experiences, like this silly little show about millennials looking for love in the city. It makes you wonder why there's all this bother for human connection and why people keep hurting themselves over it. Watching repeated failures rekindles a recalcitrant hope, against all odds. 
 
