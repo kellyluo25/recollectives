@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "no. 015.md",
+                "file": "2022-12-17-collections-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.00000190734863,
-    "collapsed": true
+    "width": 221.00000190734863
   },
   "right": {
     "id": "e458455caf295df4",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "no. 015.md",
+                "file": "2022-12-17-collections-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +98,7 @@
   "active": "f5abd72878c220be",
   "lastOpenFiles": [
     "2022-10-10-collections-14.md",
-    "no. 015.md",
+    "2022-12-17-collections-15.md",
     "2022-02-02-collections-010.md",
     "2022-12-31-pastlife-2022.md",
     "days-360-past.md",
