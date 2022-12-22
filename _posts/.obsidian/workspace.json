@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-12-22-my-true-love-gave-to-me.md",
+                "file": "observation deck.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b21d07589356220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-01-23-collections-009.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12-22-my-true-love-gave-to-me.md",
+                "file": "2022-01-23-collections-009.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,17 +134,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f5abd72878c220be",
+  "active": "5b21d07589356220",
   "lastOpenFiles": [
-    "2020-07-23-red-book.md",
+    "seasons mmxxii.md",
+    "Untitled.md",
+    "observation deck.md",
+    "malibu consort.md",
     "2022-12-22-my-true-love-gave-to-me.md",
+    "2020-07-23-red-book.md",
     "2022-12-17-collections-15.md",
     "days-360-past.md",
     "2022-12-16-crack-yourself-open.md",
-    "2022-12-05-perma-frost.md",
-    "2022-11-27-observation-deck.md",
-    "2022-11-16-brainrot.md",
-    "2022-11-09-bloodsports and-others.md",
-    "2022-11-18-bad-habits.md"
+    "2022-12-05-perma-frost.md"
   ]
 }

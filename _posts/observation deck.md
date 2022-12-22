@@ -14,6 +14,21 @@ somewhat related, but i've been thinking recently about the cinematographic hall
 <!--more-->
 
 
+the prince consort / malibu ken / ned nickerson etc thing
+
+to remain, always, one pace behind. 
+
+
+There's a scene early in the first season of *The Crown,* where King George is sat next to Phillip on the dock. They've gone out bird hunting, as men do. The king implores (rather, insists) that Phillip's greatest duty is to "Love her. Protect her. She is the job." Elizabeth is duty. 
+
+- kneeling to wife/family/devotion
+- kneeling out of duty
+- rankles against the box of 
+
+
+
+
+
 <br /> 
 
 his fingers are tucked beneath her chin, pivoting her head side to side. a ball in a socket, twisting about. the skin on her face is thick, metaphorically, but thin, literally. he imagines she slathers on la mer every night before sleeping, cakes her cheeks beneath botanical emulsions so they'll never see a dry morning. there's a faint dusting of blush on her upper cheeks, smeared down to a mere suggestion in haste. the angry swipe of middle and ring finger against a pan of cherry red. one of her eyebrows almost jumps up in a quizzical glance. but she's trained well, and she quickly schools her composure to position zero. 
