@@ -13,6 +13,7 @@ somewhat related, but i've been thinking recently about the cinematographic hall
 
 <!--more-->
 
+
 <br /> 
 
 his fingers are tucked beneath her chin, pivoting her head side to side. a ball in a socket, twisting about. the skin on her face is thick, metaphorically, but thin, literally. he imagines she slathers on la mer every night before sleeping, cakes her cheeks beneath botanical emulsions so they'll never see a dry morning. there's a faint dusting of blush on her upper cheeks, smeared down to a mere suggestion in haste. the angry swipe of middle and ring finger against a pan of cherry red. one of her eyebrows almost jumps up in a quizzical glance. but she's trained well, and she quickly schools her composure to position zero. 
