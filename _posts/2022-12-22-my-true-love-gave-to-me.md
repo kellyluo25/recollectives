@@ -33,6 +33,6 @@ Sometimes I make a list of things I want to buy, and check it twice. Sometimes I
 - **dusty pink ottoman**: extra storage, but cushioned. since the fall, has really tied this place together. here to witness an unraveling, a sprawl, across the bench.
 - **jackets x5**: purchased so many jackets in the span of a few days, fleece and fluff, all to keep me warm. sheltered and insulated against the elements.
 - **wallet, redux:** recovering from the heartbreak of my previous loss (misplacement) with a new leather companion. the leather on this one is coarser, exposed; the lining is less floral. recovering after hard lessons that sometimes you love things and you can only love them until you lose them. 
-- **stone diffuser**: a bargain buy. jasmine is in the air again. fragranced ambiance as a interior setpiece.
+- **stone diffuser**: jasmine is in the air again. fragranced ambiance as a interior setpiece.
 
 (*i'll stop here for now, before capital christmas sinks its claws (*claus*) in further*)
