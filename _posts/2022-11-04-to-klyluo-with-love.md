@@ -21,6 +21,13 @@ I wrote this back the spring. I've meant to edit and polish this into finer form
 
 <br />
 <br />
+<br />
+
+<h4 style="text-align:center">💌</h4>
+
+<br />
+<br />
+<br />
 
 Emails are a birthplace. I was born under an August sky at age seven: the internet cable had been wired through our living room computer in the morning and I made my first decision about my pseudonymous self in the evening. I was too young to broadcast my full name to faraway strangers, so I christened myself a new identity. In this new world order, I was much more cosmopolitan and worldly. I was me; as someone else; closer to a dreamt-up self. Rarely do we get to choose who we want to be—yet at seven, an email gave me power, and it gave me place.
 
