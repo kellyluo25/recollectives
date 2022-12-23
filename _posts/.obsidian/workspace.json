@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-12-22-my-true-love-gave-to-me.md",
-                "mode": "source",
+                "file": "2022-11-04-to-klyluo-with-love.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -37,16 +37,6 @@
             "state": {
               "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "8d242d1adfb54110",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
             }
           }
         ],
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12-22-my-true-love-gave-to-me.md",
+                "file": "2022-11-04-to-klyluo-with-love.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,15 +126,15 @@
   },
   "active": "5b21d07589356220",
   "lastOpenFiles": [
-    "2022-12-31-pastlife-2022.md",
-    "2022-01-23-collections-009.md",
-    "seasons mmxxii.md",
-    "Untitled.md",
-    "observation deck.md",
-    "malibu consort.md",
-    "2022-12-22-my-true-love-gave-to-me.md",
-    "2020-07-23-red-book.md",
+    "2022-01-21-pastlife-2021.md",
+    "2022-01-29-things-i-never-wrote.md",
+    "pastlife - 2022.md",
+    "2022-11-07-avo-toast.md",
+    "2022-11-12-american-brittle.md",
+    "2022-11-16-brainrot.md",
+    "2022-12-05-perma-frost.md",
     "2022-12-17-collections-15.md",
-    "days-360-past.md"
+    "2022-12-22-my-true-love-gave-to-me.md",
+    "2022-04-12-little-thing-called-spring.md"
   ]
 }

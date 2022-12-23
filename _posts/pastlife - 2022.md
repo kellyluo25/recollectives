@@ -33,7 +33,10 @@ read: [lighthouse](https://lighthouse.kellyluo.me/)
 
 It would not be a year at an end and another year at the start if I did not lament how little writing I did compared to the quantity of writing I'd sought out to do. The inconsistency looms large, as always (so many words I'm trying to get out; I wish they'd pour out of me). 
 
-Here are the things I wrote that I'm rather fond of: [not the marriage plot](https://blog.kellyluo.me/2022-09/not-the-marriage-plot) (long live the romance of it all); [words of worship](https://blog.kellyluo.me/2022-10/collections-014) (from no. 014, the electric shockwave of finding good writing), [ripe avocado, runny yolk, french batard](https://blog.kellyluo.me/2022-11/still-life-avocado-toast) (avocado toast, a still-life), [brainrot](https://blog.kellyluo.me/2022-11/brainrot) (brain chemistry, altered)
+Here are the things I wrote that I'm rather fond of: 
+[not the marriage plot](https://blog.kellyluo.me/2022-09/not-the-marriage-plot) (long live the romance of it all); [words of worship](https://blog.kellyluo.me/2022-10/collections-014) (from no. 014, the electric shockwave of finding good writing), [ripe avocado, runny yolk, french batard](https://blog.kellyluo.me/2022-11/still-life-avocado-toast) (avocado toast, a still-life), [brainrot](https://blog.kellyluo.me/2022-11/brainrot) (brain chemistry, altered)
+
+from @klyluo, with love (i go back and forth between this being the best / worst thing i've ever written, but i could not separate myself from this year without these words i've written. maybe one day you'll see it again in a bound collection of essays.)
 
 <br />
 

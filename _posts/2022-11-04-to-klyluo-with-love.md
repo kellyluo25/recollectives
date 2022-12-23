@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "to @klyluo, with love"
-published: false
+published: true
 slug: to-klyluo-with-love
 date:  2022-11-04
 categories:
@@ -12,9 +12,9 @@ categories:
 
 !["an internet love letter"]({{site.baseurl}}/images/loveletter.jpg)
 
-I wrote this back the spring. I've meant to edit and polish this into finer form, but I almost prefer the version of this that is raw and unwound. This is the unedited, unvarnished story of a young girl on the internet. I just wanted it to exist somewhere else in cyberspace. 
+I wrote this back the spring. I've meant to edit and polish this into finer form, but I almost prefer the version of this that is raw and unwound. This is the unedited, unvarnished diary of a young girl on the internet. I just wanted it to exist somewhere else in cyberspace—so it's here.
 
-> **PRELUDE** | This lives within a coming of age on the internet story: a nostalgic period piece about the formative years of online existence. Technology not as the central focus, but as the undercurrent. Here are some words that may live in the back of your head as you read—Isolation and anxiety. Panopticon; solipsism. Navel-gazing worldliness. Performances in an empty theatre. Superficial interiority and self-delusion. Amateur; auteur; aesthetic. Taking ordinary things way too seriously.
+> **PRELUDE**  |  This lives within a coming of age on the internet story: a nostalgic period piece about the formative years of online existence. Technology not as the central focus, but as the undercurrent. Here are some words that may live in the back of your head as you read—Isolation and anxiety. Panopticon; solipsism. Navel-gazing worldliness. Performances in an empty theatre. Superficial interiority and self-delusion. Amateur; auteur; aesthetic. Splintering, then reconstituting. Taking ordinary things way too seriously. Knowing way too much about everything, everywhere, all the time.
 
 
 <!--more-->
@@ -24,7 +24,7 @@ I wrote this back the spring. I've meant to edit and polish this into finer form
 
 Emails are a birthplace. I was born under an August sky at age seven: the internet cable had been wired through our living room computer in the morning and I made my first decision about my pseudonymous self in the evening. I was too young to broadcast my full name to faraway strangers, so I christened myself a new identity. In this new world order, I was much more cosmopolitan and worldly. I was me; as someone else; closer to a dreamt-up self. Rarely do we get to choose who we want to be—yet at seven, an email gave me power, and it gave me place.
 
-The networked mail system was invented in the 1970s because scientists wanted to talk to each other about laboratory findings; but in the decades that followed, the email protocol became a communication lifeline, a junk drawer, and then a passport to everything else. An email was a token of possibility and personality shared with every account I created after. I find a constellation of myself looking back, versions of me made for playing virtual penguin games and messaging friends; and ordering food and hailing cars and paying credit card bills.
+The networked mail system was invented in the 1970s because scientists wanted to talk to each other about laboratory findings; but in the decades that followed, the email protocol became a communication lifeline, a junk drawer, and then a passport to everything else. An email was a token of possibility and personality shared with every account I created after. I find a constellation of myself looking back, versions of me made for playing virtual penguin games and messaging friends; and ordering food and hailing cars and paying bank statements.
 
 All my online memories are time-stamped and scattered across different addresses. An email says something about you: it’s the promise that you belong to cyberspace.
 
@@ -35,7 +35,7 @@ All my online memories are time-stamped and scattered across different addresses
 <br />
 <br />
 
-When you start, nobody tells you the internet is a sad place. It will break your heart if you don’t break it yourself first. To do that, it lets you fall in love with it; pulls you close and tells you what you want to hear; let’s you believe that it was always about you.
+When you start, nobody tells you the internet is a sad place. It will break your heart if you don’t break it yourself first. To do that, it lets you fall in love with it; pulls you close and tells you what you want to hear. Let’s you believe that it was always about you.
 
 <br />
 <br />
@@ -44,9 +44,11 @@ When you start, nobody tells you the internet is a sad place. It will break your
 <br />
 <br />
 
-The first time the internet made me cry, my best friend in middle school updated her Facebook status to say, “she’s such a hypocrite.” I knew it was about me before she ever needed to tag me in it. I stared at it for thirty minutes, a public declaration of how awful I was as a person, and burst into tears. I cried because I was publicly flayed for something I didn’t fully understand. I felt fragile and dumb, and cried some more.
+The first time the internet made me cry, my best friend in middle school updated her Facebook status to say “she’s such a hypocrite.” I knew it was about me before she ever needed to tag me in it. I stared at it for thirty minutes, this ugly, public declaration of how awful I was as a person, and burst into tears. I cried because I was publicly flayed for something I didn’t fully understand. I felt fragile and dumb, and then cried some more.
 
-Her post was two clicks away from bright, beaming headlines about housing foreclosures and oil spills and hurricane devastation. Americans were losing their homes and waterfowl were drowning in crude slicks, and my (former) best friend called me a hypocrite to the digital public before she said it to my face. I learned a few things from the news those years: the news taught the late-aughts a moral lesson about precarity. The adults put their trust in institutions, and the dramatic irony was that the institutions will choose themselves before they choose you, each and every time. Emotions were precarious, not precious, and so were human egos. 
+Her post was two clicks away from bright, beaming headlines about housing foreclosures and oil spills and hurricane devastation. Americans were losing their homes and waterfowl were drowning in crude slicks, and my (former) best friend called me a hypocrite to the digital public before she said it to my face. There was a long list of other, better things to cry over. 
+
+I learned a few things from the news those years: the news taught the late-aughts a moral lesson about precarity. The adults put their trust in institutions, and the dramatic irony was that the institutions will choose themselves before they choose you, each and every time. Emotions were precarious, not precious, and so were human egos. 
 
 The whiplash is treacherous. Everything matters, but nothing matters. Minimizes what you’re feeling, again and again. Explodes the little things, like fiery sparks that push your emotional buttons; then shuts it away because the world is bigger than you. Too big for you and your little hypocrisy. 
 
@@ -89,7 +91,7 @@ The folktale almost has a happy ending. This is good for us—no apples were poi
 
 The early 2010s were formative, and even that word doesn’t quite capture the transformational monolith. I resent the way I can invoke the sights and sounds of that early decade and reconstruct them from imagined memory. To know these with such familiarity is to have spent an adolescence wanting and waiting. Not knowing myself well enough to pry the elation from the melancholy.
 
-Elation is the obsessive rapture of youth. A chorus of small voices sang we were scared of getting old (it feels so scary). It’s why we template our own self-formation against the checkboxes of change, the falling in love, emotional rupture, and acute transition—when everything is new because it is the first time—and maybe that is why we believe we will remember forever. 
+Elation is the obsessive rapture of youth. A chorus of small voices sang we were scared of getting old (*it feels so scary*). It’s why we template our own self-formation against the checkboxes of change, the falling in love, emotional rupture, and acute transition—when everything is new because it is the first time—and maybe that is why we believe we will remember forever. 
 
 Melancholy is wondering—half hope, mostly agony. Wondering why we’re not good enough, wondering when it’ll get better. Tired and weary in our awkward, still-forming bodies, gaping vessels for all the loneliness and isolation and self-doubt. If only we could be a little less this and just a little more that. 
 
@@ -102,13 +104,13 @@ I was locked away in my bedroom at home, and whatever eludes my memory of a chil
 <br />
 <br />
   
-Vertigo is a feeling of displacement. At great heights, tiny crystals in the inner ear dislodge and send the world spinning. Gravity lets loose. There’s a physicality to the topsy-turvy motion as familiar surroundings warp and time caves in, but the disorientation is all imagined inside the head. Nothing has moved and little has changed.
+Vertigo is a feeling of displacement. At great heights, tiny crystals in the inner ear dislodge and send the world spinning. Gravity lets loose. There’s a physicality to the topsy-turvy motion as familiar surroundings warp and time caves in, but disorientation is an imagined feeling inside the head. Nothing has moved and little has changed.
 
-Vertigo is also starting at the top of the camera roll and looking all the way down. My photo feed starts in 2009 and has not stopped since. The rules of time play differently here: take it from the top and go backward in time, all the way down until memory lane hits a dead end and memories cannot be compressed into megabytes. That’s really where it all began.
+Vertigo is also starting at the top of the camera roll and looking all the way down. My photo feed starts in 2009 and has not stopped since. The rules of time play differently here: take it from the top and go backward in time, all the way down until memory lane hits a dead end and memories can no longer be compressed into megabytes. That’s really where it all began.
 
 My experiences are compacted into a pristine grid of 3x3 windows. Opening each window unlocks a memory I didn’t know I could still access, but I had originally left it there for safekeeping. Moments worth sharing (saving) are dressed up in brighter lighting and preserved for posterity. Public approximations of attainment. 
 
-As I get further, the spiral tightens. I watch change unravel over time. I notice the physical changes first: how I wore Aéropostale before I traded up for Abercrombie or how my hair shortens and makeup fades as I get younger. This is a carefully composed storyboard of candids from studying abroad in France to group poses in the chemistry classroom to selfies in my sunlit living room. The rule of thirds positions me slightly off-center in each moment, never in the middle, but always in the frame of focus. Others float in and out of the picture, a rotating cast lodged at the edges of the composition. If I scroll past long enough, they’ll unstick and disappear. Everyone leaves the grid, eventually; everyone but me.
+As I get further, the spiral tightens. I watch change unravel over time. I notice the physical changes first: how I wore Aéropostale before I traded up for Abercrombie or how my hair shortens and makeup fades as I get younger. This is a carefully composed storyboard of candids from studying abroad to group poses in the chemistry classroom to selfies in my sunlit living room. The rule of thirds positions me slightly off-center in each moment, never in the middle, but always in the frame of focus. Others float in and out of the picture, a rotating cast lodged at the edges of the composition. If I scroll past long enough, they’ll unstick and disappear. Everyone leaves the grid, eventually; everyone but me.
 
 <br />
 <br />
@@ -149,9 +151,9 @@ I spent my teenage years on this anonymous microblogging platform, a place as un
 <br />
 <br />
 
-Most importantly, she was sad. Sorrow found her when she was young. A fanciful condition for experiencing something more meaningful than ruthless monotony. Tumblr normalized and held space for tragic glamor, peeling back the veneer of curated perfection to reveal a hardened romantic. Flower crowns with thorns. She wanted love but didn’t have anything close to it. Always knew the villain was the true hero of the story. Believed broken things were more beautiful. Could cut open her insecurities and never stop bleeding. She didn’t have many reasons for sadness (but hers; and that of the world), though it was closer to being more alive. 
+Most importantly, she was sad. Sorrow found her when she was young. A fanciful condition for experiencing something more meaningful than ruthless monotony. Tumblr normalized and held space for tragic glamor, peeling back the veneer of curated perfection to reveal a hardened romantic. Flower crowns with thorns. She wanted love but didn’t have anything close to it. Always knew the villain was the true hero of the story. Believed broken things were more beautiful. Could cut open her insecurities and never stop bleeding. 
 
-She envied the self-esteem and security that came so easily for others enamored with real life. The joy and contentment of having it all. So she sought it elsewhere, and the desire for self-destruction became teen girl agency. They could ugly cry in the dark and crave violence as satisfaction. Internalization as resistance against external pressure, wielded in sad song lyrics and brooding quotes. This is the language of angst, translated into verses of internet poetry. I loved all these things too, and still do.
+She didn’t have many reasons for sadness (but hers; and that of the world); she still thought it was closer to being more alive outside than dead inside. She envied the self-esteem and security that came so easily for others enamored with real life. The joy and contentment of having it all. So she sought it elsewhere, and the desire for self-destruction became teen girl agency. They could ugly cry in the dark and crave violence as satisfaction. Internalization as resistance against external pressure, wielded in sad song lyrics and brooding quotes. This is the language of angst, translated into verses of internet poetry. I loved all these things too, and still do.
 
 <br />
 <br />
@@ -162,7 +164,7 @@ She envied the self-esteem and security that came so easily for others enamored 
 
 The aesthetic is an invocation—electrified by elation and melancholy in synesthetic form. Internet archivists will eventually return to a mausoleum of washed-out pastels and soft grunge.
 
-Aesthetics are best appreciated through a saturated VSCO filter, muted by grainy textures and pale overlays. Cotton-candy sunsets and hazy night skylines. Black and white grid patterns. Vintage artifacts of a simpler age: typewriters, mustangs, and vinyl records. The fashion was equally retro and saccharine, and clothing in closets are the last layers that are shed in self-image. Converses in puddles of rain. Lace accents on Peter Pan collars. Oversized flannels and ripped jeans. Teenage girls bore modern culture from a collage of internet influences. Non-institutional so as to be appropriately counter-cultural, yet enforced by a silent oath of reverence from girls who liked and wanted the same material things because it made them seem closer to special. 
+Aesthetics are best appreciated through a saturated VSCO filter, muted by grainy textures and pale overlays. Cotton-candy sunsets and hazy night skylines. Black and white grid patterns. Vintage artifacts of a simpler age: typewriters, mustangs, and vinyl records. The fashion was equally retro and saccharine, and clothing in closets are the last layers that are shed in self-image. Converses in puddles of rain. Lace accents on peter pan collars. Oversized flannels and ripped jeans. Teenage girls bore modern culture from a collage of internet influences. Non-institutional so as to be appropriately counter-cultural, yet enforced by a silent oath of reverence from girls who liked and wanted the same material things because it made them seem closer to special. 
 
 Music holds sonic memory, and the soundtrack of this time promised it was self-deprecatingly hipster. The indie pop was buoyant with just enough edge to be considered cool. It bounced off walls and invited a rapturous escape into adventure. Something about going to a best friend’s house and disparate youth. When pop was too enthusiastic, singer-songwriters crooned over folksy arrangements about lost loves and wasted dreams. Music taste is supposedly unique to each person, and these songs—consumed with feelings at the extremes—held everyone together. The indie canon was the single most recognizable artifact of the era. The soundtrack lives on in coffee shops and house parties and Spotify playlists.
 
@@ -179,9 +181,9 @@ Everything I know now, I know because I read it online. I saw everything through
 
 If I could reach out and touch it, it would feel like matte keyboard keys or cool glass beneath my fingertips. Or even the violent burn of a laptop fan sitting atop my lap for hours. Digital devices are eerily quiet in the real world; there’s a stillness in spending time with them, punctuated by mechanical clicks and featherlight taps. If I really listened closely, I would admit the internet is terribly loud. Everyone is talking or has something to scream into the abyss. There’s always music playing from another room. I’m trying to say something too, scattered in comments and short texts, but I’m not sure I want anyone to listen.
 
-In the early days, I wrought internet pixels with my bare hands. Endless creative freedoms spilled out from the world wide web, and I would be a lesser creator, writer, and technologist without it all. I studied design through photoshopped graphics and gifs of my favorite shows: here, art thrived as the manipulation of media. I learned literature through the retold fantasies of anonymous authors; fiction belonged to the fans who wrote it. I coded fragments of websites in between closed brackets and curly braces, building a second home in my cozy little corner of the interwebs.
+In the early days, I wrought internet pixels with my bare hands. Endless creative freedoms spilled out from the world wide web, and I would be a lesser creator, writer, and technologist without it all. I studied design through photoshopped graphics and gifs of my favorite shows: here, art thrived as the manipulation of media. I learned literature through the retold fantasies of anonymous authors; fiction belonged to the fans who wrote it. I wrought fragments of websites in between closed brackets and curly braces, building a second home in my cozy little corner of the interwebs.
 
-I lived in universes that weren’t mine and generously borrowed inspiration. The internet was a haven for culture, to seek comfort outside of oneself and invite stories into psychic reality. There is an intimacy in people and places I knew from all the time I spent with them inside my head. I made the fiction real on my terms: I designed photo edits with a few thousand engagements and posted stories with dozens of comments. The anonymity granted me respite from gossip and recognition. I found a simple pride in creating for strangers. Something I made mattered to people other than myself, and I craved that rush of validation; I didn’t know where else to find it. It was like someone was paying attention.
+I lived in universes that weren’t mine and generously borrowed inspiration. The internet was a haven for culture, to seek comfort outside of oneself and invite stories into psychic reality. There is an intimacy in people and places I knew from all the time I spent with them inside my head. I made the fiction real on my terms: I designed photo edits for engagement and posted stories with comments. The anonymity granted me respite from gossip and recognition. I found a simple pride in creating for strangers. Something I made mattered to people other than myself, and I craved that rush of validation; I didn’t know where else to find it. It was like someone was paying attention.
 
 If I could reach out and touch it, I’d pull back and see my fingerprints all over it too.
 
@@ -194,7 +196,7 @@ If I could reach out and touch it, I’d pull back and see my fingerprints all o
 
 I can hear her voice in my head. The narrator who monologues with the authority of a wiser self; the soft and serene voiceover of a semi-autobiographical film. She told me to romanticize my life in the pith of unremarkableness. She says things like “pay attention to the way you feel/do/think this,” as if others are watching; keeps going even though I know they’re not. She insists that ordinary moments feel grand, and carefully threads them together in a character arc about who I am and who I will become. 
 
-A small footnote: I never asked where she came from. I imagine it’s from the self-reported 140-character statuses that describe every little thing I do in sensationalized detail. Or the artistic flair of caption-writing when my photo post was worth a thousand words but needed a few more witty ones. From the very beginning, she was the judge and the curator. My profile is her name, bio, photos, and favorites.
+A small footnote: I never asked where she came from. I imagine it’s from the self-reported 140-character statuses that describe every little thing I do in sensationalized detail. Or the artistic flair of caption-writing when my photo post was worth a thousand words but needed a few more witty ones. From the very beginning, she was the judge and the curator. My profile is her name, bio, and likes.
 
 Sometimes I wonder if she’ll ever shut up. Most of the time I know I’d be lost without her. 
 
