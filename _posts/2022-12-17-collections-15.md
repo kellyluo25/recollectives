@@ -35,7 +35,7 @@ In this modern age, unspoken norms dictate everything is casual until it isn't. 
 
 Haven't we always been so careless with each other? Unprotective in our encounters. Meeting new people, making small talk, meaning *something* to one another. 
 
-The carelessness breeds mistrust. A lack of belief that anyone can be any more than what they give in the present. Alternatively, a preemptive warning that everything can be exchanged and transacted for another. It's all so easy. It's all so interchangeable. Isn't it the way, where I care more and skin my knees on it? zWe are the moving pieces, always evolving ourselves to more likeable and pleasant shapes. We say we could care less about doing this, even when we bend over backwards for it. We have the good sense to feel bothered when others don't care much for it either. Realize, then: there are no good ways to protect against carelessness.
+The carelessness breeds mistrust. A lack of belief that anyone can be any more than what they give in the present. Alternatively, a preemptive warning that everything can be exchanged and transacted for another. It's all so easy. It's all so interchangeable. Isn't this the way, where I care more and skin my knees on it? We are the moving pieces, always evolving ourselves to more likeable and pleasant shapes. We say we could care less about doing this, even when we bend over backwards for it. We have the good sense to feel bothered when others don't care much for it either. Realize, then: there are no good ways to protect against carelessness.
 
 
 ## **care of self, skin**

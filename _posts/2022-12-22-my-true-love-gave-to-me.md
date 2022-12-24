@@ -11,7 +11,7 @@ categories:
 
 ###### **material girl** loves her material world, year 2022
 
-My favorite guilty pleasure is the cult of TikToks that boast exclusive Amazon finds. For a few minutes of my time and Under $30, I can have clearer skin, a nicer bathroom, a spotless kitchen. I am optimized. These short videos, slice of life, sing siren songs of attainment. At the bottom of the shopping cart is a better life, home, and self. I want to be better; if I spend the money, this genre says I can have something that looks like it all. Life gives lemons, and then I can be made. 
+My favorite guilty pleasure is the cult of TikToks that boast exclusive Amazon finds. For a few minutes of my time and under $30, I can have clearer skin, a nicer bathroom, a spotless kitchen. I am optimized. These short videos, slice of life, sing siren songs of attainment. At the bottom of the shopping cart is a better life, home, and self. I want to be better; if I spend the money, this genre says I can have something that looks like it all. Life gives lemons, and then I can be made. 
 
 Marie Kondo has never inspected a credit card statement. Nothing has been so compelling to the modern sphere of commerce as a material girl with a credit card bearing her name. And nothing has so wholly transformed the solid edges of my existence as a few of my favorite things—the things my fingers reach for, in the day and in the dark, grasping toward something greater. Everything within reach of my senses has a contour, an outline of my life rendered in shapes.
 

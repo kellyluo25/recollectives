@@ -16,10 +16,8 @@ I wrote this back the spring. I've meant to edit and polish this into finer form
 
 > **PRELUDE**  |  This lives within a coming of age on the internet story: a nostalgic period piece about the formative years of online existence. Technology not as the central focus, but as the undercurrent. Here are some words that may live in the back of your head as you read—Isolation and anxiety. Panopticon; solipsism. Navel-gazing worldliness. Performances in an empty theatre. Superficial interiority and self-delusion. Amateur; auteur; aesthetic. Splintering, then reconstituting. Taking ordinary things way too seriously. Knowing way too much about everything, everywhere, all the time.
 
-
 <!--more-->
 
-<br />
 <br />
 <br />
 

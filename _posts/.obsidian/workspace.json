@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d1b88dd1bd1c4844",
+        "id": "5a6d932237a4c9d8",
         "type": "tabs",
         "children": [
           {
-            "id": "f5abd72878c220be",
+            "id": "26c08086914479b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "observation deck.md",
+                "file": "seasons mmxxii.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "5b21d07589356220",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11-04-to-klyluo-with-love.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "983519bb416081a8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-04-to-klyluo-with-love.md",
+                "file": "seasons mmxxii.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +103,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5b21d07589356220",
+  "active": "26c08086914479b9",
   "lastOpenFiles": [
+    "2021-12-30-seasons-twenty=one.md",
+    "2021-04-20-collections-005.md",
+    "2021-12-15-on-the-drive-down.md",
+    "2021-02-15-blog-turned-newsletter.md",
+    "2021-02-23-collections-002.md",
+    "2020-12-30-2020review.md",
+    "{{site.baseurl}}/images/seasons_twentyone.jpg.md",
     "seasons mmxxii.md",
-    "pastlife - 2022.md",
     "observation deck.md",
-    "nothing-at-22.md",
-    "days-360-past.md",
-    "2022-11-11-this-is-the-last-time.md",
-    "2022-11-04-to-klyluo-with-love.md",
-    "2022-01-21-pastlife-2021.md",
-    "2022-01-29-things-i-never-wrote.md",
-    "2022-11-07-avo-toast.md"
+    "2022-12-22-my-true-love-gave-to-me.md"
   ]
 }

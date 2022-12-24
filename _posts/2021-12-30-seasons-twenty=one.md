@@ -12,7 +12,7 @@ categories:
 
 ---
 
-![seasons twenty-one]({{site.baseurl}}/images/seasons_twentyone.jpg)
+![seasons twenty-one]({{site.baseurl}}/images/seasons2021.jpg)
 
 <br />
 
