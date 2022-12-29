@@ -10,7 +10,7 @@ categories:
 
 ![seasons twenty-two]({{site.baseurl}}/images/seasons2022.jpg)
 
-A return to the still-annual series of the seasons. Seasons are synecdoche, a part meant to stand for a whole. Extant parts of an elapsed year. I like to imagine my seasons as containers, yet they are borderless. They spill over in my desperation to contain my memories within demarcations. 
+A return to the still-annual series of the seasons. Seasons are synecdoche, a part meant to stand for a whole. Extant vignettes of an elapsed year. I like to imagine my seasons as containers, yet they are borderless. They spill over in my desperation to contain my memories within demarcations. 
 
 My recollections of the seasons are always intertwined with the sensory details of weather and climate, the background to which the foreground of my memories are allowed to exist. I don't read weather reports aside from the daily highs/lows boasted on my phone lockscreen, but I do enjoy reading other writing about the weather. Weather is a fundamental exercise in describing the natural world, as we have all once experienced it, as it becomes wholly individual to our lives. 
 
