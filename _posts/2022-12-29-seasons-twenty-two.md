@@ -28,7 +28,7 @@ Spring presents renewal, resurrection. The folly of hope, bloomed anew. A fascin
 The late winter molted into a warmer shape. Tasted wine in the valley, then tore itself out of me. Saw snow, a lake, red sandstone. Scaled a muddy trail, and every so often, I would look back at the miracle of these giant sloped rocks amidst the flurries. Sent myself to a place built to contain a river, broke open on the stylings of tulips and miffy. Chocolate, caramel. Orange life vests drifting on open-water canals, a morning walk on the castle grounds. 
 
 
-## **summer
+## summer
 ###### heat waves
 
 I commenced, a belated recreation of the real thing. Woke up at five in the morning for a promenade along Mt. Auburn. Dug my high heels in the dirt, black gown fluttering in the breeze. Took a reel of photos for the family memory, or the imitation of it. Maybe this is what it would have felt like when this meant everything. Don't know when I stopped searching for closure, two years late.
