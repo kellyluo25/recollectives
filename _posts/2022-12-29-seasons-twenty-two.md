@@ -25,7 +25,7 @@ In the false spring, I read this about the weather—weather at the center of ho
 
 Spring presents renewal, resurrection. The folly of hope, bloomed anew. A fascination with spring, in concept—as a vessel, for potential; as a promise, unfulfilled. Wrote poetry, on a Tuesday. I took a writing course, learned craft in the way it was never taught to me. The myths found me as an urban fantasy. I pressed produce into pillowy beds of dough and spelled my offerings in focaccia. Painted a falsehood of water lilies; strung tissue paper into peonies. 
 
-The late winter molted into a warmer shape. Tasted wine in the valley, then tore itself out of me. Saw snow, a lake, red sandstone. Scaled a muddy trail, and every so often, I would look back at the miracle of these giant sloped rocks amidst the flurries. Sent myself to a place built to contain a river, broke open on the stylings of tulips and miffy. Chocolate, caramel. Orange life vests drifting on open-water canals, a morning walk on the castle grounds. 
+The late winter moulted into a warmer shape. Tasted wine in the valley, then tore itself out of me. Saw snow, a lake, red sandstone. Scaled a muddy trail, and every so often, I would look back at the miracle of these giant sloped rocks amidst the flurries. Sent myself to a place built to contain a river, broke open on the stylings of tulips and miffy. Chocolate, caramel. Orange life vests drifting on open-water canals, a morning walk on the castle grounds. 
 
 
 ## summer
