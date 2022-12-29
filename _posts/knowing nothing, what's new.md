@@ -3,7 +3,7 @@
 
 
 
-There's this lyric in "Nothing new" off Red (Taylor's Version) that Phoebe sings—"*and I wake up in the middle of the night / it's like I can feel time moving*"—and it explains this sudden vertigo I've always tried to place, but have been too disoriented to describe. 
+There's this lyric in "Nothing new" off *Red (Taylor's Version)* that Phoebe sings—"*and I wake up in the middle of the night / it's like I can feel time moving*"—and it explains this sudden vertigo I've always tried to place, but have been too disoriented to describe. 
 
 
 "Nothing new" is the song for burnt-out ingenues who get burned if they continue to flirt with self-delusion.
@@ -42,7 +42,7 @@ Much like a non-Newtonian fluid clutched in the palm of your hand: if you hold t
 Symbolism is another song: mirrorball. How I was just reflecting all the qualities of myself I had found acceptable, or acceptable enough.
 
 
-Steven yeun used the phrase "prismatic neurosis" and I haven't been able to shake it. prismatic; as in multivariate and multidimensional, as in filtering and scattering light; as in showing you something different each time you look at it. 
+Steven Yeun used the phrase "prismatic neurosis" and I haven't been able to shake it. prismatic; as in multivariate and multidimensional, as in filtering and scattering light; as in showing you something different each time you look at it. 
 
 
 and the mirrorball itself is a prism: draws light, and reflects it in every direction. 

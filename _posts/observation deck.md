@@ -12,6 +12,7 @@ I've been thinking recently about the cinematographic hallmarks of the male vs. 
 
 <!--more-->
 
+This is an essay about the consort-as-character.
 
 the prince consort / malibu ken / ned nickerson etc thing
 

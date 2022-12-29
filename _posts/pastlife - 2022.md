@@ -9,13 +9,13 @@ categories:
   - if they have past-lives
 ---
 
-I write this nearly eleven months after my last recapitulation, the life I lived last year. 
+I write this nearly eleven months after my last recapitulation, the life I lived last year. I've walked , on roads in different cities, countries even. 
 
 <br />
 
 ### a year in review
 
-In 2022, I watched thirty-one seasons of tv and twenty-four films; read approximately twelve bo
+In 2022, I watched sixteen seasons of television and fifteen films; read approximately fifteen books and listened to at least 53k minutes of music. 
 
 <!--more-->
 
@@ -23,18 +23,29 @@ In 2022, I watched thirty-one seasons of tv and twenty-four films; read approxim
 
 ## what i read
 
-Rather than rehash how I've failed my Goodreads reading challenge once again, I've sifted through my favorite reads from my Instapaper archive. To know what someone reads is to know how they think; and to know what resonates is to know who they'll become as a result.
+My reading archive sat somewhat neglected this year (save for a few snowy afternoons in a cabin), but my queue is bountiful as ever. I read a few more contemporary novels and realized a generalized distaste for them. A mislike for matter-of-fact interior monologues that render a stark imitation of the real world on stoic, disconnected terms. I contrast this with the more fanciful writing I found my way back to, and remembering how good it can be. see: [words of worship](https://blog.kellyluo.me/2022-10/collections-014) (from no. 014, the electric shockwave of finding good writing). I've hardly read anything at all and at the same time I've read so much—upon hundreds of thousands of words—that I find myself daydreaming in ekphrasis.
 
-read: [lighthouse](https://lighthouse.kellyluo.me/) 
+i went backwards in my reading history, and here are some words i wish i stole and wrote myself. i think of them on occasion, and fondly; they have been folded into me now.
+
+read @ [lighthouse](https://lighthouse.kellyluo.me/) 
+
+- the sequence is at once a terrifying vision and a harrowing memory; never revisited, it forms an invisible spine that connects the series’ two arcs *like ribs, curving out and around without touching*.
+- like the great mad women before me, i am spiralling into manic-depressive chaos in a way that i will inevitably romanticize regardless of its material consequences, and self-mythologizing until i can make that feel like a good thing. 
+- everything is new which means nothing is new; even the new things already feel used up. everything is so ripe it dissolves in your hands, the juice running down your arm.
+- beyond the place where things are named and then stay in the shape of that name. containers do not successfully hold their contents here; we are always spilling over, refusing borders, refusing definitions.
+- *fold your paper-thin feelings into mine*, crease the edges, press, and tuck away this raw, numb flatness: shape it into a colorful origami crane and throw it out your bedroom window. shred it. i don’t care. there are no rules.
+- our hard human shells carry a soft animal inside: a carnal instinct that is not all wild, that is also loving and a little lonely, desperate for permission to feel.
+- i don’t ever talk about it. it’s a bit like a little malformed myth still lodged between my heart and my rib cage.
+- fiction is, i think, always kind of about the shock of human experience. the shock of being alive.
 
 <br />
 
 ## what i wrote
 
-It would not be a year at an end and another year at the start if I did not lament how little writing I did compared to the quantity of writing I'd sought out to do. The inconsistency looms large, as always (so many words I'm trying to get out; I wish they'd pour out of me). 
+It would not be another year at an end and a new year at the start if I did not lament how little writing I did compared to the quantity of writing I had sought out to do. The inconsistency looms large, as always (so many words I'm trying to get out; I wish they'd pour out of me). 
 
-Here are the things I wrote that I'm rather fond of: 
-[not the marriage plot](https://blog.kellyluo.me/2022-09/not-the-marriage-plot) (long live the romance of it all); [words of worship](https://blog.kellyluo.me/2022-10/collections-014) (from no. 014, the electric shockwave of finding good writing), [ripe avocado, runny yolk, french batard](https://blog.kellyluo.me/2022-11/still-life-avocado-toast) (avocado toast, a still-life), [brainrot](https://blog.kellyluo.me/2022-11/brainrot) (brain chemistry, altered)
+Here are the things I wrote that I'm partial to:
+[not the marriage plot](https://blog.kellyluo.me/2022-09/not-the-marriage-plot) (long live the romance of it all); [this is the last time](https://blog.kellyluo.me/2022-11/this-is-the-last-time) (saying goodbye again) [ripe avocado, runny yolk, french batard](https://blog.kellyluo.me/2022-11/still-life-avocado-toast) (avocado toast, a still-life), [brainrot](https://blog.kellyluo.me/2022-11/brainrot) (altered brain chemistry).
 
 from @klyluo, with love (i go back and forth between this being the best / worst thing i've ever written, but i could not separate myself from this year without these words i've written. maybe one day you'll see it again in a bound collection of essays.)
 
@@ -42,21 +53,23 @@ from @klyluo, with love (i go back and forth between this being the best / worst
 
 ## what i did
 
-I received multiple boarding passes, baked bread
+I received multiple boarding passes, baked 
 
 
 <br />
 
-## what i resolve
+## what i think about
 
 - sloughed-off ambition. as if i'd been paved over, flattened. 
+- **the prose voice:** I read my prose back to myself and hear it in my inner voice, and notice so much of my writing sounds the same these days. I don't know if this is evidence of style or stock. My words are arranged like stereoisomers: of equal constitutions, but reformed in spatial orientation. 
+- **letting go, allowing yourself to grow**. 
 
 
 <br />
 
 <br />
 
-### and onwards to the next
+## and onwards to the next
 
 Somehow I think writing this over a span of two months and a long afternoon was an unconsciously proactive attempt at evading nostalgia before it strikes; and writing this year in review was certainly less tumultuous than writing the one from the year before last. But I sense there's an unrealized mechanism of self-preservation at play here: if I don't make the conscious effort to concretize the hills and valleys of the last year, the sandstorm will blow through and flatten my memory into soft blurs of a pandemic purgatory. Maybe this will be how I prove to my future self that the current of change carried me through even as time stood still. It's so easy to forget so much, and these annualized diaristic tendencies keep the topography alive and wild. Over the next year, I'll capture everything else: what I thought, acquired, valued, and foresaw.
 

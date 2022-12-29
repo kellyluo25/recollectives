@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5a6d932237a4c9d8",
+        "id": "9ec5345f37bb3ec6",
         "type": "tabs",
         "children": [
           {
-            "id": "26c08086914479b9",
+            "id": "2fd1553c06a260da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "seasons mmxxii.md",
+                "file": "2022-12-29-seasons-twenty-two.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "seasons mmxxii.md",
+                "file": "2022-12-29-seasons-twenty-two.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +103,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "26c08086914479b9",
+  "active": "2fd1553c06a260da",
   "lastOpenFiles": [
-    "2021-12-30-seasons-twenty=one.md",
-    "2021-04-20-collections-005.md",
-    "2021-12-15-on-the-drive-down.md",
-    "2021-02-15-blog-turned-newsletter.md",
-    "2021-02-23-collections-002.md",
-    "2020-12-30-2020review.md",
-    "{{site.baseurl}}/images/seasons_twentyone.jpg.md",
-    "seasons mmxxii.md",
+    "2021-12-30-seasons-twenty-one.md",
+    "2022-12-29-seasons-twenty-two.md",
+    "days-360-past.md",
+    "knowing nothing, what's new.md",
+    "pastlife - 2022.md",
+    "spectral wounds.md",
     "observation deck.md",
-    "2022-12-22-my-true-love-gave-to-me.md"
+    "2022-12-22-my-true-love-gave-to-me.md",
+    "2022-12-17-collections-15.md",
+    "{{site.baseurl}}/images/seasons2022.jpg.md"
   ]
 }

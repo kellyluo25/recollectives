@@ -6,10 +6,6 @@ slug: seasons-twenty-one
 date:  2021-12-30
 categories:
   - seasons twenty
-
-
-
-
 ---
 
 ![seasons twenty-one]({{site.baseurl}}/images/seasons2021.jpg)

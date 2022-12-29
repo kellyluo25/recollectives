@@ -27,6 +27,9 @@ On this date.
 - **on saturday we're sad girls**
 
 - i find myself enraptured by the desolation of my own self-image
+  
+- on showing up: for every action, there is an equal and opposite reaction. For all inaction, there is overcompensation in the same direction.
+
 
   
 
