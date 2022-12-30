@@ -44,10 +44,8 @@ read @ [lighthouse](https://lighthouse.kellyluo.me/)
 
 It would not be another year at an end and a new year at the start if I did not lament how little writing I did compared to the quantity of writing I had sought out to do. The inconsistency looms large, as always (so many words I'm trying to get out; I wish they'd pour out of me). 
 
-Here are the things I wrote that I'm partial to:
-[not the marriage plot](https://blog.kellyluo.me/2022-09/not-the-marriage-plot) (long live the romance of it all); [this is the last time](https://blog.kellyluo.me/2022-11/this-is-the-last-time) (saying goodbye again) [ripe avocado, runny yolk, french batard](https://blog.kellyluo.me/2022-11/still-life-avocado-toast) (avocado toast, a still-life), [brainrot](https://blog.kellyluo.me/2022-11/brainrot) (altered brain chemistry).
-
-from @klyluo, with love (i go back and forth between this being the best / worst thing i've ever written, but i could not separate myself from this year without these words i've written. maybe one day you'll see it again in a bound collection of essays.)
+Here are the things I wrote that I'm most partial to:
+[not the marriage plot](https://blog.kellyluo.me/2022-09/not-the-marriage-plot) (long live the romance of it all); [this is the last time](https://blog.kellyluo.me/2022-11/this-is-the-last-time) (saying goodbye again) [ripe avocado, runny yolk, french batard](https://blog.kellyluo.me/2022-11/still-life-avocado-toast) (avocado toast, a still-life), [brainrot](https://blog.kellyluo.me/2022-11/brainrot) (brain chemistry, altered). *also*: [to @klyluo, with love](https://blog.kellyluo.me/2022-11/to-klyluo-with-love) (i go back and forth between this being the best / worst thing i've ever written, but i could not separate myself from this year without these words i've written. maybe one day you'll see it again in a bound collection of essays.)
 
 <br />
 
@@ -55,21 +53,18 @@ from @klyluo, with love (i go back and forth between this being the best / worst
 
 I received multiple boarding passes, baked 
 
+seasons. 
 
 <br />
 
-## what i think about
+## what i thought
 
 - sloughed-off ambition. as if i'd been paved over, flattened. 
-- **the prose voice:** I read my prose back to myself and hear it in my inner voice, and notice so much of my writing sounds the same these days. I don't know if this is evidence of style or stock. My words are arranged like stereoisomers: of equal constitutions, but reformed in spatial orientation. 
+- **prosaic voice:** I read my prose back to myself and notice so much of my writing sounds the same these days. I don't know if this is evidence of style *or* stock. My words are arranged like stereoisomers: of equal constitutions, but reformed in spatial orientation. I looked around and apparently these schemes are canonized as parataxis and hypotaxis and asyndeton. I want to try my hand at experimental forms again and let words roam like outgrowth. I want to surprise myself with structures and syntax; stop weeding the garden beds before they've sprouted. Perhaps even find more great sentences to steal. 
 - **letting go, allowing yourself to grow**. 
 
 
 <br />
-
 <br />
 
-## and onwards to the next
-
-Somehow I think writing this over a span of two months and a long afternoon was an unconsciously proactive attempt at evading nostalgia before it strikes; and writing this year in review was certainly less tumultuous than writing the one from the year before last. But I sense there's an unrealized mechanism of self-preservation at play here: if I don't make the conscious effort to concretize the hills and valleys of the last year, the sandstorm will blow through and flatten my memory into soft blurs of a pandemic purgatory. Maybe this will be how I prove to my future self that the current of change carried me through even as time stood still. It's so easy to forget so much, and these annualized diaristic tendencies keep the topography alive and wild. Over the next year, I'll capture everything else: what I thought, acquired, valued, and foresaw.
 

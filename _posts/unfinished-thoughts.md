@@ -70,11 +70,10 @@ I miss a beautiful internet. Consumerist creation.
 
 ## placecards
 - paris (we'll always have)
-- amsterdam
+- amsterdam (i'll go home to)
 
 
 ## this past week
-
 - **watched**: 
 - **read**:
 - **listened**:
