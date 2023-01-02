@@ -31,7 +31,7 @@ The late winter moulted into a warmer shape. Tasted wine in the valley, then tor
 ## summer
 ###### heat waves
 
-I commenced, a belated recreation of the real thing. Woke up at five in the morning for a promenade along Mt. Auburn. Dug my high heels in the dirt, black gown fluttering in the breeze. Took a reel of pictures for the family photo album, or the imitation of it. Maybe this is what it would have felt like when this meant everything. Patinas of attainment, I called it once. Don't know when I stopped searching for closure, two years late.
+I commenced, a belated recreation of the real thing. Woke up at five in the morning for a promenade along Mt. Auburn. Dug my high heels in the dirt, black gown fluttering in the breeze. Took a reel of pictures for the family photo album, or the imitation of it. My sparkling patina of achievement, attainment. Maybe this is what it would have felt like when this meant everything. Don't know when I stopped searching for closure, two years late.
 
 Plucked shells off a sandy beach along the sound. Nantucket nectar, clam chowder. I spent a year sweltering in ten cities, south of the border. Sunk my toes into the burning sand, a twinge of mottled seaweed in the air, let the warm ocean waves crest and fall over my ankles. Multitudes of tacos, churros, tequila cocktails. A car ride that never ended, and also missed a flight for good measure. Worked full days into early evenings, floated in a cenote. World wonders and sacred sanctuaries. 
 

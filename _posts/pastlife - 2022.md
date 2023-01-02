@@ -9,7 +9,7 @@ categories:
   - if they have past-lives
 ---
 
-I write this nearly eleven months after my last recapitulation, the life I lived last year. I've walked , on roads in different cities, countries even. 
+I write this nearly eleven months after my last recapitulation, the life I lived last year. I've walked twice as much this year compared to last year, on roads in different cities, countries even. 
 
 <br />
 
