@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-01-01-2022review.md",
+                "file": "observation deck.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01-01-2022review.md",
+                "file": "observation deck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "cd1520a33f3f9161",
   "lastOpenFiles": [
-    "2022-12-29-seasons-twenty-two.md",
+    "spectral wounds.md",
+    "unfinished-thoughts.md",
+    "pastlife - 2022.md",
     "2023-01-01-2022review.md",
+    "2022-12-29-seasons-twenty-two.md",
     "2021-12-31-2021review.md",
     "2022-01-21-pastlife-2021.md",
     "2020-12-30-2020review.md",
-    "pastlife - 2022.md",
     "where we worked.md",
-    "spectral wounds.md",
-    "unfinished-thoughts.md",
     "observation deck.md"
   ]
 }

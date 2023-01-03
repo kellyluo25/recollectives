@@ -25,9 +25,7 @@ In 2022, I watched sixteen seasons of television and fifteen films; read approxi
 
 My reading archive sat somewhat neglected this year (save for a few snowy afternoons in a cabin), but my queue is bountiful as ever. I read a few more contemporary novels and realized a generalized distaste for them. A mislike for matter-of-fact interior monologues that render a stark imitation of the real world on stoic, disconnected terms. I contrast this with the more fanciful writing I found my way back to, and remembering how good it can be. see: [words of worship](https://blog.kellyluo.me/2022-10/collections-014) (from no. 014, the electric shockwave of finding good writing). I've hardly read anything at all and at the same time I've read so much—upon hundreds of thousands of words—that I find myself daydreaming in ekphrasis.
 
-i went backwards in my reading history, and here are some words i wish i stole and wrote myself. i think of them on occasion, and fondly; they have been folded into me now.
-
-read @ [lighthouse](https://lighthouse.kellyluo.me/) 
+i went backwards in my reading history, and here are some words i wish i stole and wrote myself. i think of them on occasion, and fondly; they have been folded into me now. read @ [lighthouse](https://lighthouse.kellyluo.me/) 
 
 - the sequence is at once a terrifying vision and a harrowing memory; never revisited, it forms an invisible spine that connects the series’ two arcs *like ribs, curving out and around without touching*.
 - like the great mad women before me, i am spiralling into manic-depressive chaos in a way that i will inevitably romanticize regardless of its material consequences, and self-mythologizing until i can make that feel like a good thing. 
@@ -45,22 +43,24 @@ read @ [lighthouse](https://lighthouse.kellyluo.me/)
 It would not be another year at an end and a new year at the start if I did not lament how little writing I did compared to the quantity of writing I had sought out to do. The inconsistency looms large, as always (so many words I'm trying to get out; I wish they'd pour out of me). 
 
 Here are the things I wrote that I'm most partial to:
-[not the marriage plot](https://blog.kellyluo.me/2022-09/not-the-marriage-plot) (long live the romance of it all); [this is the last time](https://blog.kellyluo.me/2022-11/this-is-the-last-time) (saying goodbye again) [ripe avocado, runny yolk, french batard](https://blog.kellyluo.me/2022-11/still-life-avocado-toast) (avocado toast, a still-life), [brainrot](https://blog.kellyluo.me/2022-11/brainrot) (brain chemistry, altered). *also*: [to @klyluo, with love](https://blog.kellyluo.me/2022-11/to-klyluo-with-love) (i go back and forth between this being the best / worst thing i've ever written, but i could not separate myself from this year without these words i've written. maybe one day you'll see it again in a bound collection of essays.)
+[not the marriage plot](https://blog.kellyluo.me/2022-09/not-the-marriage-plot) (the romance of it all); [this is the last time](https://blog.kellyluo.me/2022-11/this-is-the-last-time) (saying goodbye again); [ripe avocado, runny yolk, french batard](https://blog.kellyluo.me/2022-11/still-life-avocado-toast) (avocado toast, a still-life), [won't you crack yourself open](https://blog.kellyluo.me/2022-12/crack-yourself-open) (crying on the subway); [brainrot](https://blog.kellyluo.me/2022-11/brainrot) (brain chemistry, altered). *also*: [to @klyluo, with love](https://blog.kellyluo.me/2022-11/to-klyluo-with-love) (i go back and forth between this being the best / worst thing i've ever written, but i could not separate myself from this year without these words i've written. maybe one day you'll see it again in a bound collection of essays.)
 
 <br />
 
 ## what i did
 
-I received multiple boarding passes, baked 
+I received multiple boarding passes, baked bread and blondies, and read into the dim hours of the night. 
 
-seasons. 
+[seasons 2022](https://blog.kellyluo.me/2022-12/seasons-twenty-two)
+
+
 
 <br />
 
 ## what i thought
 
 - sloughed-off ambition. as if i'd been paved over, flattened. 
-- **prosaic voice:** I read my prose back to myself and notice so much of my writing sounds the same these days. I don't know if this is evidence of style *or* stock. My words are arranged like stereoisomers: of equal constitutions, but reformed in spatial orientation. I looked around and apparently these schemes are canonized as parataxis and hypotaxis and asyndeton. I want to try my hand at experimental forms again and let words roam like outgrowth. I want to surprise myself with structures and syntax; stop weeding the garden beds before they've sprouted. Perhaps even find more great sentences to steal. 
+- **prosaic voice:** I read my prose back to myself and notice so much of my writing sounds the same these days. I don't know if this is evidence of style *or* stock. My words are arranged like stereoisomers: of equal constitutions, but reformed in spatial orientation. I looked around and apparently these schemes are canonized as parataxis and hypotaxis and asyndeton. I want to try my hand at experimental forms again and let words roam like outgrowth. I want to surprise myself with structures and syntax; stop weeding the garden beds before they've sprouted. Perhaps find even more great sentences to steal. 
 - **letting go, allowing yourself to grow**. 
 
 
