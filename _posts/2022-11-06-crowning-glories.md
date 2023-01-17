@@ -27,7 +27,7 @@ ascension. transference. empire / state. king-making.
 
 kings. queens. executives. robber-barons. 
 
-turning, churning, call it spokes on  a wheel. only one person stands at the helm (so much to gain, i suppose; nothing much to lose). craven. crown and chief; synecdoche. we are at loss for a cause, it appears. 
+turning, churning, call it spokes on  a wheel. only one person stands at the helm (so much to gain, i suppose; nothing much to lose). craven. crown and chief; metonymy. we are at loss for a cause, it appears. 
 
 
 <br />

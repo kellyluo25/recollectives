@@ -27,7 +27,7 @@ a mid-day stroll by the lakeside; dante froze his sinners in a lake, after all. 
 
 bundle your vulnerabilities beneath insulating layers, bare self sheltered under thermal shades of blacks and whites. whispers of winter nipping at your earlobes, without relent. a chill that creeps into your bones, rattling and howling, that won't ever shake out. is part of you now. a cold you remember. nests itself deep under your flesh, makes a new home for itself.
 
-winter is scarcity: a season that grants in stark majesty, but turns on its belly and reveals the  vorace of its appetite. insatiable, always starved. a sole individual as a beacon of warmth, for miles on desolate end. the radiant pulse of a ninety-eight degree body enveloped in a down puffer. the curl of a shaky breath lingers in the still air. the wind reaches out with desperation, licks at numb cheeks and chapped lips. wants, you provide (i*f only, you could keep it in*). 
+winter is scarcity: a season that grants in stark majesty, but turns on its belly and reveals the vorace of its appetite. insatiable, always starved. a sole individual as a beacon of warmth, for miles on desolate end. the radiant pulse of a ninety-eight degree body enveloped in a down puffer. the curl of a shaky breath lingers in the still air. the wind reaches out with desperation, licks at numb cheeks and chapped lips. wants, you provide (i*f only, you could keep it in*). 
 
 <br />
 
