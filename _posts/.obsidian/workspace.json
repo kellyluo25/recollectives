@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "is this seat taken.md",
+                "file": "2023-01-17-seat-taken.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "is this seat taken.md",
+                "file": "2023-01-17-seat-taken.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "is this seat taken.md",
+                "file": "2023-01-17-seat-taken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,17 +115,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cd1520a33f3f9161",
+  "active": "8a2584c1cf143801",
   "lastOpenFiles": [
+    "2023-01-16-pastlife-2022.md",
     "2022-11-18-bad-habits.md",
+    "2022-11-16-brainrot.md",
+    "2023-01-17-seat-taken.md",
     "2022-12-05-perma-frost.md",
-    "is this seat taken.md",
     "knowing nothing, what's new.md",
     "days-360-past.md",
     "where we worked.md",
     "unfinished-thoughts.md",
-    "spectral wounds.md",
-    "observation deck.md",
-    "2023-01-16-pastlife-2022.md"
+    "spectral wounds.md"
   ]
 }
