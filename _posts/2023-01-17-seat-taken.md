@@ -15,6 +15,6 @@ i could make myself smaller, but i worry that creates too much space for you. ta
 <br />
 
 
-###### new year, first fiction! 
+##### new year, first fiction! 
 non-goal for this year is to write more pretty bits of prose that don't mean anything. better here, in observance of evolving style, than treasure-kept by pen and paper.
 
