@@ -30,6 +30,7 @@ I think I made a lot of assumptions about myself, because I knew myself so thoro
 Solitude is a single fist. Closed in on itself; squeezing hard into nothingness. Uncut nails dug into palm flesh. 
 
 
+
 That insolvable intimacy of my fingers interlaced with yours. 
 
 
