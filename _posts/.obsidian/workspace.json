@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +116,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8a2584c1cf143801",
+  "active": "44202ec35c1a5abb",
   "lastOpenFiles": [
     "2023-01-16-pastlife-2022.md",
     "2022-11-18-bad-habits.md",
