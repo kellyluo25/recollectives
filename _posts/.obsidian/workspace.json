@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-01-17-seat-taken.md",
+                "file": "2022-11-11-this-is-the-last-time.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3e1e69485e795ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-01-28-vault-tracks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d92b000b04fd8b1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-01-28-vault-tracks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10afeef1a1e3fdf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-01-28-vault-tracks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -90,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01-17-seat-taken.md",
+                "file": "2023-01-28-vault-tracks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,17 +152,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "44202ec35c1a5abb",
+  "active": "10afeef1a1e3fdf1",
   "lastOpenFiles": [
-    "2023-01-16-pastlife-2022.md",
-    "2022-11-18-bad-habits.md",
-    "2022-11-16-brainrot.md",
     "2023-01-17-seat-taken.md",
-    "2022-12-05-perma-frost.md",
-    "knowing nothing, what's new.md",
-    "days-360-past.md",
+    "2023-01-28-vault-tracks.md",
     "where we worked.md",
+    "observation deck.md",
+    "days-360-past.md",
+    "knowing nothing, what's new.md",
+    "2023-01-16-pastlife-2022.md",
     "unfinished-thoughts.md",
-    "spectral wounds.md"
+    "spectral wounds.md",
+    "retro-synthetic.md"
   ]
 }
