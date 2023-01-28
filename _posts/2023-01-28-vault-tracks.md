@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "vault tracks"
@@ -7,7 +6,7 @@ slug: vault-tracks
 date: 2023-01-28
 categories:
   - interregnums
-
+  - now playing
 ---
 
 Vault tracks are a vision of the archives, a restoration of an appreciated artifact. Songs make it onto the cutting room floor and never further. The finished album is released, this perfect container of a sonically complete thought, and nobody ever asks what happened to those that never made it. They are locked away in the vault, deprived. Eventually, some of these tracks emerge from the shadows as a b-side or re-recording bonus track or internet leak. They are not a nostalgic forgery; this is the real thing (or, *could* have been the real thing; as close as it can get). Sounds that are so redolent of, yet removed from a certain time. Evocative of an era, but elided from its definition. 
