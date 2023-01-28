@@ -3,7 +3,7 @@ layout: post
 title: "is this seat taken?"
 published: true
 slug: is-this-seat-taken
-date:  2023-01-17
+date: 2023-01-17
 categories:
   - interregnums
 ---
