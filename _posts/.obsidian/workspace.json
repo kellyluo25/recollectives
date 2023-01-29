@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "422d8650d5a7cf78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-01-28-vault-tracks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,17 +164,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "10afeef1a1e3fdf1",
+  "active": "422d8650d5a7cf78",
   "lastOpenFiles": [
-    "2023-01-17-seat-taken.md",
+    "collections no. 016.md",
+    "knowing nothing, what's new.md",
+    "chirality.md",
     "2023-01-28-vault-tracks.md",
+    "2022-11-09-bloodsports and-others.md",
+    "2022-12-17-collections-15.md",
+    "2023-01-17-seat-taken.md",
     "where we worked.md",
     "observation deck.md",
-    "days-360-past.md",
-    "knowing nothing, what's new.md",
-    "2023-01-16-pastlife-2022.md",
-    "unfinished-thoughts.md",
-    "spectral wounds.md",
-    "retro-synthetic.md"
+    "days-360-past.md"
   ]
 }
