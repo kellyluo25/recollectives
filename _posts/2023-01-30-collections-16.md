@@ -17,7 +17,7 @@ This (modified) collection is a writing exercise, just combinations of words tha
 ### **bruised** **banks**
 ###### i had blood drawn and watched a bruise form in my inner elbow and it made me think about the most delicate, accessible parts of the human body. now playing: "bruises" by chairlift
 
-to be bruised from within. lumps of words, crawling to carve out spaces where they shouldn't exist, where there was no room to begin with. lodged within and malformed. impaled. vicious mortal spear. i fear we have been made to see inside ourselves. impress upon it, tightened grip. tender blossoms beg for a bouquet arrangement. (not to be confused with the following: an ache, a wound, a scab)
+to be bruised from within. lumps of words, crawling to carve out spaces where they shouldn't exist, where there was no room to begin with. lodged within and malformed. impaled. vicious mortal spear. i fear we have been made to see inside ourselves. impress upon it, punishing grip. tender blossoms beg for a bouquet arrangement. (not to be confused with the following: an ache, a wound, a scab)
 
 
 
