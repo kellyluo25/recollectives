@@ -8,7 +8,7 @@ categories:
   - collections
 ---
 
-I've been taking long walks and drafting stupid little pretty bits of prose that don't really mean anything. When I read, I'll also jot down little phrases I find stunning—low-voltage shocks to the system that make me stop in my tracks and reach for my notebook to record in deference, in awe that someone had concocted this exact elixir of language—and then I'll return to them as a font of borrowed inspiration. These are the working cogs of my interiority now: turning over words and pairing them with others until something clicks and I find the low hum of a satisfactory rhythm. Poor-person's poetry.
+I've been taking long walks and drafting stupid little pretty bits of prose that don't really mean anything. When I read, I'll also jot down excerpts I find stunning—low-voltage shocks to the system that make me stop in my tracks and reach for my notebook to record in deference, in awe that someone had concocted this exact elixir of language—and then I'll return to them as a font of borrowed inspiration. These are the working cogs of my interiority now: turning over words and pairing them with others until something clicks and I locate the low hum of a satisfactory rhythm. Poor-person's poetry.
 
 This (modified) collection is a writing exercise, just combinations of words that I think are pretty. In the way this triteness has been claimed by those before me. Call them literary darlings we should've killed long ago, but we've all written some version of: **bruises**, **salt**, the **sun**. 
 
