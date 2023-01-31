@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "collections — no. 016"
