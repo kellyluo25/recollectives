@@ -38,6 +38,6 @@ you do not thank the sun. for what it offers, freely; for what it may take.
 
 
 ### saltlick
-###### *sometimes i read things like "xyz smells of salt" and i'm like what does that even mean*
+###### *sometimes i read things like "xyz smells of salt" and i'm like what does that even mean*?
 
 smells like salt. salt in the air, in the water. so much of it, everywhere, always. coarse, rustic. leftover from the last, after the sun lifted the brine from the seas. born from lack. concentrated from the source as bitterness made volatile. find it: saltwater hair, salt-crust skin. trickle-down tears. taste it too, familiar on the tongue. sharp and steely. in the wilds, not unlike a doe-eyed deer drawn to the bedrock. needy, necessary.

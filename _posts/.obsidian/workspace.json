@@ -8,91 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd1520a33f3f9161",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-01-17-seat-taken.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44202ec35c1a5abb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11-11-this-is-the-last-time.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3e1e69485e795ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-01-28-vault-tracks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d92b000b04fd8b1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-01-28-vault-tracks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10afeef1a1e3fdf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-01-28-vault-tracks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "422d8650d5a7cf78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-01-30-collections-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6684184f0002b963",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-01-30-collections-16.md",
+                "file": "knowing nothing, what's new.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fb867755e8a4ad5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "imperfect loves.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e21df0d3d2bac29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-02-04-milky-teeth.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.00000190734863
+    "width": 257.00152587890625
   },
   "right": {
     "id": "e458455caf295df4",
@@ -150,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01-30-collections-16.md",
+                "file": "2023-02-04-milky-teeth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +110,17 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e76a5bca5e11f252",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -176,17 +139,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6684184f0002b963",
+  "active": "6e21df0d3d2bac29",
   "lastOpenFiles": [
-    "2022-12-17-collections-15.md",
-    "2023-01-30-collections-16.md",
-    "2023-01-28-vault-tracks.md",
     "2023-01-17-seat-taken.md",
-    "knowing nothing, what's new.md",
-    "chirality.md",
-    "2022-11-09-bloodsports and-others.md",
-    "where we worked.md",
-    "observation deck.md",
-    "days-360-past.md"
+    "2023-01-16-pastlife-2022.md",
+    "2023-02-04-milky-teeth.md",
+    "2023-01-30-collections-16.md",
+    "2022-11-18-bad-habits.md",
+    "2022-12-05-perma-frost.md",
+    "2022-12-16-crack-yourself-open.md",
+    "2022-12-17-collections-15.md",
+    "2022-12-22-my-true-love-gave-to-me.md",
+    "2022-12-29-seasons-twenty-two.md"
   ]
 }
