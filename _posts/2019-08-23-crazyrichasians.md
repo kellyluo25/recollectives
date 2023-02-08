@@ -3,6 +3,7 @@ layout: post
 title: how long can a meteor fly for?
 modified: 2013-05-31T00:00:00.000Z
 slug: crazy rich and asian
+published: false
 date: 2019-08-23T04:08:00.000Z
 categories:
   - culture shifts
@@ -11,6 +12,7 @@ categories:
 > “What about us taking an adventure east?” <br /> “Like Queens?” <br /> <br /> — Crazy Rich Asians, dir. John Chu
 
 I thought I knew what kind of film Crazy Rich Asians would be.
+
 When Crazy Rich Asians hit theatres a year ago on August 15th, 2018, I anticipated it would make a modest splash at the box office and linger at a middling, splotchy green Rotten Tomatoes approval rating. The estimated $20 million opening weekend prediction would soon fizzle out. Headlines would praise its ambition, lush visuals, and breakout performances, but universally pan its trite romance and paper-thin villains. We would forget about the film as quickly as it came — and I really, truly hoped I was wrong. Even then, I would have watched it and loved it and celebrated it every step of the way.
 
 One year later, I am so glad to say I was wrong.
