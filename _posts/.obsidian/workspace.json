@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "imperfect loves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e21df0d3d2bac29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unfinished-thoughts.md",
+                "file": "2023-02-04-milky-teeth.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unfinished-thoughts.md",
+                "file": "2023-02-04-milky-teeth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +127,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6e21df0d3d2bac29",
+  "active": "9fb867755e8a4ad5",
   "lastOpenFiles": [
+    "2022-02-20-collections-011.md",
+    "2022-06-24-collections-13.md",
+    "2023-02-04-milky-teeth.md",
+    "imperfect loves.md",
+    "unfinished-thoughts.md",
     "2019-08-23-crazyrichasians.md",
     "2020-01-01-2019review.md",
     "2019-08-24-toallthe.md",
-    "unfinished-thoughts.md",
     "retro-synthetic.md",
-    "spectral wounds.md",
-    "imperfect loves.md",
-    "knowing nothing, what's new.md",
-    "where we worked.md",
-    "observation deck.md"
+    "spectral wounds.md"
   ]
 }
