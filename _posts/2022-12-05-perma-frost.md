@@ -9,7 +9,7 @@ categories:
   - interregnums
 ---
 
-at temperatures below zero c[[2022-11-18-bad-habits]]elsius for years twice-over, grounds preserve as permanent frost. a collage of sediment and biomass deposits over time. the shock-still of a landscape, once humming and breathing, rendered inert. like robert frost—clings, hangs, occasionally bites beyond the apocalypse. some slow death, protracted in the snow.
+at temperatures below zero celsius for years twice-over, grounds preserve as permanent frost. a collage of sediment and biomass deposits over time. the shock-still of a landscape, once humming and breathing, rendered inert. like robert frost—clings, hangs, occasionally bites beyond the apocalypse. some slow death, protracted in the snow.
 
 <br/>
 
