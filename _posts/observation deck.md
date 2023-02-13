@@ -23,7 +23,7 @@ There's a scene early in the first season of *The Crown,* where King George is s
 
 - kneeling to wife/family/devotion
 - kneeling out of duty
-- rankles against the box of 
+- rankles against the boxes of expectation
 
 
 The 1975 is on tour. This quote by Geeta Patel about House of the Dragon. 

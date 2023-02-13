@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-02-04-milky-teeth.md",
+                "file": "days-360-past.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e70eff43cb3187a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-02-12-civilization-cradle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-02-04-milky-teeth.md",
+                "file": "2023-02-12-civilization-cradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +139,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9fb867755e8a4ad5",
+  "active": "e70eff43cb3187a2",
   "lastOpenFiles": [
-    "2022-02-20-collections-011.md",
-    "2022-06-24-collections-13.md",
     "2023-02-04-milky-teeth.md",
-    "imperfect loves.md",
-    "unfinished-thoughts.md",
-    "2019-08-23-crazyrichasians.md",
+    "2023-02-12-civilization-cradle.md",
+    "2023-01-28-vault-tracks.md",
+    "2022-12-16-crack-yourself-open.md",
+    "2022-11-12-american-brittle.md",
+    "2023-01-30-collections-16.md",
+    "days-360-past.md",
+    "2023-01-17-seat-taken.md",
     "2020-01-01-2019review.md",
-    "2019-08-24-toallthe.md",
-    "retro-synthetic.md",
-    "spectral wounds.md"
+    "where we worked.md"
   ]
 }
