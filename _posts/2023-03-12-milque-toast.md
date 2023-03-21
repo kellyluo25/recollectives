@@ -8,7 +8,7 @@ categories:
   - interregnums
 ---
 
-toast is best enjoyed: 
+**toast is best enjoyed**: 
 - exposed, caramelized in a convection oven. some, but not too much color. golden. maillard as an act of love. 
 - in the mornings, with a pot of honeyed tea.
 - fresh seasonal strawberries, lush whipped cream. crust cut off, halved into triangles. 
