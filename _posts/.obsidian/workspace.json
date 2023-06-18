@@ -85,14 +85,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-03-03-saved-spaces.md",
+                "file": "unfinished-thoughts.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bda03a021da4eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chirality.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab5e5e07191e6c84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-06-17-what-the-day-assumes.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -129,6 +153,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "9438a8565dad96ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -150,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-03-03-saved-spaces.md",
+                "file": "2023-06-17-what-the-day-assumes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,24 +219,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6044de1472120f6d",
+  "active": "ab5e5e07191e6c84",
   "lastOpenFiles": [
     "2023-03-12-milque-toast.md",
-    "2023-03-03-saved-spaces.md",
-    "where we worked.md",
+    "2023-06-17-what-the-day-assumes.md",
     "unfinished-thoughts.md",
-    "spectral wounds.md",
     "retro-synthetic.md",
     "observation deck.md",
-    "imperfect loves.md",
+    "where we worked.md",
+    "spectral wounds.md",
     "mourning song; or sad slow heartbreak.md",
     "knowing nothing, what's new.md",
+    "imperfect loves.md",
+    "hunting season.md",
     "hope-flush, rose blush.md",
-    "days-360-past.md",
-    "chirality.md",
-    "2023-02-12-civilization-cradle.md",
-    "2023-02-04-milky-teeth.md",
+    "2022-11-18-bad-habits.md",
     "2023-01-30-collections-16.md",
-    "2022-12-05-perma-frost.md"
+    "2023-02-04-milky-teeth.md",
+    "2023-02-12-civilization-cradle.md",
+    "days-360-past.md",
+    "2022-06-04-collections-012.md",
+    "2022-06-24-collections-13.md",
+    "2022-09-18-not-the-marriage-plot.md",
+    "2022-09-28-before-the-fall.md",
+    "2022-10-10-collections-14.md",
+    "2022-10-24-midnights-and-when-sleep-could-not-find-us.md",
+    "2022-10-29-restless-and-chaotic.md",
+    "2022-11-07-avo-toast.md",
+    "2022-11-06-crowning-glories.md"
   ]
 }
