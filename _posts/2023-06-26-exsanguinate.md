@@ -19,6 +19,9 @@ incoherent; words roll off the tongue, but it's all wrong. bent out of shape, ma
 this is a bloodless thing. pink drains from her face. 
 
 <!--more-->
+<br />
+<br />
+<br />
 
 "hey. sorry to keep you waiting." looks down at his phone screen. verifies the stopwatch has started, that a few seconds have elapsed into the call. veritable signs it is real.
 
@@ -28,7 +31,9 @@ this is a bloodless thing. pink drains from her face.
 
 "are you okay?" asks about risk of physical injury, but not really. not what she wants to know. 
 
-... 
+<br />
+<br />
+<br />
 
 "i wonder if they'll miss me." doesn't have a long telephone cord to wind over her fingers. wishes she had the indents tightly-coiled spirals. settles for twisting the fabric of her skirt instead. gathers them in the small of her palm, swirls, lets the folds loose. 
 
@@ -40,7 +45,9 @@ this is a bloodless thing. pink drains from her face.
 
 "we don't like to lose what belongs to us." lost an earring two weeks ago, a sock in the last load of laundry. her sanity is a deadline, due next week. her belongings.
 
-...
+<br />
+<br />
+<br />
 
 "i think i should go to sleep. sleep would be good." muffled yawn. conversation rolling to a natural end, squeaks to a halt.
 
