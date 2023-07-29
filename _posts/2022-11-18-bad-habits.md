@@ -14,7 +14,9 @@ why do we insist on knowing the worst in people, to plunge ourselves in their mu
 
 lose yourself to find yourself; can't lose what's never been lost. as if you've always known. at a distant precipice, you'll remark that you missed this. the current of homecoming roars so close to the skeleton, nearly marrow. 
 
-<br />
+<!--more-->
+
+<br /> 
 
 ###### now playing: "bad religion" 52 times this past week
 this is what becomes of a looping spotify playlist. i saw a tweet about how twenty-something girls are writing about self-discovery on subtstack; but sometimes twenty-something girls just want to write some devastatingly unfocused prose and publish it on main.

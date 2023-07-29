@@ -8,7 +8,7 @@ categories:
   - interregnums
 ---
 
-###### here's a little experiment mixing dialogue with script stage direction. meant to evoke those cut scenes in films where characters have hours-long distance conversation spliced into a few spare minutes. there's a sparseness to it.
+###### here's experimental fiction mixing dialogue with script stage direction. meant to evoke those cut scenes in films where characters have hours-long distance conversation spliced into a few spare minutes. there's a sparseness to it.
 
 <br />
 
@@ -23,7 +23,7 @@ this is a bloodless thing. pink drains from her face.
 <br />
 <br />
 
-"hey. sorry to keep you waiting." looks down at his phone screen. verifies the stopwatch has started, that a few seconds have elapsed into the call. veritable signs it is real.
+"hi. sorry to keep you waiting." looks down at his phone screen. verifies the stopwatch has started, that a few seconds have elapsed into the call. veritable signs it is real.
 
 "don't worry about it." she worries about it still. says one thing, but a natural liar. modern conversations are a waiting game, goods waiting for an expiration date. timestamps to signal a mutually agreed-upon ending. 
 
