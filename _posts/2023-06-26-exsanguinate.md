@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "exsanguinate (voice notes)"
+title: exsanguinate (voice notes)
 published: true
 slug: exsanguinate
 date: 2023-06-26
