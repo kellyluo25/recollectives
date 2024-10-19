@@ -23,3 +23,4 @@ During the pandemic, locked away in the tower of my childhood bedroom, I spent m
 
 My Barbies are all gone now. Donated to a younger cousin across the Pacific who probably doesn't quite grasp the treasures she has in her possession. I owned four, all gifted by my aunts, and I had a stack ranking of my favorites based on how wieldy their hair was. I named them at some point, then kept changing the names because the monikers never stuck.
 
+

@@ -9,7 +9,7 @@ categories:
   - listful thinking
 ---
 
-###### **dream things for a dream house, year 2023
+###### dream things for a dream house, year 2023
 
 Making my life materially better.
 
