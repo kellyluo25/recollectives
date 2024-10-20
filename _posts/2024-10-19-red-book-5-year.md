@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ran you through with red
-published: false
+published: true
 slug: red-book-5
 date: 2024-10-18
 categories:
@@ -20,7 +20,7 @@ All I do is remix memory; the seasons have always been my time-keeper.
 
 
 
-2021 · The long, limbic hibernation ended. Got a boarding pass in seat 15C, settled into a park-side apartment. The fog rolled in. Rearranged cheap furniture, put up familiar postcards on a white wall. Peeled those same postcards off a dorm room wall, once. Ordered dinner (indoors, finally) with different people, different nights. The hills came alive. Stood solitary on an ocean cliffside, and (*spoiler*) this moment gets retold as an origin story. 
+2021 · The long, limbic hibernation ended. Carried a boarding pass to seat 15C, settled into a park-side apartment. The fog rolled in. Rearranged cheap furniture, put up familiar postcards on a white wall. Peeled those same postcards off a dorm room wall, once. Ordered dinner (indoors, finally) with different people, different nights. The hills came alive. Stood solitary on a cliffside, and (*spoiler*) this moment is later retold as an origin story. 
 
 
 
@@ -32,21 +32,19 @@ I'd loved where I'd worked; then one autumn evening, it wasn't where I worked an
 
 
 
-2023 · Bought a one-way trans-pacific flight. Asiatic dispatches—ate voraciously, prayed little, loved fully. The camera roll remembers what I can't: white sand, rice terraces, artificial waterfalls; amber skies, staircase hikes, favorite olives. 
+2023 · Bought a one-way trans-pacific flight. Asiatic dispatches—ate voraciously, prayed little, loved fully. The camera roll remembers what I can't: white sand, rice terraces, artificial waterfalls; amber skies, staircase hikes, favorite olives. Then, a three-week rail pass: in gorges, in alps, in tandem.
 
-Three-week rail pass. The summer I turned.
+The summer I turned ( , , ).
 
 A crucible for molten personhood. I was so eager to make myself anew, but had never sculped without a reference image. I had been spilled out from a jar, tipped over and poured out, and heaved myself in half-hearted attempts at new forms. A formlessness that made me question if I only ever knew how to take the shape of my containers.
 
 
 
-2024 · Letting go allows you to grow, I've said aloud enough times to believe it in the bones of me too. I trust that what matters, whatever stays, will stick.
+2024 · I am governed now by concentric rhythms. Work late, field trip at sunset, flee to the mountains; repeat. An interlude: cut open on health's demand. Late to listening to the clockwork—steady, insistent—finding the greatest joy in the things that make me tick. Started saving places to return to, tucking them away for safe-keeping. 
 
-I am governed now by concentric rhythms. Work late, field trip at sunset, flee to the mountains; repeat. An interlude: cut open on health's demand. Finding the greatest joy in the things that make me tick. Saving places to return to, mapping places 
-
-
+Letting go allows you to grow, I've said aloud enough times to believe it in the bones of me too. I trust that what matters, whatever stays, will stick.
 
 
 
-—san francisco, california. saturday 10pm.
+—san francisco, california. 10pm.
 
