@@ -17,8 +17,6 @@ there is an esteemed, crimson-stained tradition submitting to the **red book**. 
 
 All I do is remix memory; the seasons have always been my time-keeper.
 
-<br /> 
-
 <!--more--> 
 
 <br /> 
