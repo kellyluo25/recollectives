@@ -35,4 +35,4 @@ separately, boil a pot of water. salt generously. add pasta, the curlier the bet
 
 complete with a generous drizzle of olive oil, extra virgin. shake of red pepper flakes. small snow of parmesan. soup spoon.
 
-**to eat:** drink.
+**to eat:** drink. devour. return for seconds.
