@@ -22,6 +22,46 @@
             }
           },
           {
+            "id": "36c9d1e0102d0b5b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
+            "id": "0309e31d3f085787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-1-11-cruciferi-winter.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-1-11-cruciferi-winter"
+            }
+          },
+          {
+            "id": "ef3c3ee0d5a39194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-1-11-cruciferi-winter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-1-11-cruciferi-winter"
+            }
+          },
+          {
             "id": "dd2e3c588e9d0d4b",
             "type": "leaf",
             "state": {
@@ -49,7 +89,8 @@
               "title": "2023-01-16-pastlife-2022"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -173,36 +214,41 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "templates:Insert template": false
     }
   },
-  "active": "7902f4cf81bddeca",
+  "active": "ef3c3ee0d5a39194",
   "lastOpenFiles": [
-    "2023-12-29-exsanguinate-reprise.md",
     "2024-10-19-red-book-5-year.md",
+    "knowing nothing, what's new.md",
     "2024-06-16-pastlife-2023.md",
+    "2025-1-11-cruciferi-winter.md",
+    "hope-flush, rose blush.md",
+    "retro-synthetic.md",
+    "observation deck.md",
     "unfinished-thoughts.md",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.md",
+    "2023-12-29-exsanguinate-reprise.md",
+    "2023-12-27-the-best-things.md",
+    "chirality.md",
     "when the sun came up.md",
     "spectral wounds.md",
-    "observation deck.md",
     "miss americana (barbie's version).md",
     "imperfect loves.md",
-    "hope-flush, rose blush.md",
     "days-360-past.md",
-    "chirality.md",
     "2020-07-23-red-book.md",
     "2022-01-21-pastlife-2021.md",
     "2022-01-23-collections-009.md",
     "2021-12-15-on-the-drive-down.md",
     "2021-12-30-seasons-twenty-one.md",
     "2021-12-31-2021review.md",
-    "2023-12-27-the-best-things.md",
     "2022-02-02-collections-010.md",
     "2022-06-04-collections-012.md",
-    "2022-06-24-collections-13.md",
-    "2022-09-18-not-the-marriage-plot.md",
-    "2022-09-28-before-the-fall.md",
-    "2022-10-10-collections-14.md",
-    "2022-10-24-midnights-and-when-sleep-could-not-find-us.md"
+    "2022-06-24-collections-13.md"
   ]
 }

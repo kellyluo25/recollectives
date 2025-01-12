@@ -6,5 +6,6 @@
   "strictLineBreaks": true,
   "spellcheck": true,
   "promptDelete": false,
-  "showIndentGuide": false
+  "showIndentGuide": false,
+  "showRibbon": false
 }
