@@ -10,7 +10,7 @@ categories:
 ---
 ###### dream things for a dream house, year 2023
 
-<﻿br />
+<br /> 
 
 Making my life materially better.
 
